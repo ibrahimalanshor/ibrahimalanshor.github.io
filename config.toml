@@ -1,0 +1,5 @@
+baseURL = 'http://ibrahimalanshor.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
