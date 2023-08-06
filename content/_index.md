@@ -15,15 +15,11 @@ Di perusahaan, saya membantu mengembangkan aplikasi seperti ERP, Platform Toko O
 
 Saya juga aktif menulis artikel seputar pemrograman di [sysym.dev](sysym.dev).
 
-Saya mengenyam pendidikan S1 Informatika di Universitas Teknologi Yogyakarta
-
 Beberapa teknologi yang biasa saya gunakan:
 
 - HTML, CSS, Tailwind, Vue, Nuxt
 - Node Js, PHP, Express JS, Adonis, Nest JS, Laravel
 - MySQL, MongoDB, Redis, Elastic
-- Kafka
-- Airflow, Logstash
 - Git
 - Linux and Docker
 
