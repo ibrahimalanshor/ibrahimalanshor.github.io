@@ -13,7 +13,7 @@ Sejak 2019 saya mulai belajar coding, dan sejak 2021 hingga saat ini saya bekerj
 
 Di perusahaan, saya membantu mengembangkan aplikasi seperti ERP, Platform Toko Online, Portal Berita, Aplikasi Kearsipan, Landing Page, dsb.
 
-Saya juga aktif menulis artikel seputar pemrograman di [sysym.dev](sysym.dev).
+Saya juga aktif menulis artikel seputar pemrograman di [sysym.dev](https://sysym.dev).
 
 Beberapa teknologi yang biasa saya gunakan:
 
