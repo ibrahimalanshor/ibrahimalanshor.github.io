@@ -28,7 +28,7 @@ Saya terbuka untuk kerja sama, hubungi saya di tautan berikut:
 - Email : [ibrahimalanshor6@gmail.com](mailto:ibrahimalanshor6@gmail.com) / [info@sysym.dev](mailto:info@sysym.dev)
 - Web : [ibrahimalanshor.github.io](https://ibrahimalanshor.github.io) / [sysym.dev](https://sysym.dev)
 - Github : [ibrahimalanshor](https://github.com/ibrahimalanshor) / [sysym-dev](https://github.com/sysym-dev)
-- Youtube : [sysym-dev](https://youtube.com/sysym-dev)
-- Facebook : [sysym-dev](https://facebook.com/sysym-dev)
-- Twitter : [sysym-dev](https://twitter.com/sysym-dev)
-- Instagram : [sysym-dev](https://instagram.com/sysym-dev)
+- Facebook : [sysym-dev](https://facebook.com/sysym.dev)
+- Twitter : [sysym-dev](https://twitter.com/sysym_dev)
+<!-- - Instagram : [sysym-dev](https://instagram.com/sysym-dev) -->
+<!-- - Youtube : [sysym-dev](https://youtube.com/sysym-dev) -->
