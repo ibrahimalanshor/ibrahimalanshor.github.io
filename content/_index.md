@@ -1,27 +1,28 @@
 ---
 title: Ibrahim Al Anshor
-description: Saya adalah seorang web developer, dan pegiat linux.
+description: Saya adalah seorang web developer.
 ---
 
 Tentang Saya
 
 # Ibrahim Al Anshor
 
-Saya adalah seorang web developer, dan pegiat linux.
+Saya adalah seorang web developer.
 
-Sejak 2019 saya mulai belajar coding, dan sejak 2021 hingga saat ini saya bekerja sebagai developer di beberapa perusahaan.
+Mulai belajar programming pada 2019, mulai bekerja sebagai web developer pada 2021 hingga saat ini di beberapa perusahaan.
 
-Di perusahaan, saya membantu mengembangkan aplikasi seperti ERP, Platform Toko Online, Portal Berita, Aplikasi Kearsipan, Landing Page, dsb.
+Di perusahaan tempat saya bekerja, saya membantu mengembangkan beragam aplikasi seperti ERP, Aplikasi Kearsipan, Sistem Audit, Platform Toko Online, Portal Berita, Landing Page, dsb.
 
-Saya juga aktif menulis artikel seputar pemrograman di [sysym.dev](https://sysym.dev).
+Saya aktif menulis artikel seputar pemrograman di [sysym.dev](https://sysym.dev).
 
 Beberapa teknologi yang biasa saya gunakan:
 
+- Javascript, Typescript, PHP
 - HTML, CSS, Tailwind, Vue, Nuxt
-- Node Js, PHP, Express JS, Adonis, Nest JS, Laravel
-- MySQL, MongoDB, Redis, Elastic
+- Node Js, Express JS, Adonis, Nest JS, Laravel
+- MySQL, MongoDB, PostgreSQL, Redis, Elastic
 - Git
-- Linux and Docker
+- Linux, Docker
 
 Saya terbuka untuk kerja sama, hubungi saya di tautan berikut:
 
