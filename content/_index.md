@@ -7,22 +7,37 @@ Tentang Saya
 
 # Ibrahim Al Anshor
 
-Saya adalah seorang web developer.
+Saya seorang full-stack web developer, juga aktif menulis di [__sysym.dev__](https://sysym.dev), juga mahasiswa __Informatika__ di Universitas Teknologi Yogyakarta.
 
-Mulai belajar programming pada 2019, mulai bekerja sebagai web developer pada 2021 hingga saat ini di beberapa perusahaan.
+Berikut teknologi yang biasa saya gunakan:
 
-Di perusahaan tempat saya bekerja, saya membantu mengembangkan beragam aplikasi seperti ERP, Aplikasi Kearsipan, Sistem Audit, Platform Toko Online, Portal Berita, Landing Page, dsb.
+- Javascript, Typescript, HTML, CSS
+- Vue, Nuxt, Tailwind
+- PHP, Node Js
+- Laravel, Express Js, Adonis Js, Nest Js
+- MySQL, MongoDB
+- Docker, Git, Linux
 
-Saya aktif menulis artikel seputar pemrograman di [sysym.dev](https://sysym.dev).
+Berikut riwayat pekerjaan saya:
 
-Beberapa teknologi yang biasa saya gunakan:
+-   __2022 Juli - Sekarang__
 
-- Javascript, Typescript, PHP
-- HTML, CSS, Tailwind, Vue, Nuxt
-- Node Js, Express JS, Adonis, Nest JS, Laravel
-- MySQL, MongoDB, PostgreSQL, Redis, Elastic
-- Git
-- Linux, Docker
+    Bekerja di __Prioritas Web Teknologi (Yogyakarta)__ sebagai full-stack web developer.
+
+    - Mengembangkan sistem audit
+    - Mengembangkan aplikasi ERP
+    - Mengembangkan aplikasi landing page
+    - Vue, Nuxt, Laravel, Json API, Tailwind, MySQL
+-   __2022 Januari sd 2023 Juli__
+
+    Bekerja di __KIAB (Banjarnegara)__ sebagai full-stack web developer.
+
+    - Mengembangkan aplikasi E-Commerce
+    - Mengembangkan aplikasi scraping mutasi rekening bank
+    - Vue, Laravel, Express Js, Puppeteer, Redis, MongoDB
+-   __2019__
+    
+    __Freelance__, mengerjakan proyek kecil-kecilan.
 
 Saya terbuka untuk kerja sama, hubungi saya di tautan berikut:
 
@@ -31,5 +46,6 @@ Saya terbuka untuk kerja sama, hubungi saya di tautan berikut:
 - Github : [ibrahimalanshor](https://github.com/ibrahimalanshor) / [sysym-dev](https://github.com/sysym-dev)
 - Facebook : [sysym-dev](https://facebook.com/sysym.dev)
 - Twitter : [sysym-dev](https://twitter.com/sysym_dev)
+- Linkedin : [ibrahimalanshor](https://www.linkedin.com/in/ibrahimalanshor)
 <!-- - Instagram : [sysym-dev](https://instagram.com/sysym-dev) -->
 <!-- - Youtube : [sysym-dev](https://youtube.com/sysym-dev) -->
