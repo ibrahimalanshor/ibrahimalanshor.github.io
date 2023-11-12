@@ -16,7 +16,7 @@ Berikut teknologi yang biasa saya gunakan:
 - PHP, Node Js
 - Laravel, Express Js, Adonis Js, Nest Js
 - MySQL, MongoDB
-- Docker, Git, Linux
+- Docker, Git, Linux, WebSocket
 
 Berikut riwayat pekerjaan saya:
 
@@ -24,17 +24,19 @@ Berikut riwayat pekerjaan saya:
 
     Bekerja di __Prioritas Web Teknologi (Yogyakarta)__ sebagai full-stack web developer.
 
-    - Mengembangkan sistem audit
-    - Mengembangkan aplikasi ERP
-    - Mengembangkan aplikasi landing page
-    - Vue, Nuxt, Laravel, Json API, Tailwind, MySQL
--   __2022 Januari sd 2023 Juli__
+    - Mengembangkan website sistem audit menggunakan Vue
+    - Mengembangkan aplikasi ERP menggunakan Laravel dan Vue
+    - Mengembangkan beberapa website landing page menggunakan Vue dan Nuxt
+    - Integrasi Service di API Gateway Kong
+    - Vue, Nuxt, Laravel, Json API, Tailwind, MySQL, Kong
+-   __2022 Januari sd 2022 Juli__
 
     Bekerja di __KIAB (Banjarnegara)__ sebagai full-stack web developer.
 
-    - Mengembangkan aplikasi E-Commerce
-    - Mengembangkan aplikasi scraping mutasi rekening bank
-    - Vue, Laravel, Express Js, Puppeteer, Redis, MongoDB
+    - Mengembangkan backend service untuk aplikasi E-Commerce menggunakan Node JS
+    - Mengembangkan scraping service mutasi rekening bank menggunakan Puppeteer
+    - Mengembangkan website integrasi scraping real time menggunakan Vue dan WebSocket
+    - Vue, Laravel, Express Js, Puppeteer, Redis, MongoDB, WebSocket
 -   __2019__
     
     __Freelance__, mengerjakan proyek kecil-kecilan.
