@@ -7,7 +7,7 @@ Tentang Saya
 
 # Ibrahim Al Anshor
 
-Saya seorang full-stack web developer, juga aktif menulis di [__sysym.dev__](https://sysym.dev), juga mahasiswa __Informatika__ di Universitas Teknologi Yogyakarta.
+Saya seorang full-stack web developer, aktif menulis di [__sysym.dev__](https://sysym.dev) dan mahasiswa __Informatika__ di Universitas Teknologi Yogyakarta.
 
 Berikut teknologi yang biasa saya gunakan:
 
@@ -18,28 +18,54 @@ Berikut teknologi yang biasa saya gunakan:
 - MySQL, MongoDB
 - Docker, Git, Linux, WebSocket
 
-Berikut riwayat pekerjaan saya:
+## Riwayat Pekerjaan
 
 -   __2022 Juli - Sekarang__
 
     Bekerja di __Prioritas Web Teknologi (Yogyakarta)__ sebagai full-stack web developer.
 
-    - Mengembangkan website sistem audit menggunakan Vue
-    - Mengembangkan aplikasi ERP menggunakan Laravel dan Vue
-    - Mengembangkan beberapa website landing page menggunakan Vue dan Nuxt
-    - Integrasi Service di API Gateway Kong
-    - Vue, Nuxt, Laravel, Json API, Tailwind, MySQL, Kong
+    Mengerjakan beberapa proyek:
+
+    - Sistem audit instansi menggunakan Laravel dan Vue
+    - ERP menggunakan Laravel dan Vue
+    - Sistem penjualan tiket acara menggunakan Laravel dan Vue
+    - Chatbot AI untuk produk-produk pada di suatu perusahaan menggunakan OpenAI API, Laravel dan Vue  
+    - Sistem customer service menggunakan Whatsapp Cloud API, Laravel dan Vue
+    - Landing page dan berita menggunakan Vue dan Nuxt
+    
+    Teknologi yang digunakan:
+
+    - Vue, Nuxt, Laravel, JSON API, Tailwind, MySQL, OpenAI API, Whatsapp Cloud API
+
 -   __2022 Januari sd 2022 Juli__
 
     Bekerja di __KIAB (Banjarnegara)__ sebagai full-stack web developer.
 
-    - Mengembangkan backend service untuk aplikasi E-Commerce menggunakan Node JS
-    - Mengembangkan scraping service mutasi rekening bank menggunakan Puppeteer
-    - Mengembangkan website integrasi scraping real time menggunakan Vue dan WebSocket
+    Mengerjakan beberapa proyek:
+
+    - Backend service untuk aplikasi E-Commerce menggunakan Node JS
+    - Scraping service mutasi rekening bank menggunakan Puppeteer
+    - Website integrasi scraping real time menggunakan Vue dan WebSocket
+
+    Teknologi yang digunakan:
+
     - Vue, Laravel, Express Js, Puppeteer, Redis, MongoDB, WebSocket
+
 -   __2019__
     
     __Freelance__, mengerjakan proyek kecil-kecilan.
+
+## Proyek pribadi
+
+Proyek pribadi kecil-kecilan.
+
+- https://sysym.dev - Coding Tips And Article
+- https://qurandigital.online - Al-Quran Web
+- https://ibrahimalanshor.github.io/curl-command-builder - Curl Command Builder
+- https://sysym-dev.github.io/countdown - Simple Web Countdown
+- https://sysym-dev.github.io/todo - Simple Web Todo App
+
+## Hubungi Saya
 
 Saya terbuka untuk kerja sama, hubungi saya di tautan berikut:
 
