@@ -20,7 +20,7 @@ Berikut teknologi yang biasa saya gunakan:
 
 ## Riwayat Pekerjaan
 
--   __2022 Juli - Sekarang__
+-   __2022 Juli sd Sekarang__
 
     Bekerja di __Prioritas Web Teknologi (Yogyakarta)__ sebagai full-stack web developer.
 
@@ -28,8 +28,8 @@ Berikut teknologi yang biasa saya gunakan:
 
     - Sistem audit instansi menggunakan Laravel dan Vue
     - ERP menggunakan Laravel dan Vue
-    - Sistem penjualan tiket acara menggunakan Laravel dan Vue
-    - Chatbot AI untuk produk-produk pada di suatu perusahaan menggunakan OpenAI API, Laravel dan Vue  
+    - Sistem penjualan tiket menggunakan Laravel dan Vue
+    - Chatbot AI untuk katalog produk menggunakan OpenAI API, Laravel dan Vue  
     - Sistem customer service menggunakan Whatsapp Cloud API, Laravel dan Vue
     - Landing page dan berita menggunakan Vue dan Nuxt
     
