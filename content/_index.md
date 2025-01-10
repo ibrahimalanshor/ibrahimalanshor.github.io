@@ -22,7 +22,7 @@ Berikut teknologi yang biasa saya gunakan:
 
 -   __2022 Juli sd Sekarang__
 
-    Bekerja di __Prioritas Web Teknologi (Yogyakarta)__ sebagai full-stack web developer.
+    Bekerja di __Prioritas Web Teknologi (Yogyakarta)__ sebagai __full-stack web developer__.
 
     Mengerjakan beberapa proyek:
 
@@ -39,7 +39,7 @@ Berikut teknologi yang biasa saya gunakan:
 
 -   __2022 Januari sd 2022 Juli__
 
-    Bekerja di __KIAB (Banjarnegara)__ sebagai full-stack web developer.
+    Bekerja di __KIAB (Banjarnegara)__ sebagai __full-stack web developer__.
 
     Mengerjakan beberapa proyek:
 
@@ -59,11 +59,13 @@ Berikut teknologi yang biasa saya gunakan:
 
 Proyek pribadi kecil-kecilan.
 
-- https://sysym.dev - Coding Tips And Article
 - https://qurandigital.online - Al-Quran Web
-- https://ibrahimalanshor.github.io/curl-command-builder - Curl Command Builder
+- https://sysym.dev - Coding Tips And Article
+- https://teknogain.com - Jasa Pembuatan Website Profesional
+- https://sysym.dev/todo - Simple Web Todo App
+- https://sysym.dev/1001-tools - Free Online Tools for Everyday Tasks
 - https://sysym-dev.github.io/countdown - Simple Web Countdown
-- https://sysym-dev.github.io/todo - Simple Web Todo App
+- https://ibrahimalanshor.github.io/curl-command-builder - Curl Command Builder
 
 ## Hubungi Saya
 
