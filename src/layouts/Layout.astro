@@ -2,12 +2,42 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/favicon/site.webmanifest">
+		<link rel="sitemap" href="/sitemap-index.xml" />
+		<link rel="canonical" href="https://ibrahimalanshor.github.io" />
+		
+		<!-- SEO Meta Tags -->
+		<title>Ibrahim Al Anshor - Full-stack Web Developer</title>
+		<meta name="google-site-verification" content="uQGWsE1AvnXlD-gvyTzOv7sMh7vZH7pSuZctArIi3Ws" />
+		<meta name="description" content="Portofolio Ibrahim Al Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
+		<meta name="keywords" content="Ibrahim Al Anshor, web developer, full-stack, portfolio, API, website real-time, website SPA, Vue.js, Laravel, Express.js, Nuxt.js" />
+		<meta name="author" content="Ibrahim Al Anshor" />
+		<meta property="og:title" content="Ibrahim Al Anshor - Full-stack Web Developer" />
+		<meta property="og:description" content="Portofolio Ibrahim Al Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://ibrahimalanshor.github.io" />
+		<meta property="og:image" content="https://ibrahimalanshor.github.io/banner.jpg" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Ibrahim Al Anshor - Full-stack Web Developer" />
+		<meta name="twitter:description" content="Portofolio Ibrahim Al Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
+		<meta name="twitter:image" content="https://ibrahimalanshor.github.io/banner.jpg" />
+		<meta name="twitter:creator" content="@novicelayman" />
+		
+		<!-- Google Fonts Preconnect -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+	</head>	
+	<body class="bg-neutral-900 py-8 font-serif sm:py-20">
+		<main class="bg-white max-w-screen-md mx-auto py-8 px-4 md:p-16 lg:p-20">
+			<article class="prose prose-neutral md:prose-lg mx-auto">
+				<slot />
+			</article>
+		</main>
 	</body>
 </html>
