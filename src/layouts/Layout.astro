@@ -34,6 +34,9 @@
 		<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
 	</head>	
 	<body class="bg-neutral-900 py-8 font-serif sm:py-20">
+		<div class="flex justify-end text-white px-4 mb-2 max-w-screen-md mx-auto sm:px-0">
+			<a href={Astro.props.translateTo}>{Astro.props.translateTo === '/en' ? '🇬🇧' : '🇮🇩'}</a>
+		</div>
 		<main class="bg-white max-w-screen-md mx-auto py-8 px-4 md:p-16 lg:p-20">
 			<article class="prose prose-neutral md:prose-lg mx-auto">
 				<slot />
