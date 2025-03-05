@@ -8,5 +8,9 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), sitemap()],
-  site: 'https://ibrahimalanshor.github.io'
+  site: 'https://ibrahimalanshor.github.io',
+  i18n: {
+    locales: ['en', 'id'],
+    defaultLocale: 'id'
+  }
 });
