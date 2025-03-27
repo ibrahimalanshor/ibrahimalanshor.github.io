@@ -1,11 +1,204 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import Layout from "../layouts/Layout.astro";
+import { Icon } from 'astro-icon/components'
 ---
 
 <Layout>
-	<Welcome />
+  <nav
+    class="bg-white"
+  >
+    <div class="max-w-screen-lg mx-auto px-6">
+      <div class="flex h-16 items-center justify-between">
+        <a href="#" class="text-xl font-semibold"
+          >Ibrahim al-Anshor</a
+        >
+        <div class="hidden space-x-8 md:flex">
+          <a href="#tech" class="text-gray-600 hover:text-gray-900">Tech Stack</a>
+          <a href="#experience" class="text-gray-600 hover:text-gray-900"
+            >Experience</a
+          >
+          <a href="#projects" class="text-gray-600 hover:text-gray-900"
+            >Projects</a
+          >
+          <a href="#reviews" class="text-gray-600 hover:text-gray-900">Reviews</a>
+          <a href="#contact" class="text-gray-600 hover:text-gray-900">Contact</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="mx-auto max-w-screen-lg px-6 space-y-20 py-24">
+    <section>
+      <h1 class="mb-6 text-5xl font-bold">Hi, I'm Ibrahim 👋</h1>
+      <p class="text-xl mb-6 text-gray-600 leading-relaxed">
+        Senior Software Engineer specializing in building exceptional digital
+        experiences. Currently focused on building accessible, human-centered
+        products.
+      </p>
+      <div class="flex gap-4">
+        <Icon name="skill-icons:javascript" size="40" />
+        <Icon name="skill-icons:php-light" size="40" />
+        <Icon name="skill-icons:laravel-light" size="40" />
+        <Icon name="skill-icons:vuejs-light" size="40" />
+        <Icon name="skill-icons:docker" size="40" />
+        <Icon name="skill-icons:linux-light" size="40" />
+        <Icon name="skill-icons:tailwindcss-light" size="40" />
+        <Icon name="skill-icons:mysql-light" size="40" />
+      </div>
+    </section>
+
+    <section id="experience">
+      <h2 class="text-3xl font-bold mb-8">Work Experience</h2>
+      <div class="space-y-6">
+        <div class="rounded-lg border border-gray-200 p-6">
+          <div class="mb-4 flex items-start justify-between">
+            <div>
+              <h3 class="text-xl font-semibold">Senior Software Engineer</h3>
+              <p class="text-gray-600">Google</p>
+            </div>
+            <span class="text-gray-500">2020 - Present</span>
+          </div>
+          <p class="text-gray-600">
+            Led development of core features for Google Cloud Platform,
+            improving system performance by 40%. Mentored junior developers
+            and implemented best practices.
+          </p>
+        </div>
+        <div class="rounded-lg border border-gray-200 p-6">
+          <div class="mb-4 flex items-start justify-between">
+            <div>
+              <h3 class="text-xl font-semibold">Software Engineer</h3>
+              <p class="text-gray-600">Microsoft</p>
+            </div>
+            <span class="text-gray-500">2018 - 2020</span>
+          </div>
+          <p class="text-gray-600">
+            Developed and maintained key features for Microsoft Azure,
+            focusing on cloud infrastructure and deployment automation.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects">
+      <h2 class="mb-8 text-3xl font-bold">Featured Projects</h2>
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+        <div class="p-6 border border-gray-200 rounded-lg space-y-4">
+          <img
+            src="https://picsum.photos/seed/400/400"
+            alt="Project 1"
+            class="h-48 w-full object-cover object-top rounded-md"
+          />
+          <div>
+            <h3 class="mb-2 text-xl font-semibold">
+              Cloud Analytics Dashboard
+            </h3>
+            <p class="mb-4 text-gray-600">
+              Real-time analytics dashboard built with React and D3.js,
+              processing over 1M data points daily.
+            </p>
+            <div class="flex space-x-2">
+              <span class="rounded-full bg-gray-200 px-3 py-1 text-sm"
+                >React</span
+              >
+              <span class="rounded-full bg-gray-200 px-3 py-1 text-sm"
+                >D3.js</span
+              >
+              <span class="rounded-full bg-gray-200 px-3 py-1 text-sm"
+                >AWS</span
+              >
+            </div>
+          </div>
+        </div>
+        <div class="p-6 border border-gray-200 rounded-lg space-y-4">
+          <img
+            src="https://picsum.photos/seed/400/400"
+            alt="Project 2"
+            class="h-48 w-full object-cover object-top rounded-md"
+          />
+          <div>
+            <h3 class="mb-2 text-xl font-semibold">E-commerce Platform</h3>
+            <p class="mb-4 text-gray-600">
+              Full-stack e-commerce solution with real-time inventory
+              management and payment processing.
+            </p>
+            <div class="flex space-x-2">
+              <span class="rounded-full bg-gray-200 px-3 py-1 text-sm"
+                >Node.js</span
+              >
+              <span class="rounded-full bg-gray-200 px-3 py-1 text-sm"
+                >MongoDB</span
+              >
+              <span class="rounded-full bg-gray-200 px-3 py-1 text-sm"
+                >Stripe</span
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="reviews">
+      <h2 class="mb-8 text-3xl font-bold">Client Reviews</h2>
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+        <div class="rounded-lg p-6 border border-gray-200">
+          <div class="mb-2">
+            <h3 class="font-semibold">Sarah Johnson</h3>
+            <p class="text-gray-600">Product Manager at Amazon</p>
+          </div>
+          <p class="text-gray-600">
+            "John is an exceptional developer who consistently delivers
+            high-quality work. His attention to detail and problem-solving
+            skills are outstanding."
+          </p>
+        </div>
+        <div class="rounded-lg p-6 border border-gray-200">
+          <div class="mb-2">
+            <h3 class="font-semibold">Michael Chen</h3>
+            <p class="text-gray-600">CTO at TechStart</p>
+          </div>
+          <p class="text-gray-600">
+            "Working with John was a pleasure. He brought innovative solutions
+            to our project and delivered ahead of schedule."
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contacts">
+      <h2 class="mb-8 text-3xl font-bold">Contacts</h2>
+  
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+        <div class="rounded-lg p-6 border border-gray-200 flex gap-4">
+          <Icon name="mdi:gmail" size="36" class="mb-4" />
+          <div>
+            <p>Email</p>
+            <p class="font-semibold text-lg break-all">ibrahimalanshor6@gmail.com</p>
+          </div>
+        </div>
+        <div class="rounded-lg p-6 border border-gray-200 flex gap-4">
+          <Icon name="mdi:github" size="36" class="mb-4" />
+          <div>
+            <p>Github</p>
+            <p class="font-semibold text-lg">ibrahimalanshor</p>
+          </div>
+        </div>
+        <div class="rounded-lg p-6 border border-gray-200 flex gap-4">
+          <Icon name="mdi:twitter" size="36" class="mb-4" />
+          <div>
+            <p>X</p>
+            <p class="font-semibold text-lg">ibrahimalanshor</p>
+          </div>
+        </div>
+        <div class="rounded-lg p-6 border border-gray-200 flex gap-4">
+          <Icon name="mdi:facebook" size="36" class="mb-4" />
+          <div>
+            <p>Facebook</p>
+            <p class="font-semibold text-lg">ibrahimalanshor</p>
+          </div>
+        </div>
+      </div>
+  </section>
+  
+  </main>
 </Layout>
