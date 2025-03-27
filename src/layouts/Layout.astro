@@ -1,3 +1,7 @@
+---
+import { Icon } from 'astro-icon/components'
+---
+
 <!doctype html>
 <html lang="en">
 	<head>
@@ -12,19 +16,19 @@
 		<link rel="canonical" href="https://ibrahimalanshor.github.io" />
 		
 		<!-- SEO Meta Tags -->
-		<title>Ibrahim Al Anshor - Full-stack Web Developer</title>
+		<title>Ibrahim Al-Anshor - Full-stack Web Developer</title>
 		<meta name="google-site-verification" content="uQGWsE1AvnXlD-gvyTzOv7sMh7vZH7pSuZctArIi3Ws" />
-		<meta name="description" content="Portofolio Ibrahim Al Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
-		<meta name="keywords" content="Ibrahim Al Anshor, web developer, full-stack, portfolio, API, website real-time, website SPA, Vue.js, Laravel, Express.js, Nuxt.js" />
-		<meta name="author" content="Ibrahim Al Anshor" />
-		<meta property="og:title" content="Ibrahim Al Anshor - Full-stack Web Developer" />
-		<meta property="og:description" content="Portofolio Ibrahim Al Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
+		<meta name="description" content="Portofolio Ibrahim Al-Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
+		<meta name="keywords" content="Ibrahim Al-Anshor, web developer, full-stack, portfolio, API, website real-time, website SPA, Vue.js, Laravel, Express.js, Nuxt.js" />
+		<meta name="author" content="Ibrahim Al-Anshor" />
+		<meta property="og:title" content="Ibrahim Al-Anshor - Full-stack Web Developer" />
+		<meta property="og:description" content="Portofolio Ibrahim Al-Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="https://ibrahimalanshor.github.io" />
 		<meta property="og:image" content="https://ibrahimalanshor.github.io/banner.jpg" />
 		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="Ibrahim Al Anshor - Full-stack Web Developer" />
-		<meta name="twitter:description" content="Portofolio Ibrahim Al Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
+		<meta name="twitter:title" content="Ibrahim Al-Anshor - Full-stack Web Developer" />
+		<meta name="twitter:description" content="Portofolio Ibrahim Al-Anshor, Full-stack Web Developer yang berpengalaman dalam membangun aplikasi berbasis API, website real-time, website interaktif, dan SPA." />
 		<meta name="twitter:image" content="https://ibrahimalanshor.github.io/banner.jpg" />
 		<meta name="twitter:creator" content="@novicelayman" />
 		
@@ -35,7 +39,7 @@
 	</head>	
 	<body class="bg-neutral-900 py-8 font-serif sm:py-20">
 		<div class="flex justify-end text-white px-4 mb-2 max-w-screen-md mx-auto sm:px-0">
-			<a href={Astro.props.translateTo}>{Astro.props.translateTo === '/en' ? '🇬🇧' : '🇮🇩'}</a>
+			<a href={Astro.props.translateTo}>{Astro.props.translateTo === '/en' ? <Icon name="twemoji:flag-united-kingdom" /> : <Icon name="twemoji:flag-indonesia" />}</a>
 		</div>
 		<main class="bg-white max-w-screen-md mx-auto py-8 px-4 md:p-16 lg:p-20">
 			<article class="prose prose-neutral md:prose-lg mx-auto">
