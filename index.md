@@ -7,15 +7,25 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi, saya seorang web developer yang berpengalaman dalam membangun berbagai jenis website. Dalam pengembangan website, saya terbiasa menggunakan `Laravel` dan `MySQL` untuk backend serta `Vue` dan `Tailwind CSS` untuk frontend.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+## Pengalaman Kerja
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Saya memulai karier pada awal tahun 2022 sebagai [**Front-End Web Developer**](/) di CV Karya Inovasi Anak Bangsa, Banjarnegara. Selama setengah tahun bekerja di sana, saya berkontribusi dalam proyek-proyek klien seperti pembuatan scraping dan API untuk data keuangan, serta pengembangan dashboard website untuk integrasi data dari API keuangan.
 
-PS: If you liked the theme, do star it on GitHub!
+Setelah itu, saya melanjutkan karier sebagai [**Front-End Web Developer**](/) di PT Prioritas Web Teknologi, Yogyakarta. Saya terlibat dalam berbagai proyek perusahaan seperti portal berita instansi, sistem audit kearsipan, dan sistem ERP.
 
-### Also, check out:
+Pada pertengahan Juli 2023, saya dipercaya untuk mengisi posisi [**Fullstack Developer**](/). Dalam peran ini, saya tidak hanya menangani pengembangan frontend untuk sistem ERP, tetapi juga membangun API untuk mendukung sistem ERP dan sistem audit kearsipan.
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+Saat ini, saya masih bekerja di PT Prioritas Web Teknologi sebagai [**Fullstack Developer**](/). Saya terus mengembangkan kemampuan dalam pengembangan web, khususnya di sisi backend, untuk mengoptimalkan performa sistem dan kualitas data.
+
+## Blog
+
+Saya biasa menulis blog seputar catatan teknis dan berbagi pengalaman di beberapa platform berikut:
+
+- [Substack @ibrahimalanshor](su)
+- [Medium @ibrahimalanshor](su)
+
+## Hubungi Saya
+
+Anda bisa menghubungi saya melalui email di [ibrahimalanshor6@gmail.com](mailto:ibrahimalanshor6@gmail.com). Saya juga aktif di X dengan akun [@ibrahiminx](https://x.com/ibrahiminx).
