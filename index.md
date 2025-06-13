@@ -3,7 +3,7 @@ layout: about
 permalink: /  
 profile:  
   align: right  
-  image: me.png  
+  image: profile.png  
 published: true  
 ---
 
@@ -28,4 +28,6 @@ Saya menulis catatan teknis dan membagikan pengalaman melalui:
 
 ## Hubungi Saya
 
-Silakan hubungi saya melalui email di [ibrahimalanshor6@gmail.com](mailto:ibrahimalanshor6@gmail.com) atau melalui X (Twitter) di [@ibrahiminx](https://x.com/ibrahiminx).
+- Email: [ibrahimalanshor6@gmail.com](mailto:ibrahimalanshor6@gmail.com)  
+- LinkedIn: [linkedin.com/in/ibrahimalanshor](https://www.linkedin.com/in/ibrahimalanshor)  
+- X (Twitter): [@ibrahiminx](https://x.com/ibrahiminx)
