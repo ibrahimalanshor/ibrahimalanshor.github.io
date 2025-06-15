@@ -5,7 +5,7 @@ tagline: Website Developer
 description: Halo! Saya adalah seorang web developer dengan pengalaman dalam membangun berbagai jenis website menggunakan Laravel dan Vue.js.
 
 baseurl: "" #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://ibrahimalanshor.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Social media links in footer
