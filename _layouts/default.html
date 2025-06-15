@@ -1,5 +1,5 @@
 ---
-# layout: compress
+layout: compress
 ---
 <!DOCTYPE html>
 <html>
@@ -8,11 +8,6 @@
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1" name="viewport">
         <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
-
-        <h1 class="post-headline">{{site.title}}</h1>
-        <h3 class="post-description">{{site.description}}</h3>
-
-        {% include navigation.html %}
 
         {% seo %}
 
@@ -24,6 +19,13 @@
     </head>
 
     <body>
+        <header>
+            <h1 class="post-headline">{{site.title}}</h1>
+            <p class="post-tagline">{{site.tagline}}</p>
+
+            {% include navigation.html %}
+        </header>
+
         <main>
             <article>
                 {{ content }}
