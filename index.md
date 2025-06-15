@@ -3,7 +3,8 @@ layout: about
 permalink: /  
 profile:  
   align: right  
-  image: profile.png  
+  image: profile.png
+  alt: Ibrahim Al Anshor  
 published: true  
 ---
 
