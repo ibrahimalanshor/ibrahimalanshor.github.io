@@ -1,4 +1,17 @@
 <div class="links scroll">
-        <a href="{{site.baseurl}}/">Linkedin</a>
-        <a href="{{site.baseurl}}/archive/">Github</a>
+        {%- if site.linkedin -%}
+        <a title="LinkedIn"
+        href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
+        target="_blank">
+        Linkedin
+        </a>
+        {%- endif -%}
+
+        {%- if site.github -%}
+        <a title="GitHub"
+        href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
+        target="_blank">
+        Github
+        </a>
+        {%- endif -%}
 </div>
