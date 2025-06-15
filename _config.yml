@@ -1,27 +1,18 @@
 ### your site title here
 
 title: Ibrahim Al Anshor
-description: Website Developer
+tagline: Website Developer
+description: Halo! Saya adalah seorang web developer dengan pengalaman dalam membangun berbagai jenis website menggunakan Laravel dan Vue.js.
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
-
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+linkedin: "ibrahimalanshor"
+github: "ibrahimalanshor"
+instagram: "ibrahimalanshor"
+twitter: "ibrahiminx"
 
 # Markdown
 highlighter: rouge
@@ -41,19 +32,6 @@ compress_html:
   profile: false
   startings: []
 
-#collection
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
-
 sass:
   sass_dir: /assets/css/_sass
   style: compressed
@@ -70,11 +48,7 @@ plugins:
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
+  - jekyll-sitemap
 
 webmaster_verifications:
-  google: 1234
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234
-  facebook: 1234
+  google: uQGWsE1AvnXlD-gvyTzOv7sMh7vZH7pSuZctArIi3Ws
