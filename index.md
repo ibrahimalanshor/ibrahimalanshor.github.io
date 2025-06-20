@@ -24,6 +24,7 @@ Saat ini, saya masih aktif bekerja di PT Prioritas Web Teknologi, dan terus meng
 
 Saya menulis catatan teknis dan membagikan pengalaman melalui:
 
+* [Dev.to – @ibrahimalanshor](https://dev.to/ibrahimalanshor)
 * [Substack – Ibrahim Al Anshor](https://substack.com/@ibrahimalanshor)  
 * [Medium – @ibrahimalanshor](https://medium.com/@ibrahimalanshor)
 
