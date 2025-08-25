@@ -12,7 +12,7 @@ Halo! Saya adalah seorang web developer dengan pengalaman dalam membangun berbag
 
 ## Pengalaman Kerja
 
-Saya memulai karier profesional pada awal 2022 sebagai [**Front-End Web Developer**](https://www.w3schools.com/whatis/whatis_frontenddev.asp) di CV Karya Inovasi Anak Bangsa, Banjarnegara. Di sana, saya terlibat dalam pengembangan website monitoring transaksi keuangan dan mengembangkan admiin panel e-commerce.
+Saya memulai karier profesional pada awal 2022 sebagai [**Front-End Web Developer**](https://www.w3schools.com/whatis/whatis_frontenddev.asp) di CV Karya Inovasi Anak Bangsa, Banjarnegara. Di sana, saya terlibat dalam pengembangan website monitoring transaksi keuangan dan mengembangkan admin panel e-commerce.
 
 Pada Juli 2022, saya bergabung dengan PT Prioritas Web Teknologi di Yogyakarta sebagai [**Front-End Web Developer**](https://www.w3schools.com/whatis/whatis_frontenddev.asp). Di sana, saya mengerjakan berbagai proyek seperti portal berita instansi, sistem audit kearsipan, dan sistem ERP.
 
