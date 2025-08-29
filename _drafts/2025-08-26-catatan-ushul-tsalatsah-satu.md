@@ -19,13 +19,20 @@ Setiap manusia wajib memelajari empat masalah:
 
 Ilmu yang wajib dipelajari adalah ilmu syar'i, yaitu:
 
-1. Mengenal Allah dengan hati yang menuntut untuk menerima apa yang Allah syariatkan, tunduk serta taat kepadanya.
-2. Mengenal Nabi-Nya, yaitu Nabi Muhammad, pengenalan yang menuntut untuk menerima apa yang Nabi bawa berupa petunjuk dan agama yang benar, membenarkannya apa yang Nabi kabarkan, dan melaksanakan apa yang Nabi perintahkan.
+1. Mengenal Allah ﷻ dengan hati yang menuntut untuk menerima apa yang telah Allah syariatkan, tunduk serta taat kepadanya.
+2. Mengenal Nabi-Nya, yaitu Nabi Muhammad ﷺ dengan menerima apa yang Nabi bawa berupa petunjuk dan agama yang benar, membenarkannya apa yang Nabi kabarkan, dan melaksanakan apa yang Nabi perintahkan.
 3. Mengenal Islam, Islam secara umum maknanya adalah beribadah kepada Allah dengan apa yang telah Allah syariatkan sejak Allah mengutus para Rasul hingga hari kiamat.
 
 Tiga ilmu tersebut adalah *fitnah kubur*, yaitu pertanyaan yang akan ditanyakan di alam kubur.
 
+Mempelajari ilmu wajib dengan dalil, dalil adalah apa yang memberikan petunjuk kepada apa yang dicari. Dalil ada 2 macam:
+
+1. Dalil sam'iyyah: Al-Quran dan Hadis.
+2. Dalil 'aqliyyah: Dengan akal.
+
 ### Masalah Kedua : Beramal dengan Ilmu
+
+Beramal dengan ilmu adalah konsekuensi dari memelajari ilmu di atas, yaitu beriman dan taat kepada Allah ﷻ.
 
 Ilmu yang sudah dipelajari tapi tidak diamalkan dapat menjadi sebab seseorang disiksa di dalam neraka pada hari kiamat.
 
@@ -35,7 +42,7 @@ Ilmu yang sudah dipelajari tapi tidak diamalkan dapat menjadi sebab seseorang di
 
 *Pada hari kiamat akan dihadirkan seseorang yang kemudian dia dilempar ke dalam neraka, isi perutnya keluar dan terburai hingga dia berputar-putar bagaikan seekor keledai yang berputar-putar menarik mesin gilingnya. Maka penduduk neraka berkumpul mengelilinginya seraya berkata; "Wahai fulan, apa yang terjadi denganmu? Bukankah kamu dahulu orang yang memerintahkan kami berbuat ma'ruf dan melarang kami berbuat munkar?". Orang itu berkata; "Aku memang memerintahkan kalian agar berbuat ma'ruf tapi aku sendiri tidak melaksanakannya dan melarang kalian berbuat munkar, namun malah aku mengerjakannya".* (HR. Bukhari, no. 3267)
 
-Mengamalkan ilmu akan diberikan taufik oleh Allah pada ilmu-ilmu lainnya.
+Mengamalkan ilmu akan diberikan taufik oleh Allah ﷻ pada ilmu-ilmu lainnya.
 
 <p dir="rtl" lang="ar">
 وَالَّذِيْنَ اهْتَدَوْا زَادَهُمْ هُدًى وَّاٰتٰىهُمْ تَقْوٰىهُمْ
@@ -43,7 +50,7 @@ Mengamalkan ilmu akan diberikan taufik oleh Allah pada ilmu-ilmu lainnya.
 
 *Dan orang-orang yang mau menerima petunjuk, Allah menambah petunjuk kepada mereka dan memberikan balasan ketakwaannya.* (QS. Muhammad: 17)
 
-Doa Nabi Muhammad supaya dijauhkan dari ilmu yang tidak bermanfaat:
+Doa Nabi Muhammad ﷺ supaya dijauhkan dari ilmu yang tidak bermanfaat:
 
 <p dir="rtl" lang="ar">
 اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلاَهَا اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ دَعْوَةٍ لاَ يُسْتَجَابُ لَهَا
