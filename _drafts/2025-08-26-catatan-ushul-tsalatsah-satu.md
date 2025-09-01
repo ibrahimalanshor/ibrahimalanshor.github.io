@@ -58,6 +58,10 @@ Doa Nabi Muhammad ﷺ supaya dijauhkan dari ilmu yang tidak bermanfaat:
 
 _Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelemahan, kemalasan, kekikiran, pikun dan azab kubur. Ya Allah, berikan jiwaku ini ketakwaan, sucikan ia, Engkaulah sebaik-baik yang mensucikannya, Engkaulah penolongnya dan pemiliknya. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak berguna dan dari hati yang tidak khusyu dan dari jiwa yang tidak pernah puas dan dari do’a yang tidak dikabulkan._ (HR. Muslim, no. 2722)
 
+### Masalah Kedua : Berdakwah kepada Ilmu
+
+ولا بد لهذه الدعوة من علم بشريعة الله حتى تكون الدعوة عن علم و بصيرة
+
 ---
 
 Dalil empat masalah di atas adalah Firman Allah dalam surah al-Asr: 1-3:
