@@ -56,11 +56,17 @@ Doa Nabi Muhammad ﷺ supaya dijauhkan dari ilmu yang tidak bermanfaat:
 اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلاَهَا اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ دَعْوَةٍ لاَ يُسْتَجَابُ لَهَا
 </p>
 
-_Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelemahan, kemalasan, kekikiran, pikun dan azab kubur. Ya Allah, berikan jiwaku ini ketakwaan, sucikan ia, Engkaulah sebaik-baik yang mensucikannya, Engkaulah penolongnya dan pemiliknya. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak berguna dan dari hati yang tidak khusyu dan dari jiwa yang tidak pernah puas dan dari do’a yang tidak dikabulkan._ (HR. Muslim, no. 2722)
+*Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelemahan, kemalasan, kekikiran, pikun dan azab kubur. Ya Allah, berikan jiwaku ini ketakwaan, sucikan ia, Engkaulah sebaik-baik yang mensucikannya, Engkaulah penolongnya dan pemiliknya. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak berguna dan dari hati yang tidak khusyu dan dari jiwa yang tidak pernah puas dan dari do’a yang tidak dikabulkan.* (HR. Muslim, no. 2722)
 
 ### Masalah Kedua : Berdakwah kepada Ilmu
 
-ولا بد لهذه الدعوة من علم بشريعة الله حتى تكون الدعوة عن علم و بصيرة
+Berdakwah harus berdasarkan ilmu tentang syariat Allah ﷻ agar dakwah itu berlangsung tentang ilmu dan pemahaman yang mendalam.
+
+<p dir="rtl" lang="ar">
+قُلْ هَذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ عَلَى بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ 
+</p>
+
+*Katakanlah (Muhammad), "Inilah jalanku, aku dan orang-orang yang mengikutiku mengajak (kamu) kepada Allah berlandaskan ilmu, Mahasuci Allah, dan aku tidak termasuk orang-orang musyrik."* (QS. Yusuf: 108)
 
 ---
 
