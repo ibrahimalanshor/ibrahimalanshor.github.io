@@ -70,7 +70,15 @@ Berdakwah harus berdasarkan ilmu tentang syariat Allah ﷻ agar dakwah itu berla
 
 ### Masalah Keempat : Bersabar dalam Dakwah
 
-Setiap yang menegakkan Al-Quran (berdakwah) pasti akan menimpa kepadanya hal-hal yang membutuhkan kesabaran.
+Setiap orang yang menegakkan Al-Quran (berdakwah) pasti akan menimpa kepadanya hal-hal yang membutuhkan kesabaran.
+
+Para Nabi dan Rosul mengalami gangguan dan pendustaan dalam berdakwah, namun mereka bersabar akan hal tersebut dan tetap berdakwah di jalan Allah hingga datang kepada mereka kemenangan dari Allah.
+
+<p dir="rtl" lang="ar">
+لَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا
+</p>
+
+*Dan sesungguhnya telah didustakan (pula) rasul-rasul sebelum kamu, akan tetapi mereka sabar terhadap pendustaan dan penganiayaan (yang dilakukan) terhadap mereka, sampai datang pertolongan Allah kepada mereka.* (QS. Al-An'am: 34)
 
 ---
 
