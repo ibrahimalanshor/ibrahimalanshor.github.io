@@ -4,6 +4,10 @@ title: "Catatan Tsalatsatul Ushul: Mukadimah 1"
 draft: true
 ---
 
+<p dir="rtl" lang="ar">
+بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+</p>
+
 Tsalatsatul Ushul karya Syaikh Muhammad bin Abdul Wahhab At-Tamimi.
 
 ## Mukadimah Pertama
@@ -17,15 +21,21 @@ Setiap manusia wajib memelajari empat masalah:
 
 ### Masalah Pertama : Ilmu
 
-Ilmu yang wajib dipelajari adalah ilmu syar'i, yaitu:
+Tiga ilmu yang wajib dipelajari setiap manusia adalah:
 
 1. Mengenal Allah ﷻ dengan hati yang menuntut untuk menerima apa yang telah Allah syariatkan, tunduk serta taat kepadanya.
 2. Mengenal Nabi-Nya, yaitu Nabi Muhammad ﷺ dengan menerima apa yang Nabi bawa berupa petunjuk dan agama yang benar, membenarkannya apa yang Nabi kabarkan, dan melaksanakan apa yang Nabi perintahkan.
 3. Mengenal Islam, Islam secara umum maknanya adalah beribadah kepada Allah dengan apa yang telah Allah syariatkan sejak Allah mengutus para Rasul hingga hari kiamat.
 
-Tiga ilmu tersebut adalah *fitnah kubur*, yaitu pertanyaan yang akan ditanyakan di alam kubur.
+Ketiga ilmu tersebut adalah *fitnah kubur*, yaitu pertanyaan yang akan ditanyakan di alam kubur (HR. Abu Daud, no. 4753). Fitnah Kubur hanya bisa dijawab dengan keimanan bukan hafalan.
 
-Mempelajari ilmu wajib dengan dalil, dalil adalah apa yang memberikan petunjuk kepada apa yang dicari. Dalil ada 2 macam:
+<p dir="rtl" lang="ar">
+يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ
+</p>
+
+*Allah meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh itu dalam kehidupan di dunia dan di akhirat.* (QS. Ibrahim: 27)
+
+Mempelajari ilmu tersebut wajib dengan dalil, dalil adalah apa yang memberikan petunjuk kepada apa yang dicari. Dalil ada 2 macam:
 
 1. Dalil sam'iyyah: Al-Quran dan Hadis.
 2. Dalil 'aqliyyah: Dengan akal.
@@ -72,7 +82,7 @@ Berdakwah harus berdasarkan ilmu tentang syariat Allah ﷻ agar dakwah itu berla
 
 Setiap orang yang menegakkan Al-Quran (berdakwah) pasti akan menimpa kepadanya hal-hal yang membutuhkan kesabaran.
 
-Para Nabi dan Rosul mengalami gangguan dan pendustaan dalam berdakwah, namun mereka bersabar akan hal tersebut dan tetap berdakwah di jalan Allah hingga datang kepada mereka kemenangan dari Allah.
+Para Nabi dan Rasul mengalami gangguan dan pendustaan dalam berdakwah, namun mereka bersabar akan hal tersebut dan tetap berdakwah di jalan Allah hingga datang kepada mereka kemenangan dari Allah.
 
 <p dir="rtl" lang="ar">
 لَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا
