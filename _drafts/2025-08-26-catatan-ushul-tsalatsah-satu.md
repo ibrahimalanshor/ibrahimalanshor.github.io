@@ -85,7 +85,7 @@ Setiap orang yang menegakkan Al-Quran (berdakwah) pasti akan menimpa kepadanya h
 Para Nabi dan Rasul mengalami gangguan dan pendustaan dalam berdakwah, namun mereka bersabar akan hal tersebut dan tetap berdakwah di jalan Allah hingga datang kepada mereka kemenangan dari Allah.
 
 <p dir="rtl" lang="ar">
-لَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا
+وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّنْ قَبْلِكَ فَصَبَرُوْا عَلٰى مَا كُذِّبُوْا وَاُوْذُوْا حَتّٰٓى اَتٰىهُمْ نَصْرُنَا
 </p>
 
 *Dan sesungguhnya telah didustakan (pula) rasul-rasul sebelum kamu, akan tetapi mereka sabar terhadap pendustaan dan penganiayaan (yang dilakukan) terhadap mereka, sampai datang pertolongan Allah kepada mereka.* (QS. Al-An'am: 34)
@@ -108,10 +108,10 @@ Dalil empat masalah di atas adalah Firman Allah dalam surah Al-'Ashr: 1-3:
 
 *Demi masa, sesungguhnya manusia benar-benar berada dalam kerugian, kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.* (QS. Al-'Ashr: 1-3)
 
-Penjelasan dalil:
+Dalam surah tersebut, Allah ﷺ bersumpah dengan masa (waktu), bahwa sungguh setiap manusia itu benar-benar di dalam kerugian, kecuali orang yang memiliki empat sifat, yaitu beriman, beramal salih, saling menasihati dalam kebenaran dan saling menasihati untuk kesabaran.
 
-- Ayat kedua tentang iman menunjukan wajibnya berilmu, karena iman membutuhkan ilmu.
-- Ayat ketiga menunjukan wajibnya beramal "", berdakwah "", dan bersabar "".
+- Ayat kedua tentang iman (آمَنُوا) menunjukan wajibnya berilmu, karena iman membutuhkan ilmu.
+- Ayat ketiga menunjukan wajibnya beramal (عَمِلُوا الصَّالِحَاتِ), berdakwah (تَوَاصَوْا بِالْحَقِّ), dan bersabar (تَوَاصَوْا بِالصَّبْرِ).
 
 Imam Syafi'i berkata:
 
