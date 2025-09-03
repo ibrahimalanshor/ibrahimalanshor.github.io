@@ -92,7 +92,21 @@ Para Nabi dan Rasul mengalami gangguan dan pendustaan dalam berdakwah, namun mer
 
 ---
 
-Dalil empat masalah di atas adalah Firman Allah dalam surah al-Asr: 1-3:
+Dalil empat masalah di atas adalah Firman Allah dalam surah Al-'Ashr: 1-3:
+
+<p dir="rtl" lang="ar">
+وَالْعَصْرِ (١)
+</p>
+
+<p dir="rtl" lang="ar">
+إِنَّ الإِنسَانَ لَفِي خُسْرٍ (٢)
+</p>
+
+<p dir="rtl" lang="ar">
+إِلاَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ (٣)
+</p>
+
+*Demi masa, sesungguhnya manusia benar-benar berada dalam kerugian, kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.* (QS. Al-'Ashr: 1-3)
 
 Penjelasan dalil:
 
