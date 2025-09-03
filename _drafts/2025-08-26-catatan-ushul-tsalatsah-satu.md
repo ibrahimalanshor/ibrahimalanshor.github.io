@@ -52,22 +52,6 @@ Ilmu yang sudah dipelajari tapi tidak diamalkan dapat menjadi sebab seseorang di
 
 *Pada hari kiamat akan dihadirkan seseorang yang kemudian dia dilempar ke dalam neraka, isi perutnya keluar dan terburai hingga dia berputar-putar bagaikan seekor keledai yang berputar-putar menarik mesin gilingnya. Maka penduduk neraka berkumpul mengelilinginya seraya berkata; "Wahai fulan, apa yang terjadi denganmu? Bukankah kamu dahulu orang yang memerintahkan kami berbuat ma'ruf dan melarang kami berbuat munkar?". Orang itu berkata; "Aku memang memerintahkan kalian agar berbuat ma'ruf tapi aku sendiri tidak melaksanakannya dan melarang kalian berbuat munkar, namun malah aku mengerjakannya".* (HR. Bukhari, no. 3267)
 
-Mengamalkan ilmu akan diberikan taufik oleh Allah ﷻ pada ilmu-ilmu lainnya.
-
-<p dir="rtl" lang="ar">
-وَالَّذِيْنَ اهْتَدَوْا زَادَهُمْ هُدًى وَّاٰتٰىهُمْ تَقْوٰىهُمْ
-</p>
-
-*Dan orang-orang yang mau menerima petunjuk, Allah menambah petunjuk kepada mereka dan memberikan balasan ketakwaannya.* (QS. Muhammad: 17)
-
-Doa Nabi Muhammad ﷺ supaya dijauhkan dari ilmu yang tidak bermanfaat:
-
-<p dir="rtl" lang="ar">
-اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلاَهَا اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ دَعْوَةٍ لاَ يُسْتَجَابُ لَهَا
-</p>
-
-*Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelemahan, kemalasan, kekikiran, pikun dan azab kubur. Ya Allah, berikan jiwaku ini ketakwaan, sucikan ia, Engkaulah sebaik-baik yang mensucikannya, Engkaulah penolongnya dan pemiliknya. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak berguna dan dari hati yang tidak khusyu dan dari jiwa yang tidak pernah puas dan dari do’a yang tidak dikabulkan.* (HR. Muslim, no. 2722)
-
 ### Masalah Ketika : Berdakwah kepada Ilmu
 
 Berdakwah harus berdasarkan ilmu tentang syariat Allah ﷻ agar dakwah itu berlangsung tentang ilmu dan pemahaman yang mendalam.
@@ -90,7 +74,7 @@ Para Nabi dan Rasul mengalami gangguan dan pendustaan dalam berdakwah, namun mer
 
 *Dan sesungguhnya telah didustakan (pula) rasul-rasul sebelum kamu, akan tetapi mereka sabar terhadap pendustaan dan penganiayaan (yang dilakukan) terhadap mereka, sampai datang pertolongan Allah kepada mereka.* (QS. Al-An'am: 34)
 
----
+### Dalil Empat Masalah : Surah Al-'Ashr
 
 Dalil empat masalah di atas adalah Firman Allah dalam surah Al-'Ashr: 1-3:
 
@@ -108,18 +92,29 @@ Dalil empat masalah di atas adalah Firman Allah dalam surah Al-'Ashr: 1-3:
 
 *Demi masa, sesungguhnya manusia benar-benar berada dalam kerugian, kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.* (QS. Al-'Ashr: 1-3)
 
-Dalam surah tersebut, Allah ﷺ bersumpah dengan masa (waktu), bahwa sungguh setiap manusia itu benar-benar di dalam kerugian, kecuali orang yang memiliki empat sifat, yaitu beriman, beramal salih, saling menasihati dalam kebenaran dan saling menasihati untuk kesabaran.
+Dalam surah tersebut, Allah ﷺ bersumpah dengan masa (waktu), bahwa sungguh manusia itu benar-benar di dalam kerugian, seakan-akan tenggelam dalam kerugian, kerugian yang menimpanya dalam dari segala arah, kecuali orang yang memiliki empat sifat, yaitu beriman, beramal salih, saling menasihati dalam kebenaran dan saling menasihati untuk kesabaran.
 
 - Ayat kedua tentang iman (آمَنُوا) menunjukan wajibnya berilmu, karena iman membutuhkan ilmu.
 - Ayat ketiga menunjukan wajibnya beramal (عَمِلُوا الصَّالِحَاتِ), berdakwah (تَوَاصَوْا بِالْحَقِّ), dan bersabar (تَوَاصَوْا بِالصَّبْرِ).
 
-Imam Syafi'i berkata:
+### Perkataan Imam Syafi'i Tentang Surah Al-'Ashr
 
-- Hujjah maksudnya adalah ...
-- Surah al-Asr cukup maksudnya adalah ...
+Tentang surah Al-'Ashr, Imam Syafi'i berkata:
 
-Imam Bukhari berkata:
+<p dir="rtl" lang="ar">
+لو ما أنزل الله حجة على خلقه إلا هذه السورة لكفتهم
+</p>
+
+*Seandainya Allah tidak menurunkan satu hujjah bagi manusia selain surah ini, maka surah ini sudah cukup bagi mereka.*
+
+<!-- Hujjah maksudnya adalah ... -->
+
+Orang yang berakal dan memiliki pandangan yang luas ketika membaca atau mendengar surah ini maka pasti akan bergegas menyelamatkan dirinya dari kerugian.
+
+Surah ini cukup bagi manusia untuk berpegang teguh kepada agama Allah ﷺ dengan keimanan, beramal salih, berdakwah kepada Allah ﷺ dan bersabar atas semua itu. Bukan cukup bagi manusia dalam seluruh syariat.
+
+<!-- Imam Bukhari berkata:
 
 Perkataan tersebut berdasarkan dalil Firman Allah:
 
-Dalam ayat tersebut Allah memulai dengan ilmu (), sebelum berucap () dan berbuat ().
+Dalam ayat tersebut Allah memulai dengan ilmu (), sebelum berucap () dan berbuat (). -->
