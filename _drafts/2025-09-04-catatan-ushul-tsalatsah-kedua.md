@@ -45,3 +45,11 @@ Allah ﷻ yang telah menciptakan kita tidak membiarkan kita begitu saja, tetapi 
 </p>
 
 *Sesungguhnya aku mengutusmu untuk mengujiMu dan denganMu Aku menguji.* (HR. Muslim, no. 2865)
+
+Rasul diutus untuk menguji kita, barang siapa yang taat kepadanya akan selamat dan dimasukkkan ke dalam surga, barang siapa yang membangkang kepadanya akan dimasukkan ke dalam neraka.
+
+Tiga tugas Rasul:
+
+1. Mengenalkan sifat-sifat Allah ﷻ.
+2. Menjelaskan apa yang Allah ﷻ cintai agar dijalankan dan apa yang Allah benci agar ditinggalkan.
+3. Mengingatkan akan adanya hari pembalasan.
