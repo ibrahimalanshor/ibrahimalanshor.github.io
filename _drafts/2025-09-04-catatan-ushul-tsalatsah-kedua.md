@@ -17,7 +17,7 @@ Setiap muslim wajib memelajari tiga masalah dan mengamalkannya:
 2. Allah ﷻ tidak rida dengan kesyirikan kepada siapapun di dalam beribadah kepada-Nya.
 3. Tidak boleh loyal kepada orang yang memusuhi Allah dan Rasul-Nya.
 
-### Masalah Pertama: Allah Telah Menciptakan Kita
+### Poin Pertama: Allah Telah Menciptakan Kita
 
 Manusia beserta alam semesta dan seisinya pasti ada penciptanya, ini dapat dibuktikan dengan dua hal:
 
@@ -53,3 +53,23 @@ Tiga tugas Rasul:
 1. Mengenalkan sifat-sifat Allah ﷻ.
 2. Menjelaskan apa yang Allah ﷻ cintai agar dijalankan dan apa yang Allah benci agar ditinggalkan.
 3. Mengingatkan akan adanya hari pembalasan.
+
+Allah ﷻ mengingatkan kepada penduduk Mekkah bahwa diutusnya Nabi Muhammad ﷺ bukanlah sesuatu yang baru, Allah telah mengutus Nabi-Nabi sebelumnya termasuk Nabi Musa kepada Fir'aun. Barang siapa mendurhakai Nabi Muhammad maka dikhawatirkan akan berakhir sama seperti Fir'aun yang mendurhakai Nabi Musa yaitu disiksa dengan siskaan yang berat.
+
+<p dir="rtl" lang="ar">
+إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا (15) فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا (16)
+</p>
+
+*Sesungguhnya Kami telah mengutus kepada kamu (hai orang kafir Mekah) seorang Rasul, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus (dahulu) seorang Rasul kepada Fir'aun. Maka Fir'aun mendurhakai Rasul itu, lalu Kami siksa dia dengan siksaan yang berat.* (QS. Al-Muzzammil: 15-16)
+
+Fir'aun disiksa di tiga tempat:
+
+1. Di dunia, ditenggelamkan di laut merah.
+2. Di alam barzah, dinampakkan panasnya api neraka di waktu pagi dan petang.
+3. Di akhirat, diazab dengan sangat keras.
+
+<p dir="rtl" lang="ar">
+ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ
+</p>
+
+*Kepada mereka dinampakkan neraka pada pagi dan petang, dan pada hari terjadinya Kiamat. (Dikatakan kepada malaikat): "Masukkanlah Fir'aun dan kaumnya ke dalam azab yang sangat keras.* (QS. Al-Mu'min: 46)
