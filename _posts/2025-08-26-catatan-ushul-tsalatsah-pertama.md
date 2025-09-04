@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Catatan Tsalatsatul Ushul: Mukadimah 1"
-draft: true
+title: "Catatan Tsalatsatul Ushul: Mukadimah Pertama"
 ---
 
 <p dir="rtl" lang="ar">
@@ -92,7 +91,7 @@ Dalil empat masalah di atas adalah Firman Allah dalam surah Al-'Ashr: 1-3:
 
 *Demi masa, sesungguhnya manusia benar-benar berada dalam kerugian, kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.* (QS. Al-'Ashr: 1-3)
 
-Dalam surah tersebut, Allah ﷺ bersumpah dengan masa (waktu), bahwa sungguh manusia itu benar-benar di dalam kerugian, seakan-akan tenggelam dalam kerugian, kerugian yang menimpanya dalam dari segala arah, kecuali orang yang memiliki empat sifat, yaitu beriman, beramal salih, saling menasihati dalam kebenaran dan saling menasihati untuk kesabaran.
+Dalam surah tersebut, Allah ﷺ bersumpah dengan masa (waktu), bahwa sungguh manusia itu benar-benar di dalam kerugian, seakan-akan tenggelam dalam kerugian, kerugian yang menimpanya dalam dari segala arah, kecuali orang yang memiliki empat sifat, yaitu beriman, beramal soleh, saling menasihati dalam kebenaran dan saling menasihati untuk kesabaran.
 
 - Ayat kedua tentang iman (آمَنُوا) menunjukan wajibnya berilmu, karena iman membutuhkan ilmu.
 - Ayat ketiga menunjukan wajibnya beramal (عَمِلُوا الصَّالِحَاتِ), berdakwah (تَوَاصَوْا بِالْحَقِّ), dan bersabar (تَوَاصَوْا بِالصَّبْرِ).
@@ -111,7 +110,7 @@ Tentang surah Al-'Ashr, Imam Syafi'i berkata:
 
 Orang yang berakal dan memiliki pandangan yang luas ketika membaca atau mendengar surah ini maka pasti akan bergegas menyelamatkan dirinya dari kerugian.
 
-Surah ini cukup bagi manusia untuk berpegang teguh kepada agama Allah ﷺ dengan keimanan, beramal salih, berdakwah kepada Allah ﷺ dan bersabar atas semua itu. Bukan cukup bagi manusia dalam seluruh syariat.
+Surah ini cukup bagi manusia untuk berpegang teguh kepada agama Allah ﷺ dengan keimanan, beramal soleh, berdakwah kepada Allah ﷺ dan bersabar atas semua itu. Bukan cukup bagi manusia dalam seluruh syariat.
 
 <!-- Imam Bukhari berkata:
 

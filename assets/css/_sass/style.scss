@@ -28,6 +28,10 @@ h1,h2,h3,h4,h5,h6 {
   text-transform: inherit;
 }
 
+article h1 {
+  line-height: normal;
+  margin-top: 0.5em;
+}
 
 a {
   color: $brand-color;
