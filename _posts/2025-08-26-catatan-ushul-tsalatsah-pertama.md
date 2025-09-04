@@ -18,7 +18,7 @@ Setiap manusia wajib memelajari empat masalah:
 3. Berdakwah kepada ilmu.
 4. Bersabar dalam gangguan-gangguan di dalam berdakwah.
 
-### Masalah Pertama : Ilmu
+### Masalah Pertama: Ilmu
 
 Tiga ilmu yang wajib dipelajari setiap manusia adalah:
 
@@ -39,7 +39,7 @@ Mempelajari ilmu tersebut wajib dengan dalil, dalil adalah apa yang memberikan p
 1. Dalil sam'iyyah: Al-Quran dan Hadis.
 2. Dalil 'aqliyyah: Dengan akal.
 
-### Masalah Kedua : Beramal dengan Ilmu
+### Masalah Kedua: Beramal dengan Ilmu
 
 Beramal dengan ilmu adalah konsekuensi dari memelajari ilmu di atas, yaitu beriman dan taat kepada Allah ﷻ.
 
@@ -51,7 +51,7 @@ Ilmu yang sudah dipelajari tapi tidak diamalkan dapat menjadi sebab seseorang di
 
 *Pada hari kiamat akan dihadirkan seseorang yang kemudian dia dilempar ke dalam neraka, isi perutnya keluar dan terburai hingga dia berputar-putar bagaikan seekor keledai yang berputar-putar menarik mesin gilingnya. Maka penduduk neraka berkumpul mengelilinginya seraya berkata; "Wahai fulan, apa yang terjadi denganmu? Bukankah kamu dahulu orang yang memerintahkan kami berbuat ma'ruf dan melarang kami berbuat munkar?". Orang itu berkata; "Aku memang memerintahkan kalian agar berbuat ma'ruf tapi aku sendiri tidak melaksanakannya dan melarang kalian berbuat munkar, namun malah aku mengerjakannya".* (HR. Bukhari, no. 3267)
 
-### Masalah Ketika : Berdakwah kepada Ilmu
+### Masalah Ketika: Berdakwah kepada Ilmu
 
 Berdakwah harus berdasarkan ilmu tentang syariat Allah ﷻ agar dakwah itu berlangsung tentang ilmu dan pemahaman yang mendalam.
 
@@ -61,7 +61,7 @@ Berdakwah harus berdasarkan ilmu tentang syariat Allah ﷻ agar dakwah itu berla
 
 *Katakanlah (Muhammad), "Inilah jalanku, aku dan orang-orang yang mengikutiku mengajak (kamu) kepada Allah berlandaskan ilmu, Mahasuci Allah, dan aku tidak termasuk orang-orang musyrik."* (QS. Yusuf: 108)
 
-### Masalah Keempat : Bersabar dalam Dakwah
+### Masalah Keempat: Bersabar dalam Dakwah
 
 Setiap orang yang menegakkan Al-Quran (berdakwah) pasti akan menimpa kepadanya hal-hal yang membutuhkan kesabaran.
 
@@ -73,7 +73,7 @@ Para Nabi dan Rasul mengalami gangguan dan pendustaan dalam berdakwah, namun mer
 
 *Dan sesungguhnya telah didustakan (pula) rasul-rasul sebelum kamu, akan tetapi mereka sabar terhadap pendustaan dan penganiayaan (yang dilakukan) terhadap mereka, sampai datang pertolongan Allah kepada mereka.* (QS. Al-An'am: 34)
 
-### Dalil Empat Masalah : Surah Al-'Ashr
+### Dalil Empat Masalah: Surah Al-'Ashr
 
 Dalil empat masalah di atas adalah Firman Allah dalam surah Al-'Ashr: 1-3:
 
