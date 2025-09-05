@@ -73,3 +73,13 @@ Fir'aun disiksa di tiga tempat:
 </p>
 
 *Kepada mereka dinampakkan neraka pada pagi dan petang, dan pada hari terjadinya Kiamat. (Dikatakan kepada malaikat): "Masukkanlah Fir'aun dan kaumnya ke dalam azab yang sangat keras.* (QS. Al-Mu'min: 46)
+
+## Poin Kedua: Allah Tidak Rida Dengan Kesyirikan
+
+Syirik adalah dosa yang paling besar, karena kesyirikan menjatuhkan hak Allah ﷻ yaitu diibadahi. Satu-satunya yang berhak untuk diibadahi hanyalah Allah ﷻ, tidak ada yang lain, karena Allah-lah yang telah menciptakan kita dan memberikan rezeki kepada kita, maka hanya kepada Allah ﷻ kita beribadah.
+
+<p dir="rtl" lang="ar">
+سَأَلْتُ النَّبِيُّ صل الله عليه و سلم أَيُ الذَّنْبِ أَعْظَمُ عِنْدَ اللهِ قَالَ " أَنْ تَجْعَلَ لِلَّهِ نِدًّا وَهُوَ خَلَقَكَ"
+</p>
+
+*Saya bertanya kepada Rasulullah ﷺ: "Dosa apakah yang paling besar di sisi Allah?" Beliau menjawab: "Engkau membuat tandingan bagi Allah (syirik), padahal Dia yang menciptakanmu."* (HR. Bukhari, no. 4477)
