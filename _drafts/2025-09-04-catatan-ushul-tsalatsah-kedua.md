@@ -83,3 +83,17 @@ Syirik adalah dosa yang paling besar, karena kesyirikan menjatuhkan hak Allah �
 </p>
 
 *Saya bertanya kepada Rasulullah ﷺ: "Dosa apakah yang paling besar di sisi Allah?" Beliau menjawab: "Engkau membuat tandingan bagi Allah (syirik), padahal Dia yang menciptakanmu."* (HR. Bukhari, no. 4477)
+
+Orang yang mati dalam keadaan musyrik maka dia tidak akan diampuni oleh Allah ﷻ , dia kekal di dalam neraka selama-lamanya.
+
+<p dir="rtl" lang="ar">
+اِنَّ اللّٰهَ لَا يَغْفِرُ اَنْ يُّشْرَكَ بِهٖ وَيَغْفِرُ مَا دُوْنَ ذٰلِكَ لِمَنْ يَّشَاۤءُ ۚ وَمَنْ يُّشْرِكْ بِاللّٰهِ فَقَدِ افْتَرٰٓى اِثْمًا عَظِيْمًا
+</p>
+
+*Sesungguhnya Allah tidak akan mengampuni dosa syirik, dan Dia mengampuni segala dosa yang selain dari (syirik) itu, bagi siapa yang dikehendaki-Nya. Barangsiapa yang mempersekutukan Allah, maka sungguh ia telah berbuat dosa yang besar.* (QS. An-Nisa: 48)
+
+<p dir="rtl" lang="ar">
+مَن مَاتَ وهْوَ يَدْعُو مِن دُونِ اللَّهِ نِدًّا دَخَلَ النَّارَ وقُلتُ أنَا: مَن مَاتَ وهْوَ لا يَدْعُو لِلَّهِ نِدًّا دَخَلَ الجَنَّةَ
+</p>
+
+*Barang siapa yang mati, sedangkan dia menyeru selain Allah sebagai tandingannya maka dia masuk neraka. Sedangkan aku berkata; "Barang siapa yang mati dan dia tidak menyekutukan Allah dengan sesuatu maka dia masuk surga."* (HR. Bukhari, no. 4497)
