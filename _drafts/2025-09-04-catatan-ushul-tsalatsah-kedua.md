@@ -97,3 +97,11 @@ Orang yang mati dalam keadaan musyrik maka dia tidak akan diampuni oleh Allah �
 </p>
 
 *Barang siapa yang mati, sedangkan dia menyeru selain Allah sebagai tandingannya maka dia masuk neraka. Sedangkan aku berkata; "Barang siapa yang mati dan dia tidak menyekutukan Allah dengan sesuatu maka dia masuk surga."* (HR. Bukhari, no. 4497)
+
+Dosa syirik akan menghapus seluruh amal ibadah yang telah dilakukan, karena tidak ada amal soleh yang diterima bersama kesyirikan.
+
+<p dir="rtl" lang="ar">
+وَلَقَدْ اُوْحِيَ اِلَيْكَ وَاِلَى الَّذِيْنَ مِنْ قَبْلِكَۚ لَىِٕنْ اَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُوْنَنَّ مِنَ الْخٰسِرِيْنَ
+</p>
+
+*Dan sesungguhnya telah diwahyukan kepadamu dan kepada (nabi-nabi) yang sebelummu. "Jika kamu mempersekutukan (Tuhan), niscaya akan hapuslah amalmu dan tentulah kamu termasuk orang-orang yang merugi.* (QS. Az-Zumar: 65)
