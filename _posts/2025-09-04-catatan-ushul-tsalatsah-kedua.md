@@ -74,7 +74,7 @@ Fir'aun disiksa di tiga tempat:
 
 *Kepada mereka dinampakkan neraka pada pagi dan petang, dan pada hari terjadinya Kiamat. (Dikatakan kepada malaikat): "Masukkanlah Fir'aun dan kaumnya ke dalam azab yang sangat keras.* (QS. Al-Mu'min: 46)
 
-## Poin Kedua: Allah Tidak Rida Dengan Kesyirikan
+### Poin Kedua: Allah Tidak Rida Dengan Kesyirikan
 
 Syirik adalah dosa yang paling besar, karena kesyirikan menjatuhkan hak Allah ﷻ yaitu diibadahi. Satu-satunya yang berhak untuk diibadahi hanyalah Allah ﷻ, tidak ada yang lain, karena Allah-lah yang telah menciptakan kita dan memberikan rezeki kepada kita, maka hanya kepada Allah ﷻ kita beribadah.
 
@@ -105,3 +105,21 @@ Dosa syirik akan menghapus seluruh amal ibadah yang telah dilakukan, karena tida
 </p>
 
 *Dan sesungguhnya telah diwahyukan kepadamu dan kepada (nabi-nabi) yang sebelummu. "Jika kamu mempersekutukan (Tuhan), niscaya akan hapuslah amalmu dan tentulah kamu termasuk orang-orang yang merugi.* (QS. Az-Zumar: 65)
+
+### Poin Ketiga: Tidak Boleh Loyal Kepada Orang yang Memusuhi Allah dan Rasul-Nya
+
+Orang yang beriman dan mentauhidkan Allah ﷻ tidak mungkin dia berkasih sayang dan memberikan loyatias kepada orang yang musyrik yaitu orang yang memusuhi Allah dan Rasul-Nya.
+
+<p dir="rtl" lang="ar">
+لَا تَجِدُ قَوْمًا يُّؤْمِنُوْنَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ يُوَاۤدُّوْنَ مَنْ حَاۤدَّ اللّٰهَ وَرَسُوْلَهٗ وَلَوْ كَانُوْٓا اٰبَاۤءَهُمْ اَوْ اَبْنَاۤءَهُمْ اَوْ اِخْوَانَهُمْ اَوْ عَشِيْرَتَهُمْۗ اُولٰۤىِٕكَ كَتَبَ فِيْ قُلُوْبِهِمُ الْاِيْمَانَ وَاَيَّدَهُمْ بِرُوْحٍ مِّنْهُ ۗوَيُدْخِلُهُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَاۗ رَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوْا عَنْهُۗ اُولٰۤىِٕكَ حِزْبُ اللّٰهِ ۗ اَلَآ اِنَّ حِزْبَ اللّٰهِ هُمُ الْمُفْلِحُوْنَ
+</p>
+
+*Kamu tak akan mendapati kaum yang beriman pada Allah dan hari akhirat, saling berkasih-sayang dengan orang-orang yang menentang Allah dan Rasul-Nya, sekalipun orang-orang itu bapak-bapak, atau anak-anak atau saudara-saudara ataupun keluarga mereka. Mereka itulah orang-orang yang telah menanamkan keimanan dalam hati mereka dan menguatkan mereka dengan pertolongan yang datang daripada-Nya. Dan dimasukan-Nya mereka ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Allah ridha terhadap mereka, dan merekapun merasa puas terhadap (limpahan rahmat)-Nya. Mereka itulah golongan Allah. Ketahuilah, bahwa sesungguhnya hizbullah itu adalah golongan yang beruntung.* (QS. Al-Mujadalah: 22)
+
+Ini adalah keyakinan yang ada di dalam hati, sedangkan di dalam masalah muamalah kita diperintahkan untuk berbuat baik dan adil kepada mereka selama mereka tidak memerangi kita.
+
+<p dir="rtl" lang="ar">
+لَا يَنْهٰىكُمُ اللّٰهُ عَنِ الَّذِيْنَ لَمْ يُقَاتِلُوْكُمْ فِى الدِّيْنِ وَلَمْ يُخْرِجُوْكُمْ مِّنْ دِيَارِكُمْ اَنْ تَبَرُّوْهُمْ وَتُقْسِطُوْٓا اِلَيْهِمْۗ اِنَّ اللّٰهَ يُحِبُّ الْمُقْسِطِيْنَ
+</p>
+
+*Allah tidak melarang kamu untuk berbuat baik dan berlaku adil terhadap orang-orang yang tiada memerangimu karena agama dan tidak (pula) mengusir kamu dari negerimu. Sesungguhnya Allah menyukai orang-orang yang berlaku adil.* (QS. Al-Mumtahanah: 8)
