@@ -17,6 +17,8 @@ Setiap muslim wajib memelajari tiga masalah dan mengamalkannya:
 2. Allah ﷻ tidak rida dengan kesyirikan kepada siapapun di dalam beribadah kepada-Nya.
 3. Tidak boleh loyal kepada orang yang memusuhi Allah dan Rasul-Nya.
 
+Tiga masalah ini adalah masalah-masalah yang penting yang berkaitan dengan tauhid dan hak-haknya.
+
 ### Poin Pertama: Allah Telah Menciptakan Kita
 
 Manusia beserta alam semesta dan seisinya pasti ada penciptanya, ini dapat dibuktikan dengan dua hal:
@@ -47,6 +49,8 @@ Allah ﷻ yang telah menciptakan kita tidak membiarkan kita begitu saja, tetapi 
 *Sesungguhnya aku mengutusmu untuk mengujiMu dan denganMu Aku menguji.* (HR. Muslim, no. 2865)
 
 Rasul diutus untuk menguji kita, barang siapa yang taat kepadanya akan selamat dan dimasukkkan ke dalam surga, barang siapa yang membangkang kepadanya akan dimasukkan ke dalam neraka.
+
+Tidak mungkin kita bisa beribadah kepada Allah ﷻ dengan apa yang diridai-Nya tanpa adanya petunjuk dari para rasul.
 
 Tiga tugas Rasul:
 
