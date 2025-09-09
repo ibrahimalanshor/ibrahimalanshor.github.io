@@ -34,6 +34,14 @@ Ketiga ilmu tersebut adalah *fitnah kubur*, yaitu pertanyaan yang akan ditanyaka
 
 *Allah meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh itu dalam kehidupan di dunia dan di akhirat.* (QS. Ibrahim: 27)
 
+Siapa yang mampu menjawab tiga pertanyaan ini maka setelahnya akan mudah baginya, bila tidak mampu maka setelahnya akan sulit.
+
+<p dir="rtl" lang="ar">
+إنَّ القبرَ أوَّلُ مَنزلٍ من مَنازلِ الآخرةِ، فإن نجا منهُ فما بعدَهُ أيسرُ منهُ، وإن لم ينجُ منهُ فما بعدَهُ أشدُّ منهُ
+</p>
+
+*Sesungguhnya kubur adalah tempat persinggahan akhirat yang pertama, bila seseorang selamat darinya maka setelahnya lebih mudah dan bila tidak selamat darinya maka setelahnya lebih sulit.* (HR. Tirmidzi, no. 2308)
+
 Mempelajari ilmu tersebut wajib dengan dalil, dalil adalah apa yang memberikan petunjuk kepada apa yang dicari. Dalil ada 2 macam:
 
 1. Dalil sam'iyyah: Al-Quran dan Hadis.

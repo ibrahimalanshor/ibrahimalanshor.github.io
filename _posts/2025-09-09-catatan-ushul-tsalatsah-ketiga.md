@@ -50,3 +50,30 @@ Hakikat dari agama Nabi Ibrahim *'alaihissalam* adalah menyembah Allah ﷻ denga
 *Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku.* (QS. Adz-Dzariyat: 56)
 
 Makna (يَعْبُدُوْنِ) menyembah Allah ﷻ adalah (يُوَحِّدُوْنِ) mentauhidkan Allah ﷻ.
+
+### Perintah dan Larang Allah yang Paling Besar
+
+Perintah Allah ﷻ yang paling besar adalah tauhid, yaitu mengesakan Allah ﷻ dalam beribadah, yang disebut dengan tauhid uluhiyyah.
+
+Seluruh Nabi yang diutus menyeru kepada tauhid.
+
+<p dir="rtl" lang="ar">
+وَلَقَدْ بَعَثْنَا فِيْ كُلِّ اُمَّةٍ رَّسُوْلًا اَنِ اعْبُدُوا اللّٰهَ وَاجْتَنِبُوا الطَّاغُوْتَۚ
+</p>
+
+*Dan sungguh, Kami telah mengutus seorang rasul untuk setiap umat (untuk menyerukan), “Sembahlah Allah, dan jauhilah tagut”* (QS. An-Nahl: 36)
+
+Larangan Allah ﷻ yang paling besar adalah syirik, yaitu menyeru kepada selain Allah di samping kepada Allah ﷻ. Syirik disebut juga lawan dari tauhid karena orang yang syirik beribadah kepada Allah ﷻ dan juga beribadah kepada selain Allah, artinya dia tidak mengesakan Allah ﷻ dalam beribadah.
+
+Dalil kedua hal tersebut adalah Firman Allah ﷻ:
+
+<p dir="rtl" lang="ar">
+وَاعْبُدُوا اللّٰهَ وَلَا تُشْرِكُوْا بِهٖ شَيْـًٔا
+</p>
+
+*Dan sembahlah Allah dan janganlah kamu mempersekutukan-Nya dengan sesuatu apa pun* (QS. An-Nisa: 36)
+
+Larangan tentang kesyirikan di ayat tersebut bersifat umum, yaitu:
+
+1. Jangan menyekutukan Allah ﷻ dengan apa pun (Nabi, malaikat, pohon, dll).
+2. Jangan menyekutukan Allah ﷻ dalam bentuk apa pun (syirik besar maupun syirik kecil).
