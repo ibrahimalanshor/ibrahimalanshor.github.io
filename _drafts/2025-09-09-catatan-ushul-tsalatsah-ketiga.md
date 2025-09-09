@@ -40,3 +40,13 @@ Orang-orang Yahudi, Nasrani, dan musyrikin Arab mengklaim sebagai pengikut Nabi 
 *Ibrahim bukanlah seorang Yahudi dan bukan (pula) seorang Nasrani, tetapi dia adalah seorang yang lurus, Muslim dan dia tidaklah termasuk orang-orang musyrik.* (QS. Ali 'Imran: 67)
 
 ### Hakikat Agama Nabi Ibrahim
+
+Hakikat dari agama Nabi Ibrahim *'alaihissalam* adalah menyembah Allah ﷻ dengan mentauhidkan-Nya, tidak beribadah kepada selain Allah ﷻ. Itulah yang Allah ﷻ perintahkan kepada seluruh manusia dan jin.
+
+<p dir="rtl" lang="ar">
+وَمَا خَلَقْتُ الْجِنَّ وَالْاِنْسَ اِلَّا لِيَعْبُدُوْنِ
+</p>
+
+*Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku.* (QS. Adz-Dzariyat: 56)
+
+Makna (يَعْبُدُوْنِ) menyembah Allah ﷻ adalah (يُوَحِّدُوْنِ) mentauhidkan Allah ﷻ.
