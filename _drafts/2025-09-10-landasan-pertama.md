@@ -56,3 +56,15 @@ Di antara ciptaan-ciptaan-Nya adalah langit yang tujuh lapis, bumi yang tujuh la
 </p>
 
 *Sungguh, Tuhanmu (adalah) Allah yang menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas ‘Arsy. Dia menutupkan malam kepada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan dan bintang-bintang tunduk kepada perintah-Nya. Ingatlah! Segala penciptaan dan urusan menjadi hak-Nya. Mahasuci Allah, Tuhan seluruh alam.* (QS. Al-A'raf: 54)
+
+### Rabb adalah Yang Disembah
+
+Rabb adalah yang disembah, yaitu Dialah yang berhak untuk disembah. Dan Rabb adalah Pencipta, Penguasa, dan Pengatur segala urusan.
+
+Yang menciptakan alam semesta ini adalah Allah ﷻ, yang mengaturnya juga Allah ﷻ, segala hukum yang berlaku adalah hukum-Nya, segala perintah yang berlaku adalah perintah-Nya, maka dari itu hanya Allah ﷻ lah yang berhak disembah, karena tidak ada selain Allah ﷻ yang mampu melakukannya.
+
+<p dir="rtl" lang="ar">
+يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ (21) الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ ۖ فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ (22)
+</p>
+
+*Hai manusia, sembahlah Tuhanmu yang telah menciptakanmu dan orang-orang yang sebelummu, agar kamu bertakwa, Dialah yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai atap, dan Dia menurunkan air (hujan) dari langit, lalu Dia menghasilkan dengan hujan itu segala buah-buahan sebagai rezeki untukmu; karena itu janganlah kamu mengadakan sekutu-sekutu bagi Allah, padahal kamu mengetahui.* (QS. Al-Baqarah: 21-22)
