@@ -41,7 +41,7 @@ Orang-orang Yahudi, Nasrani, dan musyrikin Arab mengklaim sebagai pengikut Nabi 
 
 ### Hakikat Agama Nabi Ibrahim
 
-Hakikat dari agama Nabi Ibrahim *'alaihissalam* adalah menyembah Allah ﷻ dengan mentauhidkan-Nya, tidak beribadah kepada selain Allah ﷻ. Itulah yang Allah ﷻ perintahkan kepada seluruh manusia dan jin.
+Hakikat dari agama Nabi Ibrahim *'alaihissalam* adalah menyembah Allah ﷻ dengan mentauhidkan-Nya, tidak beribadah kepada selain Allah. Itulah yang Allah ﷻ perintahkan kepada seluruh manusia dan jin.
 
 <p dir="rtl" lang="ar">
 وَمَا خَلَقْتُ الْجِنَّ وَالْاِنْسَ اِلَّا لِيَعْبُدُوْنِ

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Catatan Tsalatsatul Ushul: Landasan Pertama"
+title: "Catatan Tsalatsatul Ushul: Landasan Pertama, Mengenal Allah ﷻ"
 ---
 
 <p dir="rtl" lang="ar">
