@@ -80,3 +80,17 @@ Rasa takut juga bisa menjadi kesyirikan jika rasa takut itu tidak terlihat sebab
 *Kami tidak mengatakan melainkan bahwa sebagian sembahan kami telah menimpakan penyakit gila atas dirimu". Hud menjawab: "Sesungguhnya aku bersaksi kepada Allah dan saksikanlah olehmu sekalian bahwa sesungguhnya aku berlepas diri dari apa yang kamu persekutukan,* (QS. Hud: 54)
 
 Jika Nabi Hud *'alaihissalam* takut atas ancaman kaumnya tersebut sehingga berhenti berdakwah, maka itulah yang dinamakan rasa takut yang syirik.
+
+### Berharap (Raja')
+
+Berharap kepada Allah ﷻ yang disertai dengan pengagungan dan keyakinan bahwa segala keputusan hanya pada Allah ﷻ maka ini ibadah.
+
+Menggantungkan harapan kepada selain Allah yang disertai dengan pengagungan maka ini adalah kesyirikan.
+
+Berharap kepada selain Allah sebagai sebab sebab semata dan tidak menggantungkan hati kepadanya maka ini diperbolehkan.
+
+<p dir="rtl" lang="ar">
+فَمَنْ كَانَ يَرْجُوْا لِقَاۤءَ رَبِّهٖ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَّلَا يُشْرِكْ بِعِبَادَةِ رَبِّهٖٓ اَحَدًا
+</p>
+
+*Maka barangsiapa mengharap pertemuan dengan Tuhannya maka hendaklah dia mengerjakan kebajikan dan janganlah dia mempersekutukan dengan sesuatu pun dalam beribadah kepada Tuhannya.* (QS. Al-Kahfi: 110)
