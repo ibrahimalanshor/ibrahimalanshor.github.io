@@ -52,3 +52,31 @@ Berdoa kepada selain Allah adalah syirik yang paling besar di antara syirik-syir
 </p>
 
 *Dan siapakah yang lebih sesat daripada orang-orang yang menyembah selain Allah (sembahan) yang tidak dapat memperkenankan (doa)nya sampai hari Kiamat dan mereka lalai dari (memperhatikan) doa mereka?* (QS. Al-Ahqaf: 5)
+
+### Rasa Takut (Khauf)
+
+Rasa takut kepada Allah ﷻ yang disertai dengan pengagungan adalah ibadah.
+
+<p dir="rtl" lang="ar">
+فَلَا تَخَافُوْهُمْ وَخَافُوْنِ اِنْ كُنْتُمْ مُّؤْمِنِيْنَ
+</p>
+
+*Maka janganlah kamu takut kepada mereka, tetapi takutlah kepada-Ku, jika kamu benar-benar orang yang beriman.* (QS. Ali 'Imran: 175)
+
+Rasa takut yang tabiat (bukan ibadah) hukum asalnya boleh selama rasa takut itu tidak sampai membuat seseorang melanggar syariat. Misalnya rasa takut Nabi Musa *'alaihissalam* ketika diancam untuk dibunuh oleh Firaun, dia kabur ke kota Mesir dalam kondisi ketakutan.
+
+<p dir="rtl" lang="ar">
+فَخَرَجَ مِنْهَا خَاۤىِٕفًا يَّتَرَقَّبُ ۖقَالَ رَبِّ نَجِّنِيْ مِنَ الْقَوْمِ الظّٰلِمِيْنَ
+</p>
+
+*Maka keluarlah dia (Musa) dari kota itu dengan rasa takut, waspada (kalau ada yang menyusul atau menangkapnya), dia berdoa, “Ya Tuhanku, selamatkanlah aku dari orang-orang yang zalim itu.”* (QS. Al-Qashash: 21)
+
+Rasa takut juga bisa menjadi kesyirikan jika rasa takut itu tidak terlihat sebabnya untuk membuat seseorang merasa takut. Misalnya takut kepada ancaman orang-orang musyrikin yang mengatakan sesembahan mereka dapat memberikan mudharat kepada baginya. Seperti di dalam kisah Nabi Hud *'alaihissalam*.
+
+<p dir="rtl" lang="ar">
+اِنْ نَّقُوْلُ اِلَّا اعْتَرٰىكَ بَعْضُ اٰلِهَتِنَا بِسُوْۤءٍ ۗقَالَ اِنِّيْٓ اُشْهِدُ اللّٰهَ وَاشْهَدُوْٓا اَنِّيْ بَرِيْۤءٌ مِّمَّا تُشْرِكُوْنَ
+</p>
+
+*Kami tidak mengatakan melainkan bahwa sebagian sembahan kami telah menimpakan penyakit gila atas dirimu". Hud menjawab: "Sesungguhnya aku bersaksi kepada Allah dan saksikanlah olehmu sekalian bahwa sesungguhnya aku berlepas diri dari apa yang kamu persekutukan,* (QS. Hud: 54)
+
+Jika Nabi Hud *'alaihissalam* takut atas ancaman kaumnya tersebut sehingga berhenti berdakwah, maka itulah yang dinamakan rasa takut yang syirik.
