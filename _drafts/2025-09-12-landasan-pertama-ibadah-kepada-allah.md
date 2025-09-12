@@ -94,3 +94,29 @@ Berharap kepada selain Allah sebagai sebab sebab semata dan tidak menggantungkan
 </p>
 
 *Maka barangsiapa mengharap pertemuan dengan Tuhannya maka hendaklah dia mengerjakan kebajikan dan janganlah dia mempersekutukan dengan sesuatu pun dalam beribadah kepada Tuhannya.* (QS. Al-Kahfi: 110)
+
+### Tawakkal
+
+Tawakkal kepada Allah ﷻ adalah bersandar kepada Allah ﷻ , cukup sebagai sandaran di dalam mendatangkan manfaat dan menolak mudarat.
+
+Tawakkal kepada selain Allah tidak diperbolehkan sama sekali, ini akan menjerumuskan seseorang kepada kesyirikan.
+
+<p dir="rtl" lang="ar">
+وَعَلَى اللّٰهِ فَتَوَكَّلُوْٓا اِنْ كُنْتُمْ مُّؤْمِنِيْنَ
+</p>
+
+*Dan bertawakallah kamu hanya kepada Allah, jika kamu orang-orang beriman.* (QS. Al-Ma'idah: 23)
+
+<p dir="rtl" lang="ar">
+وَمَنْ يَّتَوَكَّلْ عَلَى اللّٰهِ فَهُوَ حَسْبُهٗ
+</p>
+
+*Dan barangsiapa bertawakal kepada Allah, niscaya Allah akan mencukupkan (keperluan)nya.* (QS. At-Talaq: 3)
+
+Rasulullah ﷺ selalu bertawakkal kepada Allah ﷻ di dalam kesehariannya, misalnya ketika hendak tidur, ia berdoa:
+
+<p dir="rtl" lang="ar">
+اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ وَفَوَّضْتُ أَمْرِي إِلَيْكَ وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ رَهْبَةً وَرَغْبَةً إِلَيْكَ لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ
+</p>
+
+*Ya AIlah ya Tuhanku, aku berserah diri kepada-Mu, aku serahkan urusanku kepada-Mu dan aku berlindung kepada-Mu dalam keadaan harap dan cemas, karena tidak ada tempat berlindung dan tempat yang aman dari adzab-Mu kecuali dengan berlindung kepada-Mu. Aku beriman kepada kitab-Mu yang telah Engkau turunkan dan aku beriman kepada Nabi-Mu yang telah Engkau utus.* (HR. Bukhari, no. 6311)
