@@ -120,3 +120,19 @@ Rasulullah ﷺ selalu bertawakkal kepada Allah ﷻ di dalam kesehariannya, misal
 </p>
 
 *Ya AIlah ya Tuhanku, aku berserah diri kepada-Mu, aku serahkan urusanku kepada-Mu dan aku berlindung kepada-Mu dalam keadaan harap dan cemas, karena tidak ada tempat berlindung dan tempat yang aman dari adzab-Mu kecuali dengan berlindung kepada-Mu. Aku beriman kepada kitab-Mu yang telah Engkau turunkan dan aku beriman kepada Nabi-Mu yang telah Engkau utus.* (HR. Bukhari, no. 6311)
+
+### Raghbah, Rahbah dan Khusyu'
+
+Raghbah adalah bagian dari raja' (berharap), yaitu berharap dan bergegas kepada harapan itu.
+
+Rahbah mirip dengan khauf (rasa takut), yaitu rasa takut dan menekuni pelarian dari apa yang ditakuti.
+
+Khusyu' adalah merendahkan diri terhadap kebesaran Allah ﷻ.
+
+Para Nabi senantiasa berdoa kepada Allah ﷻ dengan tiga kondisi ini sekaligus. Mereka berdoa dengan penuh mengharap kebaikan yang ada di sisi Allah ﷻ, takut terhadap siksa Allah ﷻ dan mereka tunduk dan rendah diri kepada Allah ﷻ.
+
+<p dir="rtl" lang="ar">
+اِنَّهُمْ كَانُوْا يُسٰرِعُوْنَ فِى الْخَيْرٰتِ وَيَدْعُوْنَنَا رَغَبًا وَّرَهَبًاۗ وَكَانُوْا لَنَا خٰشِعِيْنَ
+</p>
+
+*Sungguh, mereka selalu bersegera dalam (mengerjakan) kebaikan, dan mereka berdoa kepada Kami dengan penuh harap dan cemas. Dan mereka orang-orang yang khusyuk kepada Kami.* (QS. Al-Anbiya': 90)
