@@ -35,7 +35,7 @@ Doa adalah ibadah.
 إِنَّ الدعاءَ هو العِبادَةُ
 </p>
 
-*Sesungguhnya doa adala ibadah.* (HR Ibnu Majah, no. 3828)
+*Sesungguhnya doa adala ibadah.* (HR. Ibnu Majah, no. 3828)
 
 Doa menunjukan penghambaan diri, menunjukan dia butuh kepada Sang Pencipta yaitu Allah ﷻ. Orang yang enggan berdoa kepada Allah ﷻ , dia berdoa kepada selain Allah, baik yang dimintai doa yang masih hidup atau sudah mati, maka dia termasuk orang yang sombong dan akan masuk neraka dalam keadaan terhina.
 
@@ -136,3 +136,79 @@ Para Nabi senantiasa berdoa kepada Allah ﷻ dengan tiga kondisi ini sekaligus. 
 </p>
 
 *Sungguh, mereka selalu bersegera dalam (mengerjakan) kebaikan, dan mereka berdoa kepada Kami dengan penuh harap dan cemas. Dan mereka orang-orang yang khusyuk kepada Kami.* (QS. Al-Anbiya': 90)
+
+### Khasyah (Rasa Takut yang Dibarengi Dengan Ilmu)
+
+Khasyah mirip dengan khauf (rasa takut), yaitu rasa takut yang dibarengi dengan ilmu. Orang-orang yang paling takut kepada Allah ﷻ adalah para ulama, karena mereka yang paling mengetahui tentang Allah ﷻ, mengetahui sifat-sifat-Nya, syariat-Nya dan kuasa-Nya atas segala sesuatu.
+
+<p dir="rtl" lang="ar">
+فَلَا تَخْشَوْهُمْ وَاخْشَوْنِيْ
+</p>
+
+*Maka janganlah kamu takut kepada mereka dan takutlah kepada-Ku (saja).* (QS. Al-Baqarah: 150)
+
+<p dir="rtl" lang="ar">
+اِنَّمَا يَخْشَى اللّٰهَ مِنْ عِبَادِهِ الْعُلَمٰۤؤُاۗ
+</p>
+
+*Di antara hamba-hamba Allah yang takut kepada-Nya, hanyalah para ulama.* (QS. Al-Fatir: 28)
+
+### Inabah (Kembali kepada Allah ﷻ)
+
+Kita diperintahkan untuk kembali kepada Allah ﷻ dengan ketaatan, taubat, tunduk kepada-Nya, berserah diri kepada-Nya.
+
+<p dir="rtl" lang="ar">
+وَاَنِيْبُوْٓا اِلٰى رَبِّكُمْ وَاَسْلِمُوْا لَهٗ مِنْ قَبْلِ اَنْ يَّأْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنْصَرُوْنَ
+</p>
+
+*Dan kembalilah kamu kepada Tuhanmu, dan berserah dirilah kepada-Nya sebelum datang azab kepadamu, kemudian kamu tidak dapat ditolong.* (QS. Az-Zumar: 54)
+
+Berserah dirilah kepada Allah ﷻ maksudnya adalah tunduk kepada hukum-hukum Allah ﷻ yang syar'i.
+
+### Isti'anah (Memohon Pertolongan)
+
+Memohon pertolongan kepada Allah ﷻ yaitu meminta pertolongan yang mencakup kesempurnaan kerendahan diri seorang hamba kepada Tuhannya, menyerahkan segala urusan kepada-Nya, dan yakin akan kecukupan-Nya. Ini tidak boleh tujukan kepada selain Allah.
+
+<p dir="rtl" lang="ar">
+اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ
+</p>
+
+*Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.* (QS. Al-Fatihah: 5)
+
+<p dir="rtl" lang="ar">
+وَإِذَاَ اسْتَعَنتَ فَاسْتَعِن بِاللهِ
+</p>
+
+*Dan apabila engkau memohon pertolongan maka mintalah kepada Allah* (HR. Tirmidzi, no 2516)
+
+### Isti'adzah (Memohon Perlindungan)
+
+Allah ﷻ memerintahkan kepada Rasullullah ﷺ untuk mengatakan kepada manusia agar meminta perlindungan kepada Allah ﷻ yang mendatangkan subuh agar selamat dari keburukan.
+
+<p dir="rtl" lang="ar">
+قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ
+</p>
+
+*Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),* (QS. Al-Falaq: 1)
+
+Allah ﷻ memerintahkan kepada Rasulullah ﷺ untuk mengatakan kepada manusia agar meminta perlindungan kepada Allah ﷻ , Tuhannya manusia yang mahakuasa satu-satunya untuk menolak keburukan was-was.
+
+<p dir="rtl" lang="ar">
+قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ
+</p>
+
+*Katakanlah, “Aku berlindung kepada Tuhannya manusia,* (QS. An-Nas: 1)
+
+Memohon perlindungan kepada orang mati atau yang masih hidup yang tidak hadir namun diyakini mampu memberikan perlindungan maka itu syirik.
+
+### Istighathah (Memohon Pertolongan di Waktu Sempit)
+
+Pada perang Badar, Rasulullah ﷺ meminta pertolongan dengan berdoa kepada Allah ﷻ agar dapat mengalahkan kaum kafir Quraisy, kemudian Allah ﷻ mengabulkan doa tersebut dengan mengirimkan bala bantuan yang berkekuatan seribu malaikat yang berbondong-bondong.
+
+<p dir="rtl" lang="ar">
+اِذْ تَسْتَغِيْثُوْنَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ اَنِّيْ مُمِدُّكُمْ بِاَلْفٍ مِّنَ الْمَلٰۤىِٕكَةِ مُرْدِفِيْنَ
+</p>
+
+*(Ingatlah), ketika kamu memohon pertolongan kepada Tuhanmu, lalu diperkenankan-Nya bagimu, “Sungguh, Aku akan mendatangkan bala bantuan kepadamu dengan seribu malaikat yang datang berturut-turut.”* (QS. Al-Anfal: 9)
+
+Memohon pertolongan di waktu sempit kepada orang mati atau yang masih hidup yang tidak hadir namun diyakini mampu memberikan pertolongan maka itu syirik.
