@@ -167,7 +167,7 @@ Berserah dirilah kepada Allah ﷻ maksudnya adalah tunduk kepada hukum-hukum All
 
 ### Isti'anah (Memohon Pertolongan)
 
-Memohon pertolongan kepada Allah ﷻ yaitu meminta pertolongan yang mencakup kesempurnaan kerendahan diri seorang hamba kepada Tuhannya, menyerahkan segala urusan kepada-Nya, dan yakin akan kecukupan-Nya. Ini tidak boleh tujukan kepada selain Allah.
+Memohon pertolongan kepada Allah ﷻ yaitu meminta pertolongan yang mencakup kesempurnaan kerendahan diri seorang hamba kepada Tuhannya, menyerahkan segala urusan kepada-Nya, dan yakin akan kecukupan-Nya. Ini tidak boleh ditujukan kepada selain Allah.
 
 <p dir="rtl" lang="ar">
 اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ
@@ -212,3 +212,33 @@ Pada perang Badar, Rasulullah ﷺ meminta pertolongan dengan berdoa kepada Allah
 *(Ingatlah), ketika kamu memohon pertolongan kepada Tuhanmu, lalu diperkenankan-Nya bagimu, “Sungguh, Aku akan mendatangkan bala bantuan kepadamu dengan seribu malaikat yang datang berturut-turut.”* (QS. Al-Anfal: 9)
 
 Memohon pertolongan di waktu sempit kepada orang mati atau yang masih hidup yang tidak hadir namun diyakini mampu memberikan pertolongan maka itu syirik.
+
+### Meyembelih
+
+Allah ﷻ memerintahkan kepada Rasulullah ﷺ untuk mengatakan kepada kaum musyrikin, bahwa sesembelihanya hanya bagi Allah ﷻ semata, bukan untuk berhala-berhala, juga bukan untuk orang-orang mati dan jin, dan bukan untuk selain itu semua, dan bukan dengan nama selain Allah sebagaimana yang orang-orang musyrikin lakukan.
+
+<p dir="rtl" lang="ar">
+قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ (162) لَا شَرِيكَ لَهُ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ (163)
+</p>
+
+*Katakanlah (Muhammad), “Sesungguhnya salatku, ibadahku, hidupku dan matiku hanyalah untuk Allah, Tuhan seluruh alam, tidak ada sekutu bagi-Nya; dan demikianlah yang diperintahkan kepadaku dan aku adalah orang yang pertama-tama berserah diri (muslim).”* (QS. Al-An'am: 162-163)
+
+Menyembelih untuk selain Allah adalah kesyirikan.
+
+<p dir="rtl" lang="ar">
+ لَعَنَ اللَّهُ مَنْ ذَبَحَ لِغَيْرِ اللَّهِ
+</p>
+
+*Allah melaknat orang yang menyembelih untuk selain Allah* (HR. Muslim, no 1978)
+
+### Bernadzar
+
+Salah satu amal soleh yang dilakukan orang yang berbuat kebaikan ketika di dunia sehingga layak mendapatkan surga adalah memenuhi sumpah nadzar, yaitu sumpah seseorang untuk melaksanakan suatu ketaatan di samping ketaatan yang telah Allah ﷻ wajibkan kepadanya.
+
+<p dir="rtl" lang="ar">
+يُوْفُوْنَ بِالنَّذْرِ وَيَخَافُوْنَ يَوْمًا كَانَ شَرُّهٗ مُسْتَطِيْرًا
+</p>
+
+*Mereka memenuhi nazar dan takut akan suatu hari yang azabnya merata di mana-mana.* (QS. Al-Insan: 7)
+
+Bernadzar hanya untuk Allah ﷻ. Bernadzar kepada selain Allah adalah perbuatan syirik.
