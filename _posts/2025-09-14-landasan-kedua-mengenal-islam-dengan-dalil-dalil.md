@@ -42,11 +42,3 @@ Islam adalah berlepas diri dari kesyirikan dan para pelakunya, harus kufur dan m
 </p>
 
 *Barang siapa ingkar kepada Tagut dan beriman kepada Allah, maka sungguh, dia telah berpegang (teguh) pada tali yang sangat kuat yang tidak akan putus.* (QS. Al-Baqarah: 256)
-
-<!-- Islam memiliki 3 tingkatan:
-
-1. Islam
-2. Iman
-3. Ihsan
-
-Setiap tingkatan ada rukun-rukun-nya. -->
