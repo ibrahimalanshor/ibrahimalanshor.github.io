@@ -21,7 +21,7 @@ Rukun islam ada lima:
 
 ### 1. Syahadatain
 
-Allah ﷻ menyatakan persaksian bahwasanya tidak ada tuhan yang berhak disembah selain Dia. Persaksian itu juga diberikan oleh para Palaikat. Persaksian itu juga diberikan oleh para ahli Ilmu dengan memberikan penjelasan tentang keesaan Allah ﷻ dan menyerukan hal tersebut.
+Allah ﷻ menyatakan kesaksian bahwasanya tidak ada tuhan yang berhak disembah selain Dia. Kesaksian itu juga diberikan oleh para Palaikat. Kesaksian itu juga diberikan oleh para ahli Ilmu dengan memberikan penjelasan tentang keesaan Allah ﷻ dan menyerukan hal tersebut.
 
 <p dir="rtl" lang="ar">
 شَهِدَ اللّٰهُ اَنَّهٗ لَآ اِلٰهَ اِلَّا هُوَۙ وَالْمَلٰۤىِٕكَةُ وَاُولُوا الْعِلْمِ قَاۤىِٕمًاۢ بِالْقِسْطِۗ لَآ اِلٰهَ اِلَّا هُوَ الْعَزِيْزُ الْحَكِيْمُ
@@ -36,3 +36,8 @@ Kalimat "لا إله إلا الله" maknanya adalah "Tidak ada sesembahan yang
 </p>
 
 *Dan ingatlah ketika Ibrahim berkata kepada bapaknya dan kaumnya: "Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu sembah, Tetapi (aku menyembah) Tuhan Yang menjadikanku; karena sesungguhnya Dia akan memberi hidayah kepadaku". Dan (lbrahim 'alaihissalam) menjadikan kalimat tauhid itu kalimat yang kekal pada keturunannya supaya mereka kembali kepada kalimat tauhid itu.* (QS. Az-Zukhruf: 26-28)
+
+Kalimat "لا إله إلا الله" memiliki dua rukun:
+
+1. "لا إله", yaitu menafikan semua sesembahan selain Allah.
+2. "إلا الله", yaitu menetapkan ibadah kepada Allah ﷻ dengan mengesakan-Nya dan tidak menyekutukan-Nya dengan sesuatu apapun.
