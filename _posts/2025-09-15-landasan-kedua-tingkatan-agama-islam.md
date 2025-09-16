@@ -18,7 +18,7 @@ Agama Islam memiliki tiga tingkatan: Islam, Iman, dan Ihsan. Setiap tingkatan me
 Rukun islam ada lima:
 
 1. Syahadatain
-2. Sholat
+2. Salat
 3. Zakat
 4. Puasa
 5. Haji
