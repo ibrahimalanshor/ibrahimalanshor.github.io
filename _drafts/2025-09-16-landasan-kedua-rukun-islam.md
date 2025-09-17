@@ -88,3 +88,23 @@ Agama Islam adalah agama yang lurus yang jauh dari kesesatan, di dalamnya diperi
 *Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar).* (QS. Al-Bayyinah: 5)
 
 Zakat disebutkan secara khusus karena ia merupakan tiang agama. Seseorang yang senantiasa membayar zakat maka dia telah menunaikan sebagian dari kebaikan yang belum dia tunaikan dan mendirikan agamanya dengan lebih sempurna.
+
+### 4. Puasa
+
+Allah ﷻ telah mewajibkan bagi orang yang beriman untuk berpuasa, sebagaimana diwajibkan kepada umat-umat sebelumnya. Salah satu amal soleh paling utama ialah puasa.
+
+<p dir="rtl" lang="ar">
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِيْنَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُوْنَۙ
+</p>
+
+*Wahai orang-orang yang beriman! Diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang sebelum kamu agar kamu bertakwa,* (QS. Al-Baqarah: 183)
+
+### 5. Haji
+
+Allah ﷻ telah mewajibkan manusia untuk mengunjungi *Baitullah* untuk menunaikan ibadah haji, bagi yang memiliki kemampuan untuk sampai ke tempat itu. Barangsiapa yang mengingkari kewajiban haji, maka dia telah kafir. Allah ﷻ Maha Kaya tidak butuh terhadap orang kafir itu dan segenap alam semesta.
+
+<p dir="rtl" lang="ar">
+وَلِلّٰهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ اِلَيْهِ سَبِيْلًا ۗ وَمَنْ كَفَرَ فَاِنَّ اللّٰهَ غَنِيٌّ عَنِ الْعٰلَمِيْنَ
+</p>
+
+*Dan (di antara) kewajiban manusia terhadap Allah adalah melaksanakan ibadah haji ke Baitullah, yaitu bagi orang-orang yang mampu mengadakan perjalanan ke sana. Barangsiapa mengingkari (kewajiban) haji, maka ketahuilah bahwa Allah Mahakaya (tidak memerlukan sesuatu) dari seluruh alam.* (QS. Ali-'Imran: 97)
