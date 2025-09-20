@@ -27,7 +27,7 @@ Orang yang tidak mau berhijrah padahal dia mampu maka dia telah dzalim kepada di
 
 ### Definisi Negeri Kafir
 
-Negeri kafir adalah negeri yang di dalamnya tidak terdapat syiar-syiar Islam secara menyeluruh. Syiar-syiar Islam contohnya azan, masjid, salat Jum'at, salat 'Ied, dll.
+Negeri kafir adalah negeri yang di dalamnya tidak terdapat syiar-syiar Islam secara menyeluruh. Syiar-syiar Islam contohnya azan, masjid, salat Jum'at, salat 'ied, dll.
 
 Tinggal di negeri kafir bahaya sangat besar terhadap agama seorang muslim, akhlaknya, perilakunya, dan adabnya. Orang yang tinggal di negara kafir akan sulit beribadah kepada Allah ﷻ, sulit menjalankan syariat karena larangan-larangan di negara kafir, dan tidak bisa tenang dengan pemandangan kesyirikan dan penyimpangan di mana-mana.
 
