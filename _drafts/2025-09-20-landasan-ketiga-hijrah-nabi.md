@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Catatan Tsalatsatul Ushul: Landasan Ketiga, Hijrah Nabi ke Madinah"
+title: "Catatan Tsalatsatul Ushul: Landasan Ketiga, Hijrah dan Dakwah Nabi"
 ---
 
 <p dir="rtl" lang="ar">
@@ -9,7 +9,7 @@ title: "Catatan Tsalatsatul Ushul: Landasan Ketiga, Hijrah Nabi ke Madinah"
 
 Tsalatsatul Ushul karya Syaikh Muhammad bin Abdul Wahhab At-Tamimi.
 
-## Landasan Ketiga: Hijrah Nabi Muhammad ﷺ ke Madinah
+## Landasan Ketiga: Hijrah dan Dakwah Nabi Muhammad ﷺ
 
 Nabi Muhammad ﷺ setelah kenabian berdakwah 10 tahun di Mekkah menyeru kepada tauhid. Kemudian beliau ﷺ diangkat ke langit untuk diperintahkan salat lima waktu. Kemudian beluau ﷺ solat lima waktu selama 3 tahun di Mekkah. Kemudian beliau diperintah untuk hijrah ke Madinah.
 
@@ -38,3 +38,37 @@ Jika terpaksa harus tingal di negeri kafir, maka boleh tapi harus memenuhi tiga 
 1. Harus bisa menjalankan syariat Islam di sana.
 2. Memiliki ilmu dan iman yang cukup untuk menyelamatkan diri dari syahwat dan syubhat.
 3. Memiliki kebutuhan di negeri kafir tersebut seperti berobat, berdakwa, sebagai utusan negara, dll.
+
+### Dakwah Nabi ﷺ Di Madinah
+
+Nabi ﷺ berdakwah selama 10 tahun Di Madinah. Di sana Nabi ﷺ diperintahkan untuk menetapkan syariat-syariat Islam seperti puasa, haji, jihad, dsb. Sampai beliau ﷺ wafat di usia 63 tahun. Dan agama yang dibawanya abadi sampai sekarang.
+
+Maka agama yang abadi itu adalah Islam. Tidak ada kebaikan kecuali Nabi ﷺ tunjukan bagi manusia kepada kebaikan tersebut, dan tidak ada keburukan kecuali Nabi  ﷺ peringatkan bahaya tersebut.
+
+Kebaikan tersebut adalah tauhid dan semua yang Allah ﷻ cintai dan ridai. Keburukan tersebut adalah sirik dan semua yang Allah ﷻ benci dan tolak.
+
+### Nabi ﷺ Diutus kepada Seluruh Manusia dan Jin
+
+Allah ﷻ mengutus Nabi ﷺ kepada seluruh manusia dan jin. Dan Allah ﷻ mewajibkan kepada seluruhnya untuk taat kepadanya.
+
+<p dir="rtl" lang="ar">
+قُلْ يٰٓاَيُّهَا النَّاسُ اِنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْ جَمِيْعًا
+</p>
+
+*Katakanlah (Muhammad), “Wahai manusia! Sesungguhnya aku ini utusan Allah bagi kamu semua,* (QS. Al-A'raf: 158)
+
+<p dir="rtl" lang="ar">
+وَاِذْ صَرَفْنَآ اِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُوْنَ الْقُرْاٰنَۚ فَلَمَّا حَضَرُوْهُ قَالُوْٓا اَنْصِتُوْاۚ فَلَمَّا قُضِيَ وَلَّوْا اِلٰى قَوْمِهِمْ مُّنْذِرِيْنَ
+</p>
+
+*Dan (ingatlah) ketika Kami hadapkan kepadamu (Muhammad) serombongan jin yang mendengarkan (bacaan) Al-Qur'an, maka ketika mereka menghadiri (pembacaan)nya mereka berkata, “Diamlah kamu (untuk mendengarkannya)!” Maka ketika telah selesai mereka kembali kepada kaumnya (untuk) memberi peringatan.* (QS. Al-Ahqaf: 29)
+
+### Nabi ﷺ Menyempurnakan Agama Islam
+
+Islam adalah agama yang terakhir, maka Islam adalah agama yang sempurna yang menyempurnakan agama-agama sebelumnya. Dan Nabi ﷺ adalah nabi terakhir yang diutus untuk menyempurnakan agama Islam.
+
+<p dir="rtl" lang="ar">
+اَلْيَوْمَ يَىِٕسَ الَّذِيْنَ كَفَرُوْا مِنْ دِيْنِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِۗ اَلْيَوْمَ اَكْمَلْتُ لَكُمْ دِيْنَكُمْ وَاَتْمَمْتُ عَلَيْكُمْ نِعْمَتِيْ وَرَضِيْتُ لَكُمُ الْاِسْلَامَ دِيْنًاۗ
+</p>
+
+*Pada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridai Islam sebagai agamamu.* (QS. Al-Ma'idah: 3)
