@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Catatan al-Ajurumiyyah: Definisi Kalam"
+title: "Catatan al-Ajurumiyyah: Mengenal Kalam"
 date: 2025-09-21 10:00:00 +0700
 ---
 
@@ -8,19 +8,19 @@ date: 2025-09-21 10:00:00 +0700
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 </p>
 
+## Definisi Kalam
+
 <p dir="rtl" lang="ar">
 الكلام هو اللفظ المركب المفيد بالوضع
 </p>
 
 *Kalam adalah lafadh yang tersusun dari dua kalimah atau lebih, yang memberikan faidah dengan cara wadlo'.*
 
-## Definisi Kalam
-
 Secara bahasa, kalam memiliki beberapa arti:
 
 1. Ungkapan di dalam hati yang bersuara dan berhuruf.
-2. Ucapan secara mutlaq, yaitu ucapan yang memberikan dapat memberikan pemahaman maupun yang tidak.
-3. Segala sesuatu selain ucapan yang memberikan dapat memberikan pemahaman seperti tulisan, bentuk isyarat, dll.
+2. Ucapan secara mutlaq, yaitu ucapan yang dapat memberikan pemahaman maupun yang tidak.
+3. Segala sesuatu selain ucapan yang dapat memberikan pemahaman seperti tulisan, bentuk isyarat, dll.
 
 Menurut istilah nahwu, kalam adalah ucapan yang tersusun dari dua kalimah yang dapat memberikan pemahaman secara wadlo' (berbahasa arab atau disengaja).
 
@@ -37,14 +37,14 @@ Suatu ucapan dapat disebut sebagai kalam dalam istliah nahwu apabila memenuhi ke
 
 Lafadh adalah ucapan yang memuat sebagian huruf hijaiyyah.
 
-Tulisan, bentuk isyarat, dll tidak bisa disebut sebagai lafadh menurut istilah nahwu, karena ia tidak diucapkan atau tidak bersuara atau sebagian tidak memuat huruf hijaiyyah.
+Tulisan, bentuk isyarat, dll tidak bisa disebut sebagai lafadh menurut istilah nahwu, karena ia tidak diucapkan dab tidak bersuara dab sebagian tidak memuat huruf hijaiyyah.
 
 Setiap yang memuat huruf hijaiyyah seperti basmalah, hamdalah, tahlil namun tidak diucapkan maka tidak bisa disebut sebagai lafadh menurut istliah nahwu, karena ia tidak diucapkan.
 
 Ada dua jenis lafadh:
 
-1. Lafadh Muhmal, yaitu lafadh yang tidak memiliki makna / arti. Seperti lafadh دَيْزٌ yang merupakan kebalikan dari زَيْدٌ.
-2. Lafadh Musta'mal, yaitu lafadh yang memiliki makna / arti. Seperti lafadh زَيْدٌ maknanya nama orang.
+1. Lafadh Muhmal, yaitu lafadh yang tidak memiliki makna. Seperti lafadh دَيْزٌ yang merupakan kebalikan dari زَيْدٌ.
+2. Lafadh Musta'mal, yaitu lafadh yang memiliki makna. Seperti lafadh زَيْدٌ maknanya nama orang.
 
 ### 2. Murokkab
 
@@ -84,3 +84,25 @@ Suatu lafadh dianggap sudah memberikan kepahaman makna jika lafadh tersebut terd
 Wadho' artinya lafadh tersebut berbahasa Arab.
 
 Lafadh dari bahasa Turki, India, yang sudah murokkab isnadiy dan mufid tidak bisa disebut kalam menurut istilah nahwu karena bukan dari bahasa Arab.
+
+## Bagian-Bagian Penyusun Kalam
+
+Bagian yang menyusun sebuah kalam disebut dengan kalimah, ada tiga jenis:
+
+1. Isim
+2. Fi'il
+3. Huruf
+
+Sebuah kalam minimal tersusun dari gabungan dua kalimah berikut:
+
+1. Isim dan Isim, contoh: زَيْدٌ جَاهِلٌ (Zaid itu bodoh)
+2. Fi'il dan Isim, contoh: فَرِحَ زَيْدٌ (Zaid telah gembira)
+
+Kalam yang sempurna tersusun dari gabungan tiga kalimah: Fi'il + Isim + Huruf. Contoh: جَلَسْتُ فِي الْمَسْجِدِ (Aku duduk di dalam masjid)
+
+Kalam tidak bisa disusun hanya dari gabungan kalimah-kalimah berikut:
+
+1. Fi'il dan Fi'il
+2. Huruf dan Huruf
+3. Fi'il dan Huruf
+4. Isim dan Huruf
