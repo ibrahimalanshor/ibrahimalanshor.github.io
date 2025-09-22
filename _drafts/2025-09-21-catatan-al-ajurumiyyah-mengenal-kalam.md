@@ -106,3 +106,19 @@ Kalam tidak bisa disusun hanya dari gabungan kalimah-kalimah berikut:
 2. Huruf dan Huruf
 3. Fi'il dan Huruf
 4. Isim dan Huruf
+
+### Kalimah Isim
+
+Isim adalah lafadh yang menunjukan kata benda, nama orang, kata sifat, nama tempat dsb dan tidak disertai dengan waktu tertentu. Contoh:
+
+1. كِتَابٌ (Buku)
+2. مُحَمَّدٌ (Nama orang)
+3. مَدْرَسَةٌ (Sekolah)
+
+Hukum asal isim adalah mu'rab, yaitu berubah-ubah harakat akhirnya karena amilnya. Contoh:
+
+1. جَاءَ زَيْدٌ (Zaid telah datang)
+2. رَأَيْتُ زَيْدًا (Aku melihat Zaid)
+3. مَرَرْتُ بِزَيْدٍ (Aku berpasasan dengan Zaid)
+
+Ada juga isim yang mabni, yang tidak berubah-ubah karena amilnya. Contohnya مَنْ.
