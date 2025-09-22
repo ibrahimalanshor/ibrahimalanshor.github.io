@@ -37,7 +37,7 @@ Suatu ucapan dapat disebut sebagai kalam dalam istliah nahwu apabila memenuhi ke
 
 Lafadh adalah ucapan yang memuat sebagian huruf hijaiyyah.
 
-Tulisan, bentuk isyarat, dll tidak bisa disebut sebagai lafadh menurut istilah nahwu, karena ia tidak diucapkan dab tidak bersuara dab sebagian tidak memuat huruf hijaiyyah.
+Tulisan, bentuk isyarat, dll tidak bisa disebut sebagai lafadh menurut istilah nahwu, karena ia tidak diucapkan, juga tidak bersuara, dan sebagian juga tidak memuat huruf hijaiyyah.
 
 Setiap yang memuat huruf hijaiyyah seperti basmalah, hamdalah, tahlil namun tidak diucapkan maka tidak bisa disebut sebagai lafadh menurut istliah nahwu, karena ia tidak diucapkan.
 
@@ -79,15 +79,15 @@ Suatu lafadh dianggap sudah memberikan kepahaman makna jika lafadh tersebut terd
 6. Isim Fi'il sudah menyertakan Fa'ilnya.
 7. Isim Maushul sudah menyertakan Shilahnya.
 
-### 4. Wadho'
+### 4. Wadlo'
 
-Wadho' artinya lafadh tersebut berbahasa Arab.
+Wadlo' artinya lafadh tersebut berbahasa Arab.
 
 Lafadh dari bahasa Turki, India, yang sudah murokkab isnadiy dan mufid tidak bisa disebut kalam menurut istilah nahwu karena bukan dari bahasa Arab.
 
 ## Bagian-Bagian Penyusun Kalam
 
-Bagian yang menyusun sebuah kalam disebut dengan kalimah, ada tiga jenis:
+Bagian yang menyusun sebuah kalam disebut dengan kalimah, ada tiga jenis kalimah:
 
 1. Isim
 2. Fi'il
@@ -106,19 +106,3 @@ Kalam tidak bisa disusun hanya dari gabungan kalimah-kalimah berikut:
 2. Huruf dan Huruf
 3. Fi'il dan Huruf
 4. Isim dan Huruf
-
-### Kalimah Isim
-
-Isim adalah lafadh yang menunjukan kata benda, nama orang, kata sifat, nama tempat dsb dan tidak disertai dengan waktu tertentu. Contoh:
-
-1. كِتَابٌ (Buku)
-2. مُحَمَّدٌ (Nama orang)
-3. مَدْرَسَةٌ (Sekolah)
-
-Hukum asal isim adalah mu'rab, yaitu berubah-ubah harakat akhirnya karena amilnya. Contoh:
-
-1. جَاءَ زَيْدٌ (Zaid telah datang)
-2. رَأَيْتُ زَيْدًا (Aku melihat Zaid)
-3. مَرَرْتُ بِزَيْدٍ (Aku berpasasan dengan Zaid)
-
-Ada juga isim yang mabni, yang tidak berubah-ubah karena amilnya. Contohnya مَنْ.
