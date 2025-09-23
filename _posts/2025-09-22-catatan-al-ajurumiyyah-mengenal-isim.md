@@ -62,3 +62,16 @@ Lafadh bisa disebut sebagai isim ketika dimasuki huruf jar. Contoh:
 كَتَبْتُ بِالْقَلَمِ (Aku menulis dengan pena)
 
 Pada contoh di atas (الْقَلَمِ) adalah isim karena dimasuki huruf jar (ب).
+
+Huruf-huruf jar:
+
+1. (مِنْ), artinya dari / sebagian / permulaan / dll, contoh: سِرْتُ مِنْ مَكَّةَ اِلَى الْمَدِيْنَةِ (Aku berjalan mulai dari Mekah sampai Madinah).
+2. (اِلَى), artinya sampai / serta / di / dll, contoh: سِرْتُ مِنْ مَكَّةَ اِلَى الْمَدِيْنَةِ (Aku berjalan mulai dari Mekah sampai Madinah).
+3. (عَنْ), artinya dari / setelah / jauh / dll, contoh: وَهُوَ الَّذِىْ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ (Dia (Allah) dzat yang menerima taubat dari hamba-hambaNya).
+4. (عَلَى), artinya atas / sebab / di / dll, contoh: فَضَّلْنَا بَعْضَهُمْ عَلَى بَعْضٍ (Kami utamakan sebagian dari mereka atas sebagian yang lain).
+5. (فِى), artinya di dalam / serta / karena / dll, contoh: الْعِلْمُ فِى الصُّدُورِ لاَ فِى السُّطُوْرِ (Ilmu itu di dalam hati, tidak dalam tulisan).
+6. (رُبَّ), artinya bisa banyak bisa juga sedikit, contoh: رُبَّ رَجُلٍ نَاصِحٍ لَقَيْتُهُ (Banyak aku temui orang alim yang menasihati).
+7. (بَاءٌ), artinya bertemu / menggunakan / dengan / sebab / dll, contoh: بَرَيْتُ الْقَلَمَ بِالسِّكِّيْنِ (Aku meruncingkan pena dengan pisau).
+8. (كَافٌ), artinya seperti / menyerupai / karena / sebab, contoh: زَيْدٌ كَالأَسَدِ (Zaid seperti macan).
+9. (لاَمٌ), artinya milik / sampai / akibat / di / dll, contoh: اَلدَّارُ لِزَيْدٍ (Rumah itu milik Zaid).
+10. Huruf-huruf qosam, yaitu (تَاءٌ، بَاءٌ، dan يَاءٌ), artinya demi / sumpah, contoh: وَاللهِ (Demi Allah).
