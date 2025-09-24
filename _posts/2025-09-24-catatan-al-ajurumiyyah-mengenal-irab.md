@@ -50,4 +50,23 @@ Amil adalah sesuatu yang bisa menghasilkan makna dan menuntut wujudnya i'rab. Co
 
 - جَاءَ زَيْدٌ amilnya adalah جَاءَ, menuntut i'rab rofa', maka lafadh setelahnya dibaca rofa' (salah satunya dlommah).
 - رَأَيْتُ زَيْدًا amilnya adalah رَأَيْتُ. menuntut i'rab nashob, maka lafadh setelahnya dibaca nashob (salah satunya fathah).
-- مَرَرْتُ بِزَيِدٍ amilnya adalah بَاءٌ. menuntut i'rab jar, maka lafadh setelahnya dibaca majrur (salah satunya kasrah).
+- مَرَرْتُ بِزَيِدٍ amilnya adalah بَاءٌ. menuntut i'rab jar, maka lafadh setelahnya dibaca jar (salah satunya kasrah).
+
+## Pembagian I'rab
+
+I'rab dibagi menjadi empat:
+
+1. Rofa'
+2. Nashob
+3. Jar
+4. Jazem
+
+Rofa' dan nashob adalah i'rab musytarok, yaitu i'rab yang bisa masuk pada isim dan fi'il. Contoh:
+
+1. Isim: جَاءَ زَيْدٌ، رَأَيْتُ زَيْدًا
+2. Fi'il: يَضْرِبُ، لَنْ 
+
+Jar dan jazem adalah i'rab mukhtash, yaitu hanya bisa masuk ke isim saja tau ke fi'il saja. Jar hanya bisa masuk ke isim dan jazem hanya bisa masuk ke fi'il. Contoh:
+
+1. Isim: مِنَ الْمَسْجِدِ
+2. Fi'il: لَمْ يَضْرِبْ
