@@ -23,7 +23,7 @@ Dlommah adalah alamat rofa' di empat tempat:
 1. Isim mufrod
 2. Jamak taksir
 3. Jamak muannats salim
-4. Fi'il mudlori' yang akhirnya tidak bertemu sesuati
+4. Fi'il mudlori' yang akhirnya tidak bertemu sesuatu
 
 ### Isim Mufrod
 
@@ -102,3 +102,53 @@ Asmaul khomsah yaitu lima lafadh berikut: أَبٌ, أخٌ, حَمٌ, فَمٌ, 
 - جَاءَ ذُوْ مَلٍ (Orang yang mempunyai harta telah datang).
 
 Syarat-syarat asmaul khomsah ditambahkan wawu ketika rofa' adalah mufrad, diidlofahkan, dsb. Jika syarat-syarat tersebut tidak dipenuhi maka i'rabnya ada yang dengan harakat ada yang dengan alif, dsb.
+
+## Alif
+
+Alif adalah alamat i'rab rofa' yang menggantikan dlommah untuk isim tatsniyah.
+
+Isim tatsniyah adalah isim yang menunjukan makna dua atau ganda. Contoh:
+
+- جَاء رَجُلاَنِ (Dua laki-laki telah datang) mufrodnya رَجُلٌ.
+- جَاءَ مُسْلِمَانِ (Dua laki-laki muslim telah datang) mufrodnya مُسْلِمٌ
+
+Isim tatsniyah ketika i'rabnya rofa' maka ditambahkan alif dan nun di akhirnya.
+
+## Nun
+
+Nun adalah alamat i'rab rofa' yang menggantikan dlommah untuk fi'il mudlori yang bertemu dengan:
+
+1. Alif dlomir tatsniyah
+2. Wawu dlomir jamak
+3. Ya' muannats mukhotobah
+
+Fi'il mudlori yang bertemu dengan tanda-tanda tersebut disebut dengan af'alul khomsah.
+
+Fi'il mudlori yang bertemu dengan tanda-tanda tersebut ketika i'rabnya rofa' maka ditambahkan nun di akhirnya.
+
+### Fi'im Mudlori Bertemu Alif Dlomir Tatsniyah
+
+Alif dlomir tatsniyah pada fi'il mudlori menunjukan pelakunya dua orang-laki atau dua mukhotob. Contoh:
+
+- هُمَا يَضْرِبَانِ (Mereka berdua (laki-laki) sedang memukul).
+- أَنْتُمَا تَضْرِبَانِ (Kalian berdua sedang memukul).
+
+Fi'il mudlori yang bertemu alif dlomir tatsniyyah ketika i'rabnya rofa' maka ditambahkan nun di akhirnya.
+
+### Fi'il Mudlori Bertemu Wawu Dlomir Jamak
+
+Wawu dlomir jamak pada fi'il mudlori menunjukan pelakunya beberapa orang laki-laki atau beberapa mukhotob. Contoh:
+
+- هُمْ يَذْهَبُوْنَ (Mereka semua (laki-laki) sedang pergi).
+- أَنْتُمْ تَذْهَبُوْنَ (Kalian semua sedang pergi).
+
+Fi'il mudlori yang bertemu wawu dlomir jamak ketika i'rabnya rofa' maka ditambahkan nun di akhirnya.
+
+### Fi'il Mudlori Bertemu Ya' Muannats Mukhotobah
+
+Ya' muannats mukhotobah pada fi'il mudlori menunjukan pelakunya adalah muannats mukhotobah. Contoh:
+
+- أَنْتِ تَطْبَحِيْنَ (Kamu (perempuan) sedang memasak).
+- أَنْتِ تَذْهَبِيْنَ (Kamu (perempuan) sedang pergi).
+
+Fi'il mudlori yang bertemu ya' muannats mukhotobah ketika i'rabnya rofa' maka ditambahkan nun di akhirnya.
