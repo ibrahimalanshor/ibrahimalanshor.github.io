@@ -14,7 +14,7 @@ Alamat i'rab rofa' ada empat, yaitu:
 3. Alif
 4. Nun
 
-Dlommah adalah alamat asalah rofa', sedangkan yang lainnya adalah penggantinya.
+Dlommah adalah alamat asal rofa', sedangkan yang lainnya adalah penggantinya.
 
 ## Dlommah
 
