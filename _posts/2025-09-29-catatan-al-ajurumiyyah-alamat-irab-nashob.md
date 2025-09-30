@@ -7,7 +7,7 @@ title: "Catatan al-Ajurumiyyah: Alamat I'rab Nashob"
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 </p>
 
-Alamat i'rab rofa' ada lima, yaitu:
+Alamat i'rab nashob ada lima, yaitu:
 
 1. Fathah
 2. Alif
