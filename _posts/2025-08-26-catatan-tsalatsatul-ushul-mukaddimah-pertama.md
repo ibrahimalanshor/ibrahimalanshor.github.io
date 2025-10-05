@@ -101,8 +101,8 @@ Dalil empat masalah di atas adalah Firman Allah dalam surah Al-'Ashr: 1-3:
 
 Dalam surah tersebut, Allah ﷺ bersumpah dengan masa (waktu), bahwa sungguh manusia itu benar-benar di dalam kerugian, seakan-akan tenggelam dalam kerugian, kerugian yang menimpanya dalam dari segala arah, kecuali orang yang memiliki empat sifat, yaitu beriman, beramal soleh, saling menasihati dalam kebenaran dan saling menasihati untuk kesabaran.
 
-- Ayat kedua tentang iman (آمَنُوا) menunjukan wajibnya berilmu, karena iman membutuhkan ilmu.
-- Ayat ketiga menunjukan wajibnya beramal (عَمِلُوا الصَّالِحَاتِ), berdakwah (تَوَاصَوْا بِالْحَقِّ), dan bersabar (تَوَاصَوْا بِالصَّبْرِ).
+- Tentang iman (آمَنُوا) menunjukan wajibnya berilmu, karena iman membutuhkan ilmu.
+- Wajibnya beramal (عَمِلُوا الصَّالِحَاتِ), berdakwah (تَوَاصَوْا بِالْحَقِّ), dan bersabar (تَوَاصَوْا بِالصَّبْرِ).
 
 ### Perkataan Imam Syafi'i Tentang Surah Al-'Ashr
 
