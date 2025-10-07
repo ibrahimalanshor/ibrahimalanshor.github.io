@@ -9,12 +9,12 @@ title: "Catatan al-Ajurumiyyah: Mengenal Mubtada'"
 
 Mubtada' adalah isim rofa' yang tidak dimasuki amil apapun kecuali amil lafdhi yang berupa tambahan. Contoh:
 
-زَيْدٌ قَائِمٌ (Zaid itu berdiri)
+<u>زَيْدٌ</u> قَائِمٌ (<u>Zaid</u> itu berdiri)
 
 Amil lafdhi adalah amil yang bisa dilihat dan dibaca, seperti كَانَ, إِنَّ, ظَنَّ. huruf jar, dsb. Contoh:
 
-- كَنَ زَيدٌ قَائِمًا
-- إِنَّ زَيدًا قَائِمٌ
+- كَانَ <u>زَيدٌ</u> قَائِمًا
+- إِنَّ <u>زَيدًا</u> قَائِمٌ
 
 ## Pembagian Mubtada'
 
@@ -25,11 +25,11 @@ Mubtada dibagi menjadi dua:
 
 Contoh mubtada zhohir:
 
-- زَيْدٌ قَائِمٌ
-- الزَّيْدَانِ قَائِمَانِ
-- الزَّيْدُوْنَ قَائِمُوْنَ
-- هِنْدٌ قَائِمَةٌ
-- الْهِنْدَاتُ قَائِمَاتٌ
+- <u>زَيْدٌ</u> قَائِمٌ
+- <u>الزَّيْدَانِ</u> قَائِمَانِ
+- <u>الزَّيْدُوْنَ</u> قَائِمُوْنَ
+- <u>هِنْدٌ</u> قَائِمَةٌ
+- <u>الْهِنْدَاتُ</u> قَائِمَاتٌ
 
 Contoh mubtada dlomir:
 
