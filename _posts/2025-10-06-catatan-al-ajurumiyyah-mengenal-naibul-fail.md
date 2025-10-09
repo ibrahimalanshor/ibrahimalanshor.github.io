@@ -30,8 +30,8 @@ Na'ibul Fa'il dibagi menjadi dua:
 
 Contoh na'ibul fa'il zhohir:
 
-- ضُرِبَ زَيْدٌ (Zaid telah dipukul)
-- يُضْرَبُ زَيْدٌ (Zaid sedang / akan dipukul)
+- <u>ضُرِبَ</u> زَيْدٌ (Zaid telah dipukul)
+- <u>يُضْرَبُ</u> زَيْدٌ (Zaid sedang / akan dipukul)
 
 Contoh na'ibul fa'il dlomir:
 

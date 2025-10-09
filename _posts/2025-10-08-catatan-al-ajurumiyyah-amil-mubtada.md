@@ -79,11 +79,31 @@ Contoh:
 
 <u>إِنَّ</u> اللهَ غَفُوْرٌ رَحِيْمٌ (Sesungguhnya Allah itu Dzat Maha Pengampun dan Penyayang)
 
-Makna _inna_ dan Saudara-saudaranya _inna_:
+Makna _inna_ dan saudara-saudaranya:
 
-1. إِنَّ (Menguatkan makna), contoh: إِنَّ زَيْدًا قَائِمٌ (Sungguh Zaid itu berdiri)
-2. أَنَّ (Menguatkan makna), contoh: أَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهِ (Aku bersaksi, bahwa sungguh Muhammad adalah Utusan Allah)
-3. لَكِنَّ (Tetapi, untuk menepis dugaan makna mubtada'), contoh: قَامَ الْقَوْمُ لَكِنَّ زَيْدًا جَالِسٌ (Kaum berdiri, tetapi Zaid duduk)
-4. كَأَنَّ (Menyerupakan makna isim dengan khobarnya), contoh: كَأَنَّ زَيْدًا أَسَدٌ (Zaid seperti macan)
-5. لَيْتَ (Mengharapkan sesuatu yang mustahil atau sangat sulit terjadi), contoh: لَيْتَ الشَّبَابَ عَائِدٌ (Semoga saja masa muda kembali)
-6. لَعَلَّ (Mengharapkan sesuatu yang mudah terjadi atau sesuatu yang disenangi), contoh: لَعَلَّ زَيْدًا قَدِمٌ (Semoga saja Zaid datang)
+1. إِنَّ (Menguatkan makna), contoh: <u>إِنَّ</u> زَيْدًا قَائِمٌ (Sungguh Zaid itu berdiri)
+2. أَنَّ (Menguatkan makna), contoh: أَشْهَدُ <u>أَنَّ</u> مُحَمَّدًا رَسُوْلُ اللهِ (Aku bersaksi, bahwa sungguh Muhammad adalah Utusan Allah)
+3. لَكِنَّ (Tetapi, untuk menepis dugaan makna mubtada'), contoh: قَامَ الْقَوْمُ <u>لَكِنَّ</u> زَيْدًا جَالِسٌ (Kaum berdiri, tetapi Zaid duduk)
+4. كَأَنَّ (Menyerupakan makna isim dengan khobarnya), contoh: <u>كَأَنَّ</u> زَيْدًا أَسَدٌ (Zaid seperti macan)
+5. لَيْتَ (Mengharapkan sesuatu yang mustahil atau sangat sulit terjadi), contoh: <u>لَيْتَ</u> الشَّبَابَ عَائِدٌ (Semoga saja masa muda kembali)
+6. لَعَلَّ (Mengharapkan sesuatu yang mudah terjadi atau sesuatu yang disenangi), contoh: <u>لَعَلَّ</u> زَيْدًا قَدِمٌ (Semoga saja Zaid datang)
+
+## Dhonna (ظَنَّ) dan Saudara-saudaranya
+
+Amil _dhonna_ dan saudara-saudaranya menashobkan mubtada' dijadikan maf'ul bih pertama dan menashobkan khobar dijadikan maf'ul bih kedua.
+
+Contoh:
+
+<u>ظَنَنْتُ</u> زَيْدًا قَائِمًا (Aku kira Zaid itu berdiri)
+
+Makna _dhonna_ dan saudara-saudaranya:
+
+1. ظَنَّ (Mengira / Menduga), contoh: <u>ظَنَنْتُ</u> زَيْدًا قَائِمًا (Aku kira Zaid itu berdiri)
+2. حَسِبَ (Mengira / Menduga), contoh: <u>حَسِبْتُ</u> زَيْدًا قَائِمًا (Aku kira Zaid itu berdiri)
+3. خَالَ (Mengira / Menduga), contoh: <u>خِلْتُ</u> زَيْدًا قَائِمًا (Aku kira Zaid itu berdiri)
+4. زَعَمَ (Mengira / Menduga), contoh: <u>زَعَمْتُ</u> زَيْدًا قَائِمًا (Aku kira Zaid itu berdiri)
+5. عَلِمَ (Mengira / Menduga), contoh: <u>عَلِمْتُ</u> زَيْدًا قَائِمًا (Aku yakin Zaid itu berdiri)
+6. وَجَدَ (Meyakini), contoh: <u>وَجَدْتُ</u> زَيْدًا قَائِمًا (Aku yakin Zaid itu berdiri)
+7. وَجَدَ (Meyakini), contoh: <u>وَجَدْتُ</u> زَيْدًا قَائِمًا (Aku yakin Zaid itu berdiri)
+8. اِتَّخَذَ (Menjadikan), contoh: <u>اِتَّخَذْتُ</u> زَيْدًا صَدِيْقًا (Aku menjadikan Zaid itu teman)
+9. سَمِعَ (Mendengar), contoh: <u>سَمِعْتُ</u> زَيْدًا يَقُوْلُ (Aku mendengar Zaid berkata)
