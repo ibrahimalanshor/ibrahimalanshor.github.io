@@ -17,15 +17,15 @@ Fa'il dibagi menjadi dua:
 
 Contoh fa'il zhohir:
 
-- Fa'il berupa mufrod mudzakar: قَامَ زَيْدٌ، يَقُوْمُ زَيْدٌ
-- Fa'il berupa mutsanna mudzakar: قَامَ الزَّيْدَانِ، يَقُوْمُ الزَّيْدَانِ
-- Fa'il berupa jamak mudzakar: قَامَ الزَّيْدُوْنَ، يَقُوْمُ الزَّيْدُوْنَ
-- Fa'il berupa jamak taksir mudazkar: قَامَ الرِّجَالُ، يَقُوْمُ الرِّجَالُ
-- Fa'il berupa mufrod muannats: قَامَتْ هِنْدٌ، تَقُوْمُ هِنْدٌ
-- Fa'il berupa mutsanna muannats: قَامَتِ الْهِنْدَانِ، تَقُوْمُ الْهِنْدَانِ
-- Fa'il berupa jamak muannats: قَامَتِ الْهِنْدَاتُ، تَقُوْمُ الْهِنْدَاتُ
-- Fa'il berupa jamak taksir muannats: قَامَتِ الْهُنُوْدُ، تَقُوْمُ الْهُنُوْدُ
-- Fa'il berupa asmaul khomsah: قَامَ أَخُوْكَ، يَقُوْمُ أَخُوْكَ
+- Fa'il berupa mufrod mudzakar: قَامَ <u>زَيْدٌ</u>، يَقُوْمُ <u>زَيْدٌ</u>
+- Fa'il berupa mutsanna mudzakar: قَامَ <u>الزَّيْدَانِ</u>، يَقُوْمُ <u>الزَّيْدَانِ</u>
+- Fa'il berupa jamak mudzakar: قَامَ <u>الزَّيْدُوْنَ</u>، يَقُوْمُ <u>الزَّيْدُوْنَ</u>
+- Fa'il berupa jamak taksir mudazkar: قَامَ <u>الرِّجَالُ</u>، يَقُوْمُ <u>الرِّجَالُ</u>
+- Fa'il berupa mufrod muannats: قَامَتْ <u>هِنْدٌ</u>، تَقُوْمُ <u>هِنْدٌ</u>
+- Fa'il berupa mutsanna muannats: قَامَتِ <u>الْهِنْدَانِ</u>، تَقُوْمُ <u>الْهِنْدَانِ</u>
+- Fa'il berupa jamak muannats: قَامَتِ <u>الْهِنْدَاتُ</u>، تَقُوْمُ <u>الْهِنْدَاتُ</u>
+- Fa'il berupa jamak taksir muannats: قَامَتِ <u>الْهُنُوْدُ</u>، تَقُوْمُ <u>الْهُنُوْدُ</u>
+- Fa'il berupa asmaul khomsah: قَامَ <u>أَخُوْكَ</u>، يَقُوْمُ <u>أَخُوْكَ</u>
 
 Contoh fa'il dlomir:
 
