@@ -11,39 +11,39 @@ Isim yang dibaca rofa' ada tujuh macam:
 
 ## 1. Fa'il
 
-Contoh: جَاءَ زَيْدٌ (Zaid telah datang)
+Contoh: جَاءَ <u>زَيْدٌ</u> (<u>Zaid</u> telah datang)
 
 ## 2. Na'ibul Fa'il
 
-Contoh: ضُرِبَ زَيْدٌ (Zaid telah dipukul)
+Contoh: ضُرِبَ <u>زَيْدٌ</u> (<u>Zaid</u> telah dipukul)
 
 ## 3. Mubtada'
 
-Contoh: زَيْدٌ قَائِمٌ (Zaid itu berdiri)
+Contoh: <u>زَيْدٌ</u> قَائِمٌ (<u>Zaid</u> itu berdiri)
 
 ## 4. Khobarnya Mubtada'
 
-Contoh: زَيْدٌ قَائِمٌ (Zaid itu berdiri)
+Contoh: <u>زَيْدٌ</u> قَائِمٌ (<u>Zaid</u> itu berdiri)
 
 ## 5. Isim كَانَ (Kaana) dan Saudaranya
 
 Contoh: 
 
-- كَانَ اللهُ رَحِيْمًا (Allah adalah dzat yang pengasih)
-- لَيْسَ زَيْدٌ قَائِمًا (Zaid tidak berdiri)
+- كَانَ <u>اللهُ</u> رَحِيْمًا (<u>Allah</u> adalah dzat yang pengasih)
+- لَيْسَ <u>زَيْدٌ</u> قَائِمًا (<u>Zaid</u> tidak berdiri)
 
 ## 6. Khobar إِنَّ (Inna) dan Saudaranya
 
 Contoh:
 
-- إِنَّ للهَ غَفُوْرٌ (Sesungguhknya Allah itu maha pengampun)
-- لَكِنَّ زَيْدًا صَالِحٌ (Akan tetapi Zaid orang sholeh)
+- إِنَّ للهَ <u>غَفُوْرٌ</u> (Sesungguhknya Allah itu <u>maha pengampun</u>)
+- لَكِنَّ زَيْدًا <u>صَالِحٌ</u> (Akan tetapi Zaid <u>orang sholeh</u>)
 
 ## 7. Isim yang Mengikuti Isim Lain yang dibaca Rofa'
 
 Jenisnya ada empat:
 
-1. Na'at: جَاءَ زَيْدٌ الْعَاقِلُ (Zaid yang berakal telah datang)
-2. Athof: جَاءَ زَيْدٌ وَخَالِدٌ (Zaid dan Khalid telah datang)
-3. Taukit: جَاءَ زَيْدٌ نَفْسُهُ (Zaid telah datang dirinya sendiri)
-4. Badal: جَاءَ زَيْدٌ أَخُوْكَ (Zaid telah datang, saudaranya)
+1. Na'at: جَاءَ زَيْدٌ <u>الْعَاقِلُ</u> (Zaid <u>yang berakal</u> telah datang)
+2. Athof: جَاءَ زَيْدٌ وَ<u>خَالِدٌ</u> (Zaid dan <u>Khalid</u> telah datang)
+3. Taukid: جَاءَ زَيْدٌ <u>نَفْسُهُ</u> (Zaid telah datang <u>dirinya sendiri</u>)
+4. Badal: جَاءَ زَيْدٌ <u>أَخُوْكَ</u> (Zaid telah datang, <u>saudaranya</u>)
