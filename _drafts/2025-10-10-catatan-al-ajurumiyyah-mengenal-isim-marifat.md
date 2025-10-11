@@ -77,3 +77,20 @@ Isim mubham adalah isim yang maknanya disamarkan, seperti isim isyarah (kata tun
 1. هَذَا (Ini)
 2. ذَالِكَ (Itu)
 3. dll
+
+## 4. Isim Maushul
+
+Isim maushul adalah isim yang menunjukan makna tertentu melalui kalam setelahnya. Contoh:
+
+- جَاءَ <u>الَّذِى</u> قَامَ أَبُوْهُ (Telah datang orang yang ayahnya berdiri)
+- جَاءَ <u>الَّذِى</u> أَبُوْهُ قَائِمٌ (Telah datang orang yang ayahnya berdiri)
+
+Macam-macam isim maushul:
+
+- الَّذِى (untuk seorang pria), جَاءَ <u>الَّذِى</u> أَبُوْهُ قَائِمٌ (Telah datang orang (pria) yang ayahnya berdiri)
+- الَّتِى (untuk seorang wanita), جَاءَتْ <u>الَّتِى</u> أَبُوْهَا قَائِمٌ (Telah datang orang (wanita) yang ayahnya berdiri)
+- الَّذِينَ (untuk banyak pria), <u>الَّذِيْنَ</u> يُؤْمِنُوْنَ بِاللهِ (Orang-orang (pria) yang beriman kepada Allah)
+- اللَّاتِي (untuk banyak wanita), <u>اللَّاتِي</u> آمَنَّ بِاللهِ (Orang-orang (wanita) yang beriman kepada Allah)
+- مَنْ (untuk seseorang (pria/wanita)), يُحِبُّ اللهُ <u>مَنْ</u> يُطِيْعُهُ (Allah mencintai orang yang menaati-Nya)
+- مَا (untuk sesuatu (yang tidak berakal)), أُحِبُّ <u>مَا</u> تُحِبُّ (Aku mencintai apa yang kamu cintai)
+- dll
