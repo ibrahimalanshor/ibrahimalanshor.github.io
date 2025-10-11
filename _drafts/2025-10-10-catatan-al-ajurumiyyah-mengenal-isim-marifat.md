@@ -61,3 +61,19 @@ Contoh dlomir mustatir jawaz:
 Contoh dlomir mustatir wujub:
 
 - أَذْهَبُ (<u>Aku</u> pergi), fa'il pada fi'il tersebut tersembunyi, yaitu dlomir mustatir (أَنَا) yang maknanya "aku", dlomir pada fi'il tersebut tidak bisa ditempati izim zhohir atau dlomir bariz.
+
+## 2. Isim Alam
+
+Isim alam adalah isim yang menunjukan suatu nama, seperti:
+
+1. Nama orang: زَيْدٌ, مُحَمَّدٌ
+2. Nama tempat: مَكَّةٌ, إِنْدُونِيسِيَا 
+3. dll
+
+## 3. Isim Mubham
+
+Isim mubham adalah isim yang maknanya disamarkan, seperti isim isyarah (kata tunjuj):
+
+1. هَذَا (Ini)
+2. ذَالِكَ (Itu)
+3. dll
