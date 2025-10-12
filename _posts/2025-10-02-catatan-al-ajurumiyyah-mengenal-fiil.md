@@ -19,9 +19,9 @@ Hukum asal fi'il adalah mabni, kecuali fi'il mudlori' yang tidak bertemu dengan 
 
 Fi'il madli adalah fi'il yang menunjukan perbuatan yang telah dilakukan di masa lampau. Contoh:
 
-- جَاءَ زَيْدٌ (Zaid telah datang)
-- ذَهَبَ زَيْدٌ (Zaid telah pergi)
-- خَرَجَ زَيْدٌ (Zaid telah pulang)
+- <u>جَاءَ</u> زَيْدٌ (Zaid telah datang)
+- <u>ذَهَبَ</u> زَيْدٌ (Zaid telah pergi)
+- <u>خَرَجَ</u> زَيْدٌ (Zaid telah pulang)
 
 Hukum fi'il madli adalah mabni dengan fathah.
 
