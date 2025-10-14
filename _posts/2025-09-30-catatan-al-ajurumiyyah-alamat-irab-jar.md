@@ -25,9 +25,9 @@ Kasrah adalah alamat jar di tiga tempat:
 
 Contoh:
 
-1. Isim mufrod munshorif: مَرَرْتُ بِزَيْدٍ (Aku bertemu dengan Zaid), كَتَبْتُ بِالْقَلَمِ (Aku menumis dengan pena)
-2. Jamak taksir munshorif: مَرَرْتُ بِرِجَالٍ (Aku bertemu dengan beberapa laki-laki)
-3. Jamak muannats salim: مَرَرْتُ بِمُسْلِمَاتٍ (Aku bertemu dengan beberapa perempuan muslim)
+1. Isim mufrod munshorif: مَرَرْتُ <u>بِزَيْدٍ</u> (Aku bertemu dengan Zaid), كَتَبْتُ <u>بِالْقَلَمِ</u> (Aku menumis dengan pena)
+2. Jamak taksir munshorif: مَرَرْتُ <u>بِرِجَالٍ</u> (Aku bertemu dengan beberapa laki-laki)
+3. Jamak muannats salim: مَرَرْتُ <u>بِمُسْلِمَاتٍ</u> (Aku bertemu dengan beberapa perempuan muslim)
 
 Munshorif maksudnya adalah isim tersebut dapat menerima tanwin.
 
@@ -35,8 +35,8 @@ Munshorif maksudnya adalah isim tersebut dapat menerima tanwin.
 
 Fathah adalah alamat jar di satu tempat, yaitu isim ghoiru munshori, isim yang tidak dapat menerima tanwin. Contoh:
 
-- مَرَرْتُ بِأَحْمَدَ (Aku bertemu dengan Ahmad)
-- مَرَرْتُ بِاِبْرَاهِيْمَ (Aku bertemu dengan Ibrahim)
+- مَرَرْتُ <u>بِأَحْمَدَ</u> (Aku bertemu dengan Ahmad)
+- مَرَرْتُ <u>بِاِبْرَاهِيْمَ</u> (Aku bertemu dengan Ibrahim)
 
 Ada 12 macam isim ghoiru munshorif, yang akan dijelaskan di catatan selanjutnya.
 
