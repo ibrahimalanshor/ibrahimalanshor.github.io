@@ -17,3 +17,4 @@ Isim رَاكِبًا (berkendara) menjelaskan kesamaran keadaan ketika Zaid dat
 
 1. Hal berupa isim nakiroh.
 2. Shohibul hal berupa isim ma'rifat.
+3. Hal terletak setelah kalam yang sempurna. Seperti fi'il ada fa'ilnya dan mubtada ada khobarnya.
