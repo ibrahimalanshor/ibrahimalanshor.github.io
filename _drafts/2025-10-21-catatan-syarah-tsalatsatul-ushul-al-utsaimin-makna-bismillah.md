@@ -46,4 +46,8 @@ Kenapa pekerjaan diakhirkan? Ada dua alasan:
 
 *(Ini adalah) Kitab yang Kami turunkan kepadamu supaya kamu mengeluarkan manusia dari gelap gulita kepada cahaya terang benderang dengan izin Tuhan mereka, (yaitu) menuju jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji. Allah-lah yang memiliki segala apa yang di langit dan di bumi.* (QS. Ibrahim: 1-2) 
 
-_Lafdzul Jalalah_ pada ayat tersebut bukanlah sifat (_na'at_), melainkan dia adalah _athof bayan_ (yang dihubungkan dengan lafadh sebelumnya tanpa huruf penghubung), agar ia tidak mengkuti atau bersandar pada lafadh sebelumnya.
+_Lafdzul Jalalah_ pada ayat tersebut bukanlah sifat (_na'at_), ia tidak mengkuti atau bersandar pada lafadh sebelumnya. Melainkan dia adalah _athaf bayan_, yang dihubungkan dengan lafadh sebelumnya tanpa huruf penghubung, untuk menjelaskan kesamaran lafadh sebelumnya.
+
+### Makna Ar-Rahman (الرحمن)
+
+_Ar-Rahman_ adalah salah satu nama Allah ﷻ, tidak boleh disandarkan kepada selain Allah. Maknanya adalah dzat yang memiliki sifat pengasih yang luas.
