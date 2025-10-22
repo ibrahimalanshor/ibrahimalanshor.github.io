@@ -23,7 +23,7 @@ Penulis memulai kitab dengan lafadh _basmalah_ dengan beberapa alasan:
 
 *Setiap perkara penting yang tidak dimulai dengan Bismillah maka ia terputus (dari berkah dan kebaikan).*
 
-## Tafsir Basmalah
+## Makna Basmalah
 
 Lafadh _basmalah_ adalah jar majrur. Jar majrur tersebut berkaitan dengan suatu perbuatan yang diakhirkan (_fi'il muakhkhar_) dan tidak dimunculkan dalam lafadh (_mahdzuf_).
 
@@ -35,3 +35,15 @@ Kenapa pekerjaan diakhirkan? Ada dua alasan:
 
 1. Untuk _tabarruk_. Yaitu mengharap berkah Allah ﷻ dengan mendahulukan nama Allah ﷻ.
 2. Untuk membatasi makna, sehingga dapat dipahami maknanya "Aku tidak menulis kitab ini dengan menyebut nama siapapun untuk mengaharap berkah dengannya selain dengan nama Allah ﷻ".
+
+### Makna Lafdzul Jalalah (الله)
+
+الله (Allah) adalah nama bagi Sang Pencipta yang semua nama mengikutinya atau bersandar kepadanya. Seperti dalam firman-Nya ﷻ:
+
+<p dir="rtl">
+كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ (1) اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ
+</p>
+
+*(Ini adalah) Kitab yang Kami turunkan kepadamu supaya kamu mengeluarkan manusia dari gelap gulita kepada cahaya terang benderang dengan izin Tuhan mereka, (yaitu) menuju jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji. Allah-lah yang memiliki segala apa yang di langit dan di bumi.* (QS. Ibrahim: 1-2) 
+
+_Lafdzul Jalalah_ pada ayat tersebut bukanlah sifat (_na'at_), melainkan dia adalah _athof bayan_ (yang dihubungkan dengan lafadh sebelumnya tanpa huruf penghubung), agar ia tidak mengkuti atau bersandar pada lafadh sebelumnya.
