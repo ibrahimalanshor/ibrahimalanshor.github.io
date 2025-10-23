@@ -51,3 +51,15 @@ _Lafdzul Jalalah_ pada ayat tersebut bukanlah sifat (_na'at_), ia tidak mengkuti
 ### Makna Ar-Rahman (الرحمن)
 
 _Ar-Rahman_ adalah salah satu nama Allah ﷻ, tidak boleh disandarkan kepada selain Allah. Maknanya adalah dzat yang memiliki sifat pengasih yang luas.
+
+### Makna Ar-Rahim (الرحيم)
+
+_Ar-Rahim_ adalah salah satu nama Allah ﷻ, boleh disandarkan kepada selain Allah. Maknanya adalah dzat yang memiliki rahmat yang bersambung (rahmat washilah).
+
+Ketika _Ar-Rahman_ dan _Ar-Rahim_ digabungkan, maka maksud _Ar-Rahim_ adalah yang dzat menyambungkan rahmat-Nya kepada siapa saja yang dikehendaki-Nya dari hamba-hamba-Nya. Seperti dalam firman-Nya ﷻ:
+
+<p dir="rtl">
+يُعَذِّبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ ۖ وَإِلَيْهِ تُقْلَبُونَ
+</p>
+
+*Allah mengazab siapa yang dikehendaki-Nya, dan memberi rahmat kepada siapa yang dikehendaki-Nya, dan hanya kepada-Nya-lah kamu akan dikembalikan.* (QS. Al-Ankabut: 21)
