@@ -17,3 +17,8 @@ Pengetahuan ada enam tingkatan:
 4. _Al-Wahm_: Mengetahui sesuatu dengan kemungkinan salahnya lebih besar.
 5. _Asy-Syak_: Mengetahui sesuatu dengan kemungkinan salah dan benarnya sama.
 6. _Azh-Zhan_: Mengetahui sesuatu dengan kemungkinan salahnya lebih rendah.
+
+Ilmu terbagi menjadi dua jenis:
+
+1. Ilmu Dharuri: Ilmu tentang pengetahuan yang sudah pasti diketahui tanpa perlu penelitian dan dalil, seperti pengetahuan bahwa api itu panas.
+2. Ilmu Nadhori: Ilmu yang membutuhkan penelitian dan dalil, seperti apakah niat itu wajib dalam wudhu.
