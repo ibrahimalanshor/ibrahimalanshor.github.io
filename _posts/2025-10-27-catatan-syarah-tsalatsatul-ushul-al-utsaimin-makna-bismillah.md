@@ -7,7 +7,7 @@ title: "Catatan Syarah Tsalatsatul Ushul al-Utsaimin: Makna Basmalah"
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 </p>
 
-Syaikh Muhammad bin Abdul Wahhab memulai kitab Tsalatsatul Ushul dengan lafadh _basmalah_.
+Syaikh Muhammad bin Abdul Wahhab _rahimahullah_ memulai kitab Tsalatsatul Ushul dengan lafadh _basmalah_.
 
 ## Mengikuti Al-Qur'an dan Meneladani Rasul
 

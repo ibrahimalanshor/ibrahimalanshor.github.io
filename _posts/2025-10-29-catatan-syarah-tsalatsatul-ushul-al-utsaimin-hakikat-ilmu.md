@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Catatan Syarah Tsalatsatul Ushul al-Utsaimin: Hakikat Ilmu"
+date: 2025-10-29 21:00:00 +0700
 ---
 
 <p dir="rtl" lang="ar">
