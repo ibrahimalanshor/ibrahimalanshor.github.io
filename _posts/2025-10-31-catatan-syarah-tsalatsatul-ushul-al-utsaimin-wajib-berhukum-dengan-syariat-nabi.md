@@ -17,6 +17,6 @@ Orang-orang yang menyalahi syariat Nabi ﷺ maka akan ditimba fitnah (cobaan) da
 فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَن تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ
 </p>
 
-*Maka hendaklah orang-orang yang menyalahi perintah Rasul takut akan ditimpa cobaan atau ditimpa azab yang pedih.*
+*Maka hendaklah orang-orang yang menyalahi perintah Rasul takut akan ditimpa cobaan atau ditimpa azab yang pedih.* (QS. An-Nur: 63)
 
 Imam Ahmad _rahimahullah_ berkata, maksud dari fitnah adalah syirik. Mungkin ketika seseorang menolak sebagian sabda Nabi ﷺ maka terbesit di dalam hatinya sesuatu yang menyimpang, dia akan binasa karena itu.

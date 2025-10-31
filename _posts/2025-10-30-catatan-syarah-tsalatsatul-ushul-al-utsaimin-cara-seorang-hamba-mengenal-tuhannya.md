@@ -24,4 +24,4 @@ Sebagaimana dalam firman Allah ﷻ:
 وَفِي الْأَرْضِ آيَاتٌ لِّلْمُوقِنِينَ (20) وَفِي أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ (21)
 </p>
 
-*Dan di bumi itu terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang yakin. Dan (juga) pada dirimu sendiri. Maka apakah kamu tidak memperhatikan?*
+*Dan di bumi itu terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang yakin. Dan (juga) pada dirimu sendiri. Maka apakah kamu tidak memperhatikan?* (QS. Adz-Dzariyat: 20-21)
