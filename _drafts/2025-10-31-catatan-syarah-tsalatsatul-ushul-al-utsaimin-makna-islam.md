@@ -23,3 +23,11 @@ Sebagaimana syariatnya Nabi Ibrahim _alaihissalam_ adalah islam, yang disebutkan
 </p>
 
 *Ya Tuhan kami, jadikanlah kami berdua orang yang tunduk patuh kepada Engkau dan (jadikanlah) diantara anak cucu kami umat yang tunduk patuh kepada Engkau.* (QS. Al-Baqarah: 128)
+
+## Makna Islam Secara Khusus
+
+Islam secara khusus adalah agama yang dibawa oleh Nabi Muhammad ﷺ. Karena agama yang dibawa Nabi ﷺ menghapus seluruh agama terdahulu.
+
+Siapa yang meenaati Nabi ﷺ maka dia seorang muslim, siapa yang ingkar maka dia bukanlah seorang muslim.
+
+Orang yang mengikuti para rasul adalah seorang muslim di zamannya. Orang Yahudi adalah muslim di zaman Nabi Musa _alaihiasalam_, orang Nasrani adalah muslim di zaman Nabi Isa _alaihissalam_. Apabila ketika Nabi Muhammad ﷺ diutus mereka ingkar kepada Nabi ﷺ maka mereka bukanlah muslim.
