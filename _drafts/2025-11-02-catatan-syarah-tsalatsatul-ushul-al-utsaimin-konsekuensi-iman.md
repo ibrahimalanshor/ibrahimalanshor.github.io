@@ -11,3 +11,5 @@ Konsekuensi dari beriman kepada Allah ﷻ adalah menjalankan ketaatan kepada-Nya
 
 - Ibadah khusus contohnya solat, puasa dan haji.
 - Ibadah muta'addiyah contohnya amar ma'ruf nahi munkar, berjihad di jalan Allah ﷻ, dan sebagainya.
+
+Pada hakikatnya, amal adalah buah dari ilmu. Orang yang beramal tanpa ilmu maka dia menyerupai orang Nasrani, sedangkan orang yang berilmu tapi tidak beramal maka dia menyerupai orang Yahudi.
