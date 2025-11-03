@@ -10,40 +10,46 @@ import '../styles/global.css'
 		<meta name="generator" content={Astro.generator} />
 		<title>Astro</title>
 	</head>
-	<body>
+	<!-- mending set base font -->
+	<body class="max-w-screen-md mx-auto px-4 py-16 text-stone-900 space-y-4 text-lg">
 		<header>
-			<p>Ibrahim Al Anshor</p>
-			<p>Web Developer</p>
+			<p class="font-bold text-4xl">Ibrahim Al Anshor</p>
+			<p class="text-xl text-stone-700">Web Developer</p>
 		</header>
 
-		<nav>
-			<a href="">Profil</a>
-			<a href="">Proyek</a>
+		<!-- apakah dibuat box? -->
+		<nav class="flex items-center gap-4 text-green-600">
+			<a href="" class="font-bold text-green-600">Profil</a>
+			<a href="">Portofolio</a>
 			<a href="">Sharing</a>
 			<a href="">Service</a>
 			<a href="">Blog</a>
 		</nav>
 
-		<p>Halo! Saya adalah seorang web developer berpengalaman dalam membangun berbagai jenis website menggunakan Laravel dan Vue.js.</p>
+		<!-- emot -->
+		<p>Halo! Saya adalah seorang web developer berpengalaman 4 tahun dalam membangun berbagai jenis website menggunakan <code class="text-sm text-green-600 font-bold">Laravel</code> dan <code class="text-sm text-green-600 font-bold">Vue.js</code>.</p>
 
-		<h2>Tech Stack</h2>
+		<!-- icon per judul -->
+		<h2 class="font-bold text-2xl">Tech Stack</h2>
 
-		<ol>
+		<!-- box dengan icon? -->
+		<ul class="list-disc ml-5">
 			<li>Laravel</li>
 			<li>Vue JS</li>
 			<li>Tailwind</li>
 			<li>MySQL</li>
 			<li>Astro</li>
-		</ol>
+		</ul>
 
-		<h2>Pengalaman Kerja</h2>
+		<h2 class="font-bold text-2xl">Pengalaman Kerja</h2>
 
-		<ol>
-			<li>
-				<h3>Fullstack Web Developer - Prioritas Web Teknologi</h3>
-				<p>2022 Juli - Sekarang</p>
+		<!-- dibuat box card? -->
+		<ol class="list-decimal ml-5 space-y-2">
+			<li class="space-y-1">
+				<h3 class="font-bold text-xl">Fullstack Web Developer - Prioritas Web Teknologi</h3>
+				<p class="text-base text-stone-700">2022 Juli - Sekarang</p>
 				<p>Prioritas Web Teknologi adalah sebuah perusahaan software house di DIY Yogyakarta. Saya mengerjakan berbagai proyek-proyek website seperti:</p>
-				<ul>
+				<ul class="list-disc ml-5">
 					<li>Aplikasi ERP Multilevel</li>
 					<li>Sistem Penjualan Tiket dan Absensi untuk Event Perusahaan</li>
 					<li>Sistem Pengadaan Barang dan Jasa</li>
@@ -51,10 +57,10 @@ import '../styles/global.css'
 					<li>Website Biro Pemberdayaan Masyarakat</li>
 				</ul>
 			</li>
-			<li>
-				<h3>Fullstack Web Developer - CV Karya Inovasi Anak Bangsa</h3>
-				<p>2022 Januari - 2022 Juli</p>
-				<ul>
+			<li class="space-y-1">
+				<h3 class="font-bold text-xl">Fullstack Web Developer - CV Karya Inovasi Anak Bangsa</h3>
+				<p class="text-base text-stone-700">2022 Januari - 2022 Juli</p>
+				<ul class="list-disc ml-5">
 					<li>Aplikasi Monitoring Transaksi Keuangan</li>
 					<li>Scraping Transaksi Keuangan Rekening Bank</li>
 					<li>Admin Panel ERP</li>
@@ -62,14 +68,15 @@ import '../styles/global.css'
 			</li>
 		</ol>
 
-		<h2>Kontak</h2>
+		<h2 class="font-bold text-2xl">Kontak</h2>
 
 		<p>Jika Anda membutuhkan bantuan seputar pengembangan website atau membutuhkan jasa pengembangan website, saya bisa membantu Anda (gratis diskusi dan konsultasi), silakan hubungi saya melalui kontak berikut:</p>
 
-		<ul>
-			<li>Email: <a href="">ibrahimalanshor6@gmail.com</a></li>
-			<li>LinkedIn: <a href="">linkedin.com/in/ibrahimalanshor</a></li>
-			<li>X (Twitter): <a href="">@ibrahiminx</a></li>
+		<!-- icon -->
+		<ul class="list-disc ml-5">
+			<li>Email: <a class="text-green-600" href="">ibrahimalanshor6@gmail.com</a></li>
+			<li>LinkedIn: <a class="text-green-600" href="">linkedin.com/in/ibrahimalanshor</a></li>
+			<li>X (Twitter): <a class="text-green-600" href="">@ibrahiminx</a></li>
 			<li>Domisii: DIY Yogyakarta / Banjarnegara</li>
 		</ul>
 	</body>
