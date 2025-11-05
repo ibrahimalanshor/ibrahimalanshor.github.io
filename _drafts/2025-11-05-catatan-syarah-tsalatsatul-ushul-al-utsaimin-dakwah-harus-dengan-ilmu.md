@@ -20,3 +20,13 @@ Bashiroh dalam berdakwah adalah seorang pendakwah hendaknya mengetahui hal-hal b
 1. Mengetahui ilmu-ilmu tentang hukum syariat.
 2. Mengetahui cara berdakwah.
 3. Mengetahui kondisi orang yang didakwahi.
+
+## Medan-Medan Dakwah
+
+Medan untuk berdakwah kepada Allah ﷻ ada banyak:
+
+- Berdakwah dengan pidato
+- Berdakwah dengan berceramah
+- Berdakwah dengan menulis makalah
+- Berdakwah dengan membuat halaqah ilmu
+- Berdakwah dengan membuat karya tulis dan karangan

@@ -16,7 +16,7 @@ Saya memulai karier profesional pada awal 2022 sebagai [**Front-End Web Develope
 
 Pada Juli 2022, saya bergabung dengan PT Prioritas Web Teknologi di Yogyakarta sebagai [**Front-End Web Developer**](https://www.w3schools.com/whatis/whatis_frontenddev.asp). Di sana, saya mengerjakan berbagai proyek seperti portal berita instansi, sistem audit kearsipan, dan sistem ERP.
 
-Sejak Juli 2023, saya mulai berperan sebagai [**Fullstack Developer**](https://www.w3schools.com/whatis/whatis_fullstack.asp) di PT Prioritas Web Teknologi. Dalam peran ini, saya mulai terlibat di bagian backend, seperti pengembangan API, optimasi performa sistem, dan optimasi database untuk sistem ERP. Saya juga membangun sistem customer service yang terintegrasi dengan API WhatsApp Bisnis.
+Sejak Juli 2023, saya mulai berperan sebagai [**Fullstack Web Developer**](https://www.w3schools.com/whatis/whatis_fullstack.asp) di PT Prioritas Web Teknologi. Dalam peran ini, saya mulai terlibat di bagian backend, seperti pengembangan API, optimasi performa sistem, dan optimasi database untuk sistem ERP. Saya juga membangun sistem customer service yang terintegrasi dengan API WhatsApp Bisnis.
 
 Saat ini, saya masih aktif bekerja di PT Prioritas Web Teknologi, dan terus mengembangkan keterampilan dalam bidang web development, terutama di sisi backend.
 
