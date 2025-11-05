@@ -30,3 +30,8 @@ Medan untuk berdakwah kepada Allah ﷻ ada banyak:
 - Berdakwah dengan menulis makalah
 - Berdakwah dengan membuat halaqah ilmu
 - Berdakwah dengan membuat karya tulis dan karangan
+- Berdakwah dengan membuat majlis khusus
+
+Ketika seseorang duduk di suatu majlis untuk berdakwah, maka itu adalah peluang untuk berdakwah kepada Allah ﷻ. Maka hendaknya dakwah tersebut dengan cara yang tidak membosankan dan tidak memberatkan.
+
+Misalnya seorang dai memaparkan suatu permasalahan ilmiyyah, lalu dimulai diskusi dan tanya jawab terkait masalah tersebut. Cara ini bisa saja lebih efektif untuk memahami agama dan ilmu daripada ceramah yang satu arah saja.
