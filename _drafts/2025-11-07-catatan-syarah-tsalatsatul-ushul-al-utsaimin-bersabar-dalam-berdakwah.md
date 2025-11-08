@@ -42,3 +42,25 @@ Seperti itulah para Rasul, mereka diganggu dengan ucapan dan perbuatan.
 </p>
 
 *Dan seperti itulah, telah Kami adakan bagi tiap-tiap nabi, musuh dari orang-orang yang berdosa. Dan cukuplah Tuhanmu menjadi Pemberi petunjuk dan Penolong.* (QS. Al-Furqan: 31)
+
+## Menerima Gangguan Dalam Dakwah dengan Bersabar
+
+Seorang pendakwah hendaknya menerima gangguan dalam dakwah dengan bersabar, perhatikan firman Allah ﷻ berikut:
+
+<p dir="rtl" lang="ar">
+إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنزِيلًا (23) فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا (24)
+</p>
+
+*Sesungguhnya Kami telah menurunkan Al Quran kepadamu (hai Muhammad) dengan berangsur-angsur. Maka bersabarlah kamu untuk (melaksanakan) ketetapan Tuhanmu, dan janganlah kamu ikuti orang yang berdosa dan orang yang kafir di antar mereka.* (QS. Al-Insan: 23-24)
+
+Setelah ayat 23, Allah ﷻ memerintahkan Nabi ﷺ untuk bersabar, yang menunjukan bahwa siapa saja yang menegakkan Al-Quran pasti akan mengalami apa yang Nabi ﷺ alami, yaitu hal-hal yang membutuhkan kesabaran.
+
+Nabi ﷺ dipukul oleh kaumnya hingga berdarah, Nabi ﷺ pun mengusap darah dari wajahnya sambil berdoa:
+
+<p dir="rtl" lang="ar">
+اللَّهُمَّ اغْفِرْ لِقَوْمِي فَإِنَّهُمْ لَا يَعْلَمُونَ
+</p>
+
+*Ya Allah ampunilah kaumku, karena sungguh mereka tidak mengetahui.* (HR. Bukhari: 3477)
+
+Maka dari itu setiap pendakwah harus senantiasa bersabar dan hanya mengharap pahala dari Allau ﷻ.
