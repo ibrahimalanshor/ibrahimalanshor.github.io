@@ -64,3 +64,11 @@ Nabi ﷺ dipukul oleh kaumnya hingga berdarah, Nabi ﷺ pun mengusap darah dari 
 *Ya Allah ampunilah kaumku, karena sungguh mereka tidak mengetahui.* (HR. Bukhari: 3477)
 
 Maka dari itu setiap pendakwah harus senantiasa bersabar dan hanya mengharap pahala dari Allau ﷻ.
+
+## Macam-Macam Sabar
+
+Sabar ada tiga macam:
+
+1. Sabar dalam menjalankan ketaatan kepada Allah ﷻ.
+2. Sabar dalam menjauhi yang diharamkan oleh Allah ﷻ.
+3. Sabar atas takdir-takdir Allah ﷻ.
