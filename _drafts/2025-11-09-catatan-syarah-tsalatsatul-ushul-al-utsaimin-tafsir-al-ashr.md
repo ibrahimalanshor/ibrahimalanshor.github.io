@@ -24,4 +24,15 @@ Sungguh, semua manusia benar-benar di dalam kerugian, kecuali orang yang memilik
 1. Beriman
 2. Beramal Salih
 3. Saling berwasiat dalam kebenaran
-4. Saling berwasiat dengan kesabaran
+4. Saling berwasiat dengan 
+
+## 4 Tingkatan Jihad Melawan Hawa Nafsu
+
+Ibnul Qayyim _Rahimahullah_ menyebutkan jihad melawan hawa nafsu terbagi menjadi 4 tingkatan:
+
+1. Jihad dengan menuntut ilmu agama, yang merupakan kunci kebahagiaan di dunia dan akhirat.
+2. Jihad dengan mengamalkan ilmu yang sudah diketahui.
+3. Jihad dengan mendakwahkan ilmu tersebut kepada orang yang mengetahui.
+4. Jihad dengan bersabar dalam segala gangguan di dalam dakwah, semata-mata hanya untuk Allah ﷻ.
+
+Orang yang telah menyempurnakan keempat tingkatan ini, maka ia termasuk golongan Robbaaniyyiin (Orang-orang Robbani).
