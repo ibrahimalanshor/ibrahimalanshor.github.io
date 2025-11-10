@@ -36,3 +36,13 @@ Ibnul Qayyim _Rahimahullah_ menyebutkan jihad melawan hawa nafsu terbagi menjadi
 4. Jihad dengan bersabar dalam segala gangguan di dalam dakwah, semata-mata hanya untuk Allah ﷻ.
 
 Orang yang telah menyempurnakan keempat tingkatan ini, maka ia termasuk golongan Robbaaniyyiin (Orang-orang Robbani).
+
+## Amar Ma'ruf Nahi Munkar
+
+Saling berwasiat dalam menetapi kebenaran dan kesabaran juga meliputi amar ma'ruf nahi munkar yang keduanya merupakan syarat tegaknya umat, kebaikan, kemenangan, kemuliaan dan keutamaan. Allah ﷻ berfirman:
+
+<p dir="rtl" lang="ar">
+كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ ۗ
+</p>
+
+*Kamu adalah umat yang terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar, dan beriman kepada Allah.* (QS. Ali 'Imran: 110)
