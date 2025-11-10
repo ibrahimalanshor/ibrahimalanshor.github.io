@@ -21,10 +21,10 @@ Al-'Ashr artinya adalah masa, yaitu tempat (ruang) segala kejadian, yang baik da
 
 Sungguh, semua manusia benar-benar di dalam kerugian, kecuali orang yang memiliki 4 sifat:
 
-1. Beriman
-2. Beramal Salih
-3. Saling berwasiat dalam kebenaran
-4. Saling berwasiat dengan 
+1. Beriman, mencakup semua hal yang mendekatkan diri kepada Allah ﷻ dalam bentuk kepercayaan yang benar dan ilmu yang bermanfaat.
+2. Beramal Salih, ucapan dan perbuatan yang mendekatkan diri kepada Allah ﷻ, harus iklhas karena Allah ﷻ semata, dan mengikuti petunjuk Nabi ﷺ.
+3. Saling berwasiat dalam kebenaran, mewasiatkan satu sama lain untuk mengerjakan perbuatan baik dan menganjurkannya.
+4. Saling berwasiat dengan kesabaran, mewasiatkan satu sama lain untuk bersabar dalam menjalankan perintah Allah ﷻ, menjauhi larangan-Nya dan menerima ketetapan-Nya.
 
 ## 4 Tingkatan Jihad Melawan Hawa Nafsu
 
