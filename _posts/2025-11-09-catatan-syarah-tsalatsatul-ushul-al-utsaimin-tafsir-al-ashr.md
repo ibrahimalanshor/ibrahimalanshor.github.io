@@ -46,3 +46,17 @@ Saling berwasiat dalam menetapi kebenaran dan kesabaran juga meliputi amar ma'ru
 </p>
 
 *Kamu adalah umat yang terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar, dan beriman kepada Allah.* (QS. Ali 'Imran: 110)
+
+## Surat Ini Cukup untuk Memotivasi Manusia Menyelamatkan Dirinya dari Kerugian
+
+Imam Syafi'i _rahimahullah_ berkata:
+
+<p dir="rtl" lang="ar">
+لَوْ مَا أَنْزَلَ اللهُ حُجَّةً عَلَى خَلْقِهِ إِلَّا هَذِهِ الصُّورَةَ لَكَفَتْهُمْ
+</p>
+
+*Seandainya Allah tidak menurunkan suatu hujjah kepada makhluk-Nya selain surat ini, niscaya ia sudah cukup bagi mereka*
+
+Maksudnya, orang yang berakal ketika membaca atau mendengarkan surat ini, maka dia akan bergegas menyelamatkan dirinya dari kerugian, yaitu dengan mensifati dirinya dengan 4 sifat: beriman, beramal salih, saling berwasiat dalam kebenara, dan saling berwasiat dengan kesabaran.
+
+Cukup di sini, adalah cukup untuk memotivasi manusia menyelamatkan dirinya dari kerugian, bukan cukup dalam semua syariat.
