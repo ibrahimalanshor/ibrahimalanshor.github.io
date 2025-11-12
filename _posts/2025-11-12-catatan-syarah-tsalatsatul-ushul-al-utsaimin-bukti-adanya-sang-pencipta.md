@@ -86,3 +86,21 @@ Maka sang pencipta manusia dan semua makhluk adalah Allah ﷻ Yang Maha Esa, tid
 </p>
 
 *Ingatlah, menciptakan dan memerintah hanyalah hak Allah* (QS. Al-A'raf: 54)
+
+Tidaklah seseorang ingkar terhadap _Rububiyyah_ Allah ﷻ kecuali karena kesombongan, sebagaimana yang terjadi pada fir'aun.
+
+Ketika Jubair bin Muth'im mendengar Rasulullah membaca surat At-Tur sampai pada ayat:
+
+<p dir="rtl" lang="ar">
+أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ (35) أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ ۚ بَل لَّا يُوقِنُونَ (36) أَمْ عِندَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ (37)
+</p>
+
+*Apakah mereka diciptakan tanpa sesuatupun ataukah mereka yang menciptakan (diri mereka sendiri)? Ataukah mereka telah menciptakan langit dan bumi itu?; sebenarnya mereka tidak meyakini (apa yang mereka katakan). Ataukah di sisi mereka ada perbendaharaan Tuhanmu atau merekakah yang berkuasa?* (QS. At-Tur: 35-37)
+
+Pada saat itu Jubair masih musyrik, seketika ia berkata:
+
+<p dir="rtl" lang="ar">
+كاد قلبي أن يطير وذلك أول ما وقر الإيمن في قلبي
+</p>
+
+*Hampir saja hatiku melayang dan itulah awal bersemayamnya iman di dalam hatiku.* (HR. Bukhari: 4854)
