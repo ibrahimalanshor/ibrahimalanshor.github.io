@@ -56,3 +56,75 @@ Diutusnya para rasul kepada manusia adalah di antara hikmah-hikmah Allah ﷻ kep
 </p>
 
 *Sesungguhnya Kami telah mengutus kepada kamu (hai orang kafir Mekah) seorang Rasul, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus (dahulu) seorang Rasul kepada Fir'aun. Maka Fir'aun mendurhakai Rasul itu, lalu Kami siksa dia dengan siksaan yang berat.* (QS. Al-Muzzammil: 15-16)
+
+### Yang Taat Kepada Rasul Akan Masuk Surga
+
+Orang yang menaati Rasulullah ﷺ akan masuk surga, berdasarkan firman-firman Allah ﷻ yang banyak ini:
+
+<p dir="rtl" lang="ar">
+وَأَطِيعُوا اللَّهَ وَالرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ (132) وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ (133)
+</p>
+
+*Dan taatilah Allah dan Rasul, supaya kamu diberi rahmat. Dan bersegeralah kamu kepada ampunan dari Tuhanmu dan kepada surga yang luasnya seluas langit dan bumi yang disediakan untuk orang-orang yang bertakwa,* (QS. Ali 'Imran: 132-133)
+
+<p dir="rtl" lang="ar">
+وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ الْفَوْزُ الْعَظِيمُ
+</p>
+
+*Barangsiapa taat kepada Allah dan Rasul-Nya, niscaya Allah memasukkannya kedalam surga yang mengalir didalamnya sungai-sungai, sedang mereka kekal di dalamnya; dan itulah kemenangan yang besar.* (QS. An-Nisa: 13)
+
+<p dir="rtl" lang="ar">
+وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ وَيَخْشَ اللَّهَ وَيَتَّقْهِ فَأُولَٰئِكَ هُمُ الْفَائِزُونَ
+</p>
+
+*Dan barang siapa yang taat kepada Allah dan rasul-Nya dan takut kepada Allah dan bertakwa kepada-Nya, maka mereka adalah orang-orang yang mendapat kemenangan.* (QS. An-Nur: 52)
+
+<p dir="rtl" lang="ar">
+وَمَن يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا
+</p>
+
+*Dan barangsiapa yang mentaati Allah dan Rasul(Nya), mereka itu akan bersama-sama dengan orang-orang yang dianugerahi nikmat oleh Allah, yaitu: Nabi-nabi, para shiddiiqiin, orang-orang yang mati syahid, dan orang-orang saleh. Dan mereka itulah teman yang sebaik-baiknya.* (QS. An-Nisa: 69)
+
+<p dir="rtl" lang="ar">
+وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا
+</p>
+
+*Dan barangsiapa mentaati Allah dan Rasul-Nya, maka sesungguhnya ia telah mendapat kemenangan yang besar.* (QS. Al-Ahzab: 71)
+
+Dan dari sabda Nabi ﷺ:
+
+<p dir="rtl" lang="ar">
+كل أمتي يدخلون الجنة إلا من أبى، فقيل: ومن يأبى يا رسول الله؟ قال: من أطاعني دخل الجنة ومن عصاني دخل النار
+</p>
+
+*"Setiap umatku akan masuk surga kecuali yang enggan." Beliau ditanya, "Siapa yang enggan wahai Rasulullah?" Beliau menjawab, "Barangsiapa taat kepadaku, niscaya masuk surga dan barangsiapa ingkar kepadaku niscaya masuk neraka."* (HR. Bukhari: 7280)
+
+### Yang Ingkar Kepada Rasul Akan Masuk Neraka
+
+Orang yang ingkar kepada Rasulullah ﷺ akan masuk neraka, berdasarkan firman-firman Allah ﷻ ini:
+
+<p dir="rtl" lang="ar">
+وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ وَيَتَعَدَّ حُدُودَهُ يُدْخِلْهُ نَارًا خَالِدًا فِيهَا وَلَهُ عَذَابٌ مُّهِينٌ
+</p>
+
+*Dan barangsiapa yang mendurhakai Allah dan Rasul-Nya dan melanggar ketentuan-ketentuan-Nya, niscaya Allah memasukkannya ke dalam api neraka sedang ia kekal di dalamnya; dan baginya siksa yang menghinakan.* (QS. An-Nisa: 14)
+
+<p dir="rtl" lang="ar">
+وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُّبِينًا
+</p>
+
+*Dan barangsiapa mendurhakai Allah dan Rasul-Nya maka sungguhlah dia telah sesat, sesat yang nyata.* (QS. Al-Ahzab: 36)
+
+<p dir="rtl" lang="ar">
+وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا
+</p>
+
+*Dan barangsiapa yang mendurhakai Allah dan Rasul-Nya maka sesungguhnya baginyalah neraka Jahannam, mereka kekal di dalamnya selama-lamanya.* (QS. Al-Jin: 23)
+
+Dan dari sabda Nabi ﷺ:
+
+<p dir="rtl" lang="ar">
+ومن عصاني دخل النار
+</p>
+
+*Dan barangsiapa ingkar kepadaku niscaya masuk neraka.* (HR. Bukhari: 7280)
