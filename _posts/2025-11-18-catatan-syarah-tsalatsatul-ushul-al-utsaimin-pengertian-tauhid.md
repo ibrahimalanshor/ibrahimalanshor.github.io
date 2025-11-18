@@ -60,3 +60,24 @@ Yaitu mengesakan Allah ﷻ dalam beribadah, yaitu tidak menyekutukan Allah denga
 ### 3. Tauhid Asma wa Shifat
 
 Yaitu mengesakan Allah ﷻ sesuai dengan Nama dan Sifat Allah ﷻ yang Dia sandangkan kepada DiriNya sendiri dalam kitabNya dan lisan Rasulullah ﷺ, dengan menetapkan apa yang Allah ﷻ tetapkan dan menafikkan apa yang Allah ﷻ nafi'kan, tanpa *ta'rif* (mengubah), *ta'thil* (menafikkan), *takyif* (menetapkan bentuk dan caranya), dan *tamsyil* (menyerupakan dengan makhluk).
+
+
+### Hubungan Tiga Bagian Tauhid
+
+Banyak orang musyrikin yang tersesat karena mengingkari tauhid uluhiyyah, meskipun mereka menetapi tauhid rububiyyah dan tauhid asma wa shifat.
+
+Barang siapa yang mengingkari tauhid ulihiyyah maka dia adalah seorang yang musyrik dan kafir, meskipun dia telah menetapi tauhid rububiyyah dan tauhid asma wa shifat dengan sempurna.
+
+Maka apabila ada orang yang mengesakan Allah ﷻ dalam rububiyyah-Nya, Sifat dan Nama-Nya, namun dia pergi ke kuburan lalu berdoa kepada orang yang dikubur, bernadzar kepadanya, memberikan sesajen untuk mendekatkan diri kepadanya, maka dia telah musyrik, kafir dan dia kekal di dalam neraka.
+
+<p dir="rtl" lang="ar">
+إِنَّهُ مَن يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَمَأْوَاهُ النَّارُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ
+</p>
+
+*Sesungguhnya orang yang mempersekutukan (sesuatu dengan) Allah, maka pasti Allah mengharamkan kepadanya surga, dan tempatnya ialah neraka, tidaklah ada bagi orang-orang zalim itu seorang penolongpun.* (QS. Al-Ma'idah: 72)
+
+## Keutamaan Tauhid
+
+Tauhid adalah perkara yang paling agung dari perkara-perkara yang Allah ﷻ perintahkan, karena agama dibangun dengan pondasi tauhid seluruhnya.
+
+Nabi ﷺ memulai dakwahnya dengan tauhid dan memerintahkan orang yang diutusnya untuk memulai dakwahnya dengan tauhid.
