@@ -1,4 +1,6 @@
 ---
+import { Icon } from 'astro-icon/components'
+import '@fontsource/source-sans-pro'
 import '../styles/global.css'
 ---
 
@@ -10,98 +12,183 @@ import '../styles/global.css'
 		<meta name="generator" content={Astro.generator} />
 		<title>Astro</title>
 	</head>
-	<body>
+	<body class="max-w-screen-sm mx-auto text-gray-900 font-[Source_Sans_Pro]">
 
-		<!-- emot kah? -->
-		<h1>Halo! Saya Ibrahim!</h1>
+		<nav class="p-4 flex items-center justify-between gap-2">
+			<button class="sm:hidden">
+				<Icon name={"tabler:menu-2"} />
+			</button>
+			<div class="flex items-center gap-4">
+				<a href="" class="font-bold">Ibrahim al-Anshor</a>
 
-		<!--  -->
-		<p>Saya seorang web developer, biasa menggunakan Vue.js dan Laravel. Di blog ini saya akan berbagi tulisan seputar coding dan proyek aplikasi yang saya kembangkan.</p>
+				<div class="hidden sm:flex sm:gap-4">
+					<a href="">Tulisan</a>
+					<a href="">Proyek</a>
+					<a href="">Tentang</a>
+					<a href="">Kontak</a>
+				</div>
+			</div>
+			<button>
+				<Icon name={"tabler:moon"} />
+			</button>
+		</nav>
 
-		<p>Buat anda yang membutuhkan jasa pembuatan website atau aplikasi atau ingin konsultasi, bisa hubungi saya di <a href="ibrahimalanshor6@gmail.com">ibrahimalanshor6@gmail.com</a>, saya siap membantu anda.</p>
+		<div class="p-4">
+			<h1 class="mb-4 font-bold text-2xl flex items-center gap-2">
+				<Icon name={"twemoji:waving-hand"} />
+				Halo! Saya Ibrahim!
+			</h1>
 
-		<p>Kalau anda butuh mentor untuk belajar coding atau ingin konsultasi seputar coding, bisa juga hubungi saya di email tersebut.</p>
+			<p class="mb-4 text-base/7">Saya seorang web developer, biasa menggunakan <code class="bg-gray-200 text-gray-900 font-mono py-0.5 px-1 text-sm rounded">Vue.js</code> dan <code class="bg-gray-200 text-gray-900 font-mono py-0.5 px-1 text-sm rounded">Laravel</code>. Di blog ini saya akan berbagi tulisan seputar coding dan proyek aplikasi yang saya kembangkan.</p>
 
-		<div>
-			<h2>Hubungi Saya</h2>
-			<a href="">Email</a>
-			<a href="">Twitter</a>
-			<a href="">Facebook</a>
-			<a href="">Instagram</a>
-			<a href="">Github</a>
-			<a href="">LinkedIn</a>
-			<a href="">Youtube</a>
+			<p class="mb-4 text-base/7">Buat kamu yang membutuhkan jasa pembuatan website atau aplikasi atau ingin konsultasi, bisa hubungi saya di <a href="ibrahimalanshor6@gmail.com" class="text-blue-600 underline">ibrahimalanshor6@gmail.com</a>, saya siap membantu kamu.</p>
+
+			<p class="mb-4 text-base/7">Kalau kamu butuh mentor untuk belajar coding atau ingin konsultasi seputar coding, bisa juga hubungi saya di email tersebut.</p>
+
+			<h2 class="font-bold text-xl mt-8 mb-4 flex items-center gap-2">
+				Hubungi Saya
+			</h2>
+			
+			<!-- gimana biar terlihat lebih hidup -->
+			<div class="flex flex-wrap gap-y-2 gap-x-4">
+				<a href="" class="flex items-center gap-2 hover:underline">
+					<Icon name="tabler:mail" /> Email
+				</a>
+				<a href="" class="flex items-center gap-2 hover:underline">
+					<Icon name="tabler:brand-linkedin" /> Linkedin
+				</a>
+				<a href="" class="flex items-center gap-2 hover:underline">
+					<Icon name="tabler:brand-instagram" /> Instagram
+				</a>
+				<a href="" class="flex items-center gap-2 hover:underline">
+					<Icon name="tabler:brand-twitter" /> Twitter
+				</a>
+				<a href="" class="flex items-center gap-2 hover:underline">
+					<Icon name="tabler:brand-facebook" /> Facebook
+				</a>
+				<a href="" class="flex items-center gap-2 hover:underline">
+					<Icon name="tabler:brand-github" /> Github
+				</a>
+				<a href="" class="flex items-center gap-2 hover:underline">
+					<Icon name="tabler:brand-youtube" /> Youtube
+				</a>
+			</div>
+
+			<h2 class="font-bold text-xl mt-8 mb-4 flex items-center gap-2">
+				Tulisan Terbaru
+			</h2>
+
+			<!-- perlu thumbnail? -->
+			 <!-- link warna -->
+			  <!-- tag warna perlu abnget? -->
+			<ol class="space-y-4 mb-4">
+				<li class="flex flex-wrap gap-x-2 items-center">
+					<span class="text-gray-500 text-sm">17 Nov</span>
+					<span class="text-sm text-blue-600 underline">nodejs</span>
+					<a href="" class="block w-full hover:underline">Apa Itu Peer Dependencies di NPM?</a>
+				</li>
+				<li class="flex flex-wrap gap-x-2 items-center">
+					<span class="text-gray-500 text-sm">9 Nov</span>
+					<span class="text-sm text-blue-600 underline">testing</span>
+					<a href="" class="block w-full hover:underline">Memudahkan Testing Elemen HTML dengan atribut data-testid</a>
+				</li>
+				<li class="flex flex-wrap gap-x-2 items-center">
+					<span class="text-gray-500 text-sm">28 Okt</span>
+					<span class="text-sm text-blue-600 underline">docs</span>
+					<a href="" class="block w-full hover:underline">Vitepress VS Stralight, Mana yang Lebih Baik untuk Dokumentasi</a>
+				</li>
+				<li class="flex flex-wrap gap-x-2 items-center">
+					<span class="text-gray-500 text-sm">26 Okt</span>
+					<span class="text-sm text-blue-600 underline">javascript</span>
+					<a href="" class="block w-full hover:underline">Kapan Menggunakan let di Javascript</a>
+				</li>
+				<li class="flex flex-wrap gap-x-2 items-center">
+					<span class="text-gray-500 text-sm">14 Okt</span>
+					<span class="text-sm text-blue-600 underline">mysql</span>
+					<a href="" class="block w-full hover:underline">Query Rekursi di MySQL</a>
+				</li>
+			</ol>
+
+			<a href="" class="text-blue-600 hover:border-b flex items-center gap-2">
+				Lihat Lebih Banyak
+				<Icon name={"tabler:arrow-right"} />
+			</a>
+			
+			<h2 class="font-bold text-xl mt-8 mb-4 flex items-center gap-2">
+				Proyek
+			</h2>
+
+			<!-- perlu acrd di icon? -->
+			<ol class="grid grid-cols-1 gap-4 mb-4">
+				<li class="flex items-center gap-4">
+					<Icon name={"twemoji:clipboard"} size={32} />
+					<div>
+						<a href="" class="font-bold">Todoin</a>
+						<p class="text-gray-500">Aplikasi todo list</p>
+					</div>
+				</li>
+				<li class="flex items-center gap-4">
+					<Icon name={"twemoji:dollar-banknote"} size={32} />
+					<div>
+						<a href="" class="font-bold">Catatin</a>
+						<p class="text-gray-500">Aplikasi pencatatan keuangan</p>
+					</div>
+				</li>
+				<li class="flex items-center gap-4">
+					<Icon name={"twemoji:mosque"} size={32} />
+					<div>
+						<a href="" class="font-bold">Muslim Kit</a>
+						<p class="text-gray-500">Al-Quran, Hadis dan Fatwa Ulama</p>
+					</div>
+				</li>
+				<li class="flex items-center gap-4">
+					<Icon name={"twemoji:flag-saudi-arabia"} size={32} />
+					<div>
+						<a href="" class="font-bold">Irabin</a>
+						<p class="text-gray-500">Belajar irab dan auto irab</p>
+					</div>
+				</li>
+				<li class="flex items-center gap-4">
+					<Icon name={"twemoji:desktop-computer"} size={32} />
+					<div>
+						<a href="" class="font-bold">HTML Playground</a>
+						<p class="text-gray-500">Live online HTML Playground</p>
+					</div>
+				</li>
+			</ol>
+
+			<a href="" class="text-blue-600 hover:border-b flex items-center gap-2">
+				Lihat Lebih Banyak
+				<Icon name={"tabler:arrow-right"} />
+			</a>
+
+			<!-- borde r / bg -->
+			<footer class="border-t border-gray-200 mt-8 pt-4 text-center space-y-2 text-gray-700">
+				<div class="flex flex-wrap justify-center gap-4">
+					<a href="" class="flex items-center gap-2 hover:border-b">
+						<Icon name="tabler:mail" />
+					</a>
+					<a href="" class="flex items-center gap-2 hover:border-b">
+						<Icon name="tabler:brand-linkedin" />
+					</a>
+					<a href="" class="flex items-center gap-2 hover:border-b">
+						<Icon name="tabler:brand-instagram" />
+					</a>
+					<a href="" class="flex items-center gap-2 hover:border-b">
+						<Icon name="tabler:brand-twitter" />
+					</a>
+					<a href="" class="flex items-center gap-2 hover:border-b">
+						<Icon name="tabler:brand-facebook" />
+					</a>
+					<a href="" class="flex items-center gap-2 hover:border-b">
+						<Icon name="tabler:brand-github" />
+					</a>
+					<a href="" class="flex items-center gap-2 hover:border-b">
+						<Icon name="tabler:brand-youtube" />
+					</a>
+				</div>
+				<a href="https://creativecommons.org/licenses/by/4.0/">CC BY-NC-SA 4.0</a>
+			</footer>
 		</div>
-
-		<h2>Tulisan Terbaru</h2>
-
-		<ol>
-			<li>
-				<time datetime="">17 Nov</time>
-				<a href="">Apa Itu Peer Dependencies di NPM?</a>
-				<span>nodejs</span>
-			</li>
-			<li>
-				<time datetime="">9 Nov</time>
-				<a href="">Memudahkan Testing Elemen HTML dengan atribut data-testid</a>
-				<span>testing</span>
-			</li>
-			<li>
-				<time datetime="">28 Okt</time>
-				<a href="">Vitepress VS Stralight, Mana yang Lebih Baik untuk Dokumentasi</a>
-				<span>docs</span>
-			</li>
-			<li>
-				<time datetime="">26 Okt</time>
-				<a href="">Kapan Menggunakan let di Javascript</a>
-				<span>javascript</span>
-			</li>
-			<li>
-				<time datetime="">14 Okt</time>
-				<a href="">Query Rekursi di MySQL</a>
-				<span>mysql</span>
-			</li>
-		</ol>
-		
-		<h2>Proyek</h2>
-
-		<ol>
-			<li>
-				<a href="">Todoin</a>
-				<p>Aplikasi todo list</p>
-			</li>
-			<li>
-				<a href="">Catatin</a>
-				<p>Aplikasi pencatatan keuangan</p>
-			</li>
-			<li>
-				<a href="">Muslim Kit</a>
-				<p>Al-Quran, Hadis dan Fatwa Ulama</p>
-			</li>
-			<li>
-				<a href="">Irabin</a>
-				<p>Belajar irab dan auto irab</p>
-			</li>
-			<li>
-				<a href="">HTML Playground</a>
-				<p>Live online HTML Playground</p>
-			</li>
-		</ol>
-
-		<!-- https://alexop.dev/ -->
-		<!-- I'm a developer from Germany passionate about technology and knowledge sharing. This blog serves two purposes: sharing what I know and improving my own skills.
-
-		You'll find three types of content here: blog posts, TILs (Today I Learned), and notes. Notes help me internalize new concepts, TILs capture quick learning moments that don't warrant full posts, and blog posts are well-researched, carefully crafted pieces about topics I've deeply explored.
-
-		If my content interests you, connect with me on social media or email me - I welcome constructive feedback.
-
-		Best, Alex -->
-
-		<!-- https://markus.oberlehner.net/ -->
-		<!-- I'm Markus Oberlehner, a software engineer working on modernizing Austria's digital tax services. I write articles about Vue.js / Nuxt, React / Next.js, Test-driven Development, and CSS. -->
-
-		<!-- https://derails.dev/ -->
-		 <!-- https://ardalis.com/ -->
-
 	</body>
 </html>

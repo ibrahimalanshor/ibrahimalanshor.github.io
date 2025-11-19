@@ -10,8 +10,16 @@
   },
   "dependencies": {
     "@fontsource/fira-code": "^5.2.7",
+    "@fontsource/ibm-plex-sans": "^5.2.8",
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/lato": "^5.2.7",
+    "@fontsource/open-sans": "^5.2.7",
+    "@fontsource/source-sans-pro": "^5.2.5",
+    "@iconify-json/tabler": "^1.2.23",
+    "@iconify-json/twemoji": "^1.2.4",
     "@tailwindcss/vite": "^4.1.16",
     "astro": "^5.15.3",
+    "astro-icon": "^1.1.5",
     "tailwindcss": "^4.1.16"
   }
 }
