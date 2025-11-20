@@ -99,43 +99,49 @@ const projects = [
 const socials = [
 	{
 		color: 'hover:bg-blue-600',
-		icon: 'tabler:brand-linkedin'
+		icon: 'tabler:brand-linkedin',
+		name: 'Linkedin',
 	},
 	{
 		color: 'hover:bg-indigo-600',
-		icon: 'tabler:brand-instagram'
+		icon: 'tabler:brand-instagram',
+		name: 'Instagram',
 	},
 	{
 		color: 'hover:bg-sky-600',
-		icon: 'tabler:brand-twitter'
+		icon: 'tabler:brand-twitter',
+		name: 'Twitter',
 	},
 	{
 		color: 'hover:bg-blue-600',
-		icon: 'tabler:brand-facebook'
+		icon: 'tabler:brand-facebook',
+		name: 'Facebook',
 	},
 	{
 		color: 'hover:bg-gray-600',
-		icon: 'tabler:brand-github'
+		icon: 'tabler:brand-github',
+		name: 'Github',
 	},
 	{
 		color: 'hover:bg-red-600',
-		icon: 'tabler:brand-youtube'
+		icon: 'tabler:brand-youtube',
+		name: 'Youtube',
 	},
 ]
 ---
 
-<html lang="en" class="text-[16px] text-neutral-900 sm:text-[18px]">
+<html lang="id" class="text-[16px] text-neutral-900 sm:text-[18px]">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>Ibrahim Al-Anshor</title>
 	</head>
 	<body class="max-w-screen-md mx-auto">
 
 		<nav class="p-4 flex items-center justify-between gap-2 relative sm:p-6">
-			<button class="cursor-pointer hover:text-sky-700 sm:hidden">
+			<button class="cursor-pointer hover:text-sky-700 sm:hidden" title="Buka Menu Navigasi">
 				<Icon name={"tabler:menu-2"} />
 			</button>
 			<a href="/" class="font-bold hover:text-sky-700">Ibrahim Al-Anshor</a>
@@ -143,13 +149,13 @@ const socials = [
 				<div class="hidden absolute top-16 left-0 flex flex-col gap-4 bg-white w-full px-4 pb-4 shadow-lg sm:flex sm:static sm:top-0 sm:left-0 sm:flex-row sm:p-0 sm:shadow-none sm:w-auto">
 					{navMenus.map(menu => <a href={menu.href} class="hover:text-sky-700 sm:text-neutral-500">{menu.name}</a>)}
 				</div>
-				<button class="cursor-pointer hover:text-sky-700 sm:text-neutral-500">
+				<button class="cursor-pointer hover:text-sky-700 sm:text-neutral-500" title="Ganti ke Mode Gelap / Terang">
 					<Icon name={"tabler:moon"} />
 				</button>
 			</div>
 		</nav>
 
-		<div class="px-4 py-8 sm:px-6 sm:py-10 [&_h2]:font-bold [&_h2]:text-xl [&_h2]:mt-8 [&_h2]:mb-4 [&_h2]:flex [&_h2]:items-center [&_h2]:gap-2">
+		<div class="px-4 py-8 sm:px-6 sm:py-10">
 			<header class="[&_p]:mb-4 [&_p]:text-base/7 [&_p]:text-neutral-800 [&_code]:bg-neutral-100 [&_code]:font-mono [&_code]:py-0.5 [&_code]:px-1 [&_code]:text-sm [&_code]:rounded [&_a]:text-sky-700 [&_a]:hover:underline">
 				<h1 class="font-bold text-2xl flex items-center gap-2 mb-4">
 					<Icon name={"twemoji:waving-hand"} />
@@ -159,78 +165,86 @@ const socials = [
 				<Bio />
 			</header>
 
-			<h2>
-				Jasa Saya
-			</h2>
+			<main class="[&_h2]:font-bold [&_h2]:text-xl [&_h2]:mt-8 [&_h2]:mb-4 [&_h2]:flex [&_h2]:items-center [&_h2]:gap-2">
+				<section>
+					<h2>
+						Jasa Saya
+					</h2>
 
-			<ol class="grid gap-4 sm:grid-cols-2">
-				{services.map(service => <li class="flex items-center gap-2 sm:flex-col sm:items-start sm:bg-neutral-100 sm:p-4 sm:rounded-md">
-					<div class="w-12 h-12 shrink-0 bg-neutral-100 rounded-md flex items-center justify-center sm:bg-transparent sm:w-auto sm:h-auto">
-						<Icon name={service.icon} class={"size-5 sm:size-6"} />
-					</div>
-					<div>
-						<a href="" class="font-medium hover:text-sky-700">{service.name}</a>
-						<p class="text-neutral-500 line-clamp-1">{service.description}</p>
-					</div>
+					<ol class="grid gap-4 sm:grid-cols-2">
+						{services.map(service => <li class="flex items-center gap-2 sm:flex-col sm:items-start sm:bg-neutral-100 sm:p-4 sm:rounded-md">
+							<div class="w-12 h-12 shrink-0 bg-neutral-100 rounded-md flex items-center justify-center sm:bg-transparent sm:w-auto sm:h-auto">
+								<Icon name={service.icon} class={"size-5 sm:size-6"} />
+							</div>
+							<div>
+								<a href="" class="font-medium hover:text-sky-700">{service.name}</a>
+								<p class="text-neutral-500 line-clamp-1">{service.description}</p>
+							</div>
+							<Link class="ml-auto flex items-center gap-2 sm:ml-0">
+								<span class="hidden sm:inline">Cek di sini</span>
+								<Icon name={"tabler:arrow-right"} />
+							</Link>
+						</li>)}
+					</ol>
+				</section>
+
+				<section>
+					<h2>
+						Tulisan Terbaru
+					</h2>
+
+					<ol class="space-y-4 mb-4">
+						{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
+							<span class="text-neutral-500 text-sm">{post.date}</span>
+							<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
+							<span class="text-sm text-neutral-500">{post.tag}</span>
+							<a href="" class="block w-full font-medium hover:text-sky-700">{post.title}</a>
+						</li>
+						)}
+						{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
+							<span class="text-neutral-500 text-sm">{post.date}</span>
+							<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
+							<span class="text-sm text-neutral-500">{post.tag}</span>
+							<a href="" class="block w-full font-medium hover:text-sky-700">{post.title}</a>
+						</li>
+						)}
+					</ol>
+
 					<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-						<span class="hidden sm:inline">Cek di sini</span>
-		    			<Icon name={"tabler:arrow-right"} />
+						<span>Lihat Lebih Banyak</span>
+						<Icon name={"tabler:arrow-right"} />
 					</Link>
-				</li>)}
-			</ol>
+				</section>
+				
+				<section>
+					<h2>
+						Proyek
+					</h2>
 
-			<h2>
-				Tulisan Terbaru
-			</h2>
+					<ol class="grid grid-cols-1 gap-4 mb-4 sm:grid-cols-2">
+						{projects.map(project => <li class="flex items-center gap-4 sm:bg-neutral-100 sm:p-4 sm:rounded-md sm:flex-col sm:items-start sm:gap-2">
+							<Icon name={project.icon} class={"shrink-0 size-8 sm:size-6"} />
+							<div>
+								<a href="" class="font-medium hover:text-sky-700">{project.name}</a>
+								<p class="text-neutral-500">{project.description}</p>
+							</div>
+							<Link class="ml-auto flex items-center gap-2 sm:ml-0">
+								<span class="hidden sm:inline">Detail</span>
+								<Icon name={"tabler:arrow-right"} />
+							</Link>
+						</li>)}
+					</ol>
 
-			<ol class="space-y-4 mb-4">
-				{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-neutral-500 text-sm">{post.date}</span>
-					<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
-					<span class="text-sm text-neutral-500">{post.tag}</span>
-					<a href="" class="block w-full font-medium hover:text-sky-700">{post.title}</a>
-				</li>
-				)}
-				{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-neutral-500 text-sm">{post.date}</span>
-					<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
-					<span class="text-sm text-neutral-500">{post.tag}</span>
-					<a href="" class="block w-full font-medium hover:text-sky-700">{post.title}</a>
-				</li>
-				)}
-			</ol>
-
-			<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-				<span>Lihat Lebih Banyak</span>
-    			<Icon name={"tabler:arrow-right"} />
-			</Link>
-			
-			<h2>
-				Proyek
-			</h2>
-
-			<ol class="grid grid-cols-1 gap-4 mb-4 sm:grid-cols-2">
-				{projects.map(project => <li class="flex items-center gap-4 sm:bg-neutral-100 sm:p-4 sm:rounded-md sm:flex-col sm:items-start sm:gap-2">
-					<Icon name={project.icon} class={"shrink-0 size-8 sm:size-6"} />
-					<div>
-						<a href="" class="font-medium hover:text-sky-700">{project.name}</a>
-						<p class="text-neutral-500">{project.description}</p>
-					</div>
 					<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-						<span class="hidden sm:inline">Detail</span>
-    					<Icon name={"tabler:arrow-right"} />
+						<span>Lihat Lebih Banyak</span>
+						<Icon name={"tabler:arrow-right"} />
 					</Link>
-				</li>)}
-			</ol>
-
-			<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-				<span>Lihat Lebih Banyak</span>
-    			<Icon name={"tabler:arrow-right"} />
-			</Link>
+				</section>
+			</main>
 
 			<footer class="mt-8 pt-4 text-center space-y-2 text-neutral-500">
 				<div class="flex flex-wrap justify-center gap-2">
-					{socials.map(social => <a href="" class={`w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:text-white ${social.color}`}>
+					{socials.map(social => <a href="" title={social.name} class={`w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:text-white ${social.color}`}>
 						<Icon name={social.icon} />
 					</a>)}
 				</div>
