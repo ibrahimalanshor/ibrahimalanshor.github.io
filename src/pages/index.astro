@@ -1,6 +1,6 @@
 ---
 import { Icon } from 'astro-icon/components'
-import '@fontsource/source-sans-pro'
+import '@fontsource/inter'
 import '../styles/global.css'
 ---
 
@@ -12,7 +12,7 @@ import '../styles/global.css'
 		<meta name="generator" content={Astro.generator} />
 		<title>Astro</title>
 	</head>
-	<body class="max-w-screen-sm mx-auto text-gray-900 font-[Source_Sans_Pro]">
+	<body class="max-w-screen-sm mx-auto text-neutral-900 font-[Inter]">
 
 		<nav class="p-4 flex items-center justify-between gap-2">
 			<button class="sm:hidden">
@@ -39,132 +39,129 @@ import '../styles/global.css'
 				Halo! Saya Ibrahim!
 			</h1>
 
-			<p class="mb-4 text-base/7">Saya seorang web developer, biasa menggunakan <code class="bg-gray-200 text-gray-900 font-mono py-0.5 px-1 text-sm rounded">Vue.js</code> dan <code class="bg-gray-200 text-gray-900 font-mono py-0.5 px-1 text-sm rounded">Laravel</code>. Di blog ini saya akan berbagi tulisan seputar coding dan proyek aplikasi yang saya kembangkan.</p>
+			<p class="mb-4 text-base/7">Saya seorang web developer, biasa menggunakan <code class="bg-neutral-200 font-mono py-0.5 px-1 text-sm rounded">Vue.js</code> dan <code class="bg-neutral-200 font-mono py-0.5 px-1 text-sm rounded">Laravel</code>. Di blog ini saya akan berbagi tulisan seputar coding dan proyek aplikasi yang saya kembangkan.</p>
 
-			<p class="mb-4 text-base/7">Buat kamu yang membutuhkan jasa pembuatan website, aplikasi atau ingin konsultasi, bisa hubungi saya di <a href="ibrahimalanshor6@gmail.com" class="text-blue-600 underline">ibrahimalanshor6@gmail.com</a>, saya siap membantu kamu.</p>
+			<p class="mb-4 text-base/7">Buat kamu yang membutuhkan jasa pembuatan website, aplikasi atau ingin konsultasi, bisa hubungi saya di <a href="ibrahimalanshor6@gmail.com" class="text-sky-700 hover:underline">ibrahimalanshor6@gmail.com</a>, saya siap membantu kamu.</p>
 
 			<p class="mb-4 text-base/7">Kalau kamu butuh mentor untuk belajar coding atau ingin konsultasi seputar coding, bisa juga hubungi saya.</p>
 
-			<h2 class="font-bold text-2xl mt-8 mb-4 flex items-center gap-2">
+			<h2 class="font-bold text-xl mt-8 mb-4 flex items-center gap-2">
 				Hubungi Saya
 			</h2>
 			
-			<div class="grid grid-cols-3 gap-2 mb-4">
-				<a href="" class="flex items-center gap-2 bg-gray-100 px-3 py-1.5 rounded hover:underline">
-					<Icon name="tabler:brand-linkedin" /> Linkedin
+			<div class="flex gap-2 mb-4">
+				<a href="" class="flex items-center justify-center gap-2 bg-blue-600 w-10 h-10 rounded-md hover:bg-blue-700">
+					<Icon class={"shrink-0 text-white"} size={18} name="tabler:brand-linkedin-filled" />
 				</a>
-				<a href="" class="flex items-center gap-2 bg-gray-100 px-3 py-1.5 rounded hover:underline">
-					<Icon name="tabler:brand-instagram" /> Instagram
+				<a href="" class="flex items-center justify-center gap-2 bg-indigo-600 w-10 h-10 rounded-md hover:bg-indigo-700">
+					<Icon class={"shrink-0 text-white"} size={18} name="tabler:brand-instagram-filled" />
 				</a>
-				<a href="" class="flex items-center gap-2 bg-gray-100 px-3 py-1.5 rounded hover:underline">
-					<Icon name="tabler:brand-twitter" /> Twitter
+				<a href="" class="flex items-center justify-center gap-2 bg-sky-600 w-10 h-10 rounded-md hover:bg-sky-700">
+					<Icon class={"shrink-0 text-white"} size={18} name="tabler:brand-twitter-filled" />
 				</a>
-				<a href="" class="flex items-center gap-2 bg-gray-100 px-3 py-1.5 rounded hover:underline">
-					<Icon name="tabler:brand-facebook" /> Facebook
+				<a href="" class="flex items-center justify-center gap-2 bg-blue-600 w-10 h-10 rounded-md hover:bg-blue-700">
+					<Icon class={"shrink-0 text-white"} size={18} name="tabler:brand-facebook-filled" />
 				</a>
-				<a href="" class="flex items-center gap-2 bg-gray-100 px-3 py-1.5 rounded hover:underline">
-					<Icon name="tabler:brand-github" /> Github
+				<a href="" class="flex items-center justify-center gap-2 bg-gray-600 w-10 h-10 rounded-md hover:bg-gray-700">
+					<Icon class={"shrink-0 text-white"} size={18} name="tabler:brand-github-filled" />
 				</a>
-				<a href="" class="flex items-center gap-2 bg-gray-100 px-3 py-1.5 rounded hover:underline">
-					<Icon name="tabler:brand-youtube" /> Youtube
+				<a href="" class="flex items-center justify-center gap-2 bg-red-600 w-10 h-10 rounded-md hover:bg-red-700">
+					<Icon class={"shrink-0 text-white"} size={18} name="tabler:brand-youtube-filled" />
 				</a>
 			</div>
 
-			<h2 class="font-bold text-2xl mt-8 mb-4 flex items-center gap-2">
+			<h2 class="font-bold text-xl mt-8 mb-4 flex items-center gap-2">
 				Jasa Saya
 			</h2>
 
 			<ol class="space-y-4">
 				<li class="flex items-center justify-between">
 					<div class="flex items-center gap-2">
-						<div class="w-12 h-12 bg-gray-100 rounded-md flex items-center justify-center">
+						<div class="w-12 h-12 bg-neutral-100 rounded-md flex items-center justify-center">
 							<Icon name="twemoji:globe-showing-asia-australia" />
 						</div>
 						<div>
-							<a href="" class="font-semibold">Pembuatan Website</a>
-							<p class="text-gray-500">Pembuatan website custom apa saja</p>
+							<a href="" class="font-medium hover:text-sky-700">Pembuatan Website</a>
+							<p class="text-neutral-500 line-clamp-1">Pembuatan website custom apa saja</p>
 						</div>
 					</div>
-					<a href="" class="text-blue-600">
+					<a href="" class="text-sky-700 hover:text-sky-800">
 						<Icon name={"tabler:arrow-right"} />
 					</a>
 				</li>
 				<li class="flex items-center justify-between">
 					<div class="flex items-center gap-2">
-						<div class="w-12 h-12 bg-gray-100 rounded-md flex items-center justify-center">
+						<div class="w-12 h-12 bg-neutral-100 rounded-md flex items-center justify-center">
 							<Icon name="twemoji:hammer-and-wrench" />
 						</div>
 						<div>
-							<a href="" class="font-semibold">Pembuatan REST API</a>
-							<p class="text-gray-500">Pembuatan REST API di backend</p>
+							<a href="" class="font-medium hover:text-sky-700">Pembuatan REST API</a>
+							<p class="text-neutral-500 line-clamp-1">Pembuatan REST API di backend</p>
 						</div>
 					</div>
-					<a href="" class="text-blue-600">
+					<a href="" class="text-sky-700 hover:text-sky-800">
 						<Icon name={"tabler:arrow-right"} />
 					</a>
 				</li>
 				<li class="flex items-center justify-between">
 					<div class="flex items-center gap-2">
-						<div class="w-12 h-12 bg-gray-100 rounded-md flex items-center justify-center">
+						<div class="w-12 h-12 bg-neutral-100 rounded-md flex items-center justify-center">
 							<Icon name="twemoji:man-teacher" />
 						</div>
 						<div>
-							<a href="" class="font-semibold">Mentoring Coding</a>
-							<p class="text-gray-500">Mentor untuk belajar coding</p>
+							<a href="" class="font-medium hover:text-sky-700">Mentoring Coding</a>
+							<p class="text-neutral-500 line-clamp-1">Mentor untuk belajar coding</p>
 						</div>
 					</div>
-					<a href="" class="text-blue-600">
+					<a href="" class="text-sky-700 hover:text-sky-800">
 						<Icon name={"tabler:arrow-right"} />
 					</a>
 				</li>
 			</ol>
 
-			<h2 class="font-bold text-2xl mt-8 mb-4 flex items-center gap-2">
+			<h2 class="font-bold text-xl mt-8 mb-4 flex items-center gap-2">
 				Tulisan Terbaru
 			</h2>
 
-			<!-- perlu thumbnail? -->
-			 <!-- link warna -->
-			  <!-- tag warna perlu abnget? -->
 			<ol class="space-y-4 mb-4">
 				<li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-gray-500 text-sm">17 Nov</span>
-					<span class="w-1 h-1 bg-gray-200 rounded-full"></span>
-					<span class="text-sm text-gray-500">nodejs</span>
-					<a href="" class="block w-full font-semibold">Apa Itu Peer Dependencies di NPM?</a>
+					<span class="text-neutral-500 text-sm">17 Nov</span>
+					<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
+					<span class="text-sm text-neutral-500">nodejs</span>
+					<a href="" class="block w-full font-medium hover:text-sky-700">Apa Itu Peer Dependencies di NPM?</a>
 				</li>
 				<li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-gray-500 text-sm">9 Nov</span>
-					<span class="w-1 h-1 bg-gray-200 rounded-full"></span>
-					<span class="text-sm text-gray-500">testing</span>
-					<a href="" class="block w-full font-semibold">Memudahkan Testing Elemen HTML dengan atribut data-testid</a>
+					<span class="text-neutral-500 text-sm">9 Nov</span>
+					<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
+					<span class="text-sm text-neutral-500">testing</span>
+					<a href="" class="block w-full font-medium hover:text-sky-700">Memudahkan Testing Elemen HTML dengan atribut data-testid</a>
 				</li>
 				<li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-gray-500 text-sm">28 Okt</span>
-					<span class="w-1 h-1 bg-gray-200 rounded-full"></span>
-					<span class="text-sm text-gray-500">docs</span>
-					<a href="" class="block w-full font-semibold">Vitepress VS Stralight, Mana yang Lebih Baik untuk Dokumentasi</a>
+					<span class="text-neutral-500 text-sm">28 Okt</span>
+					<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
+					<span class="text-sm text-neutral-500">docs</span>
+					<a href="" class="block w-full font-medium hover:text-sky-700">Vitepress VS Stralight, Mana yang Lebih Baik untuk Dokumentasi</a>
 				</li>
 				<li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-gray-500 text-sm">26 Okt</span>
-					<span class="w-1 h-1 bg-gray-200 rounded-full"></span>
-					<span class="text-sm text-gray-500">javascript</span>
-					<a href="" class="block w-full font-semibold">Kapan Menggunakan let di Javascript</a>
+					<span class="text-neutral-500 text-sm">26 Okt</span>
+					<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
+					<span class="text-sm text-neutral-500">javascript</span>
+					<a href="" class="block w-full font-medium hover:text-sky-700">Kapan Menggunakan let di Javascript</a>
 				</li>
 				<li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-gray-500 text-sm">14 Okt</span>
-					<span class="w-1 h-1 bg-gray-200 rounded-full"></span>
-					<span class="text-sm text-gray-500">mysql</span>
-					<a href="" class="block w-full font-semibold">Query Rekursi di MySQL</a>
+					<span class="text-neutral-500 text-sm">14 Okt</span>
+					<span class="w-1 h-1 bg-neutral-200 rounded-full"></span>
+					<span class="text-sm text-neutral-500">mysql</span>
+					<a href="" class="block w-full font-medium hover:text-sky-700">Query Rekursi di MySQL</a>
 				</li>
 			</ol>
 
-			<a href="" class="text-blue-600 hover:border-b flex items-center gap-2">
+			<a href="" class="text-sky-700 hover:underline flex items-center gap-2">
 				Lihat Lebih Banyak
 				<Icon name={"tabler:arrow-right"} />
 			</a>
 			
-			<h2 class="font-bold text-2xl mt-8 mb-4 flex items-center gap-2">
+			<h2 class="font-bold text-xl mt-8 mb-4 flex items-center gap-2">
 				Proyek
 			</h2>
 
@@ -174,95 +171,90 @@ import '../styles/global.css'
 					<div class="flex items-center gap-4">
 						<Icon name={"twemoji:clipboard"} size={32} />
 						<div>
-							<a href="" class="font-semibold">Todoin</a>
-							<p class="text-gray-500">Aplikasi todo list</p>
+							<a href="" class="font-medium hover:text-sky-700">Todoin</a>
+							<p class="text-neutral-500">Aplikasi todo list</p>
 						</div>
 					</div>
 					<a href="">
-						<Icon name="tabler:arrow-right" class="text-blue-600" />
+						<Icon name="tabler:arrow-right" class="text-sky-700 hover:text-sky-800" />
 					</a>
 				</li>
 				<li class="flex items-center justify-between">
 					<div class="flex items-center gap-4">
 						<Icon name={"twemoji:dollar-banknote"} size={32} />
 						<div>
-							<a href="" class="font-semibold">Catatin</a>
-							<p class="text-gray-500">Aplikasi pencatatan keuangan</p>
+							<a href="" class="font-medium hover:text-sky-700">Catatin</a>
+							<p class="text-neutral-500">Aplikasi pencatatan keuangan</p>
 						</div>
 					</div>
 					<a href="">
-						<Icon name="tabler:arrow-right" class="text-blue-600" />
+						<Icon name="tabler:arrow-right" class="text-sky-700 hover:text-sky-800" />
 					</a>
 				</li>
 				<li class="flex items-center justify-between">
 					<div class="flex items-center gap-4">
 						<Icon name={"twemoji:mosque"} size={32} />
 						<div>
-							<a href="" class="font-semibold">Muslim Kit</a>
-							<p class="text-gray-500">Al-Quran, Hadis dan Fatwa Ulama</p>
+							<a href="" class="font-medium hover:text-sky-700">Muslim Kit</a>
+							<p class="text-neutral-500">Al-Quran, Hadis dan Fatwa Ulama</p>
 						</div>
 					</div>
 					<a href="">
-						<Icon name="tabler:arrow-right" class="text-blue-600" />
+						<Icon name="tabler:arrow-right" class="text-sky-700 hover:text-sky-800" />
 					</a>
 				</li>
 				<li class="flex items-center justify-between">
 					<div class="flex items-center gap-4">
 						<Icon name={"twemoji:flag-saudi-arabia"} size={32} />
 						<div>
-							<a href="" class="font-semibold">Irabin</a>
-							<p class="text-gray-500">Belajar irab dan auto irab</p>
+							<a href="" class="font-medium hover:text-sky-700">Irabin</a>
+							<p class="text-neutral-500">Belajar irab dan auto irab</p>
 						</div>
 					</div>
 					<a href="">
-						<Icon name="tabler:arrow-right" class="text-blue-600" />
+						<Icon name="tabler:arrow-right" class="text-sky-700 hover:text-sky-800" />
 					</a>
 				</li>
 				<li class="flex items-center justify-between">
 					<div class="flex items-center gap-4">
 						<Icon name={"twemoji:desktop-computer"} size={32} />
 						<div>
-							<a href="" class="font-semibold">HTML Playground</a>
-							<p class="text-gray-500">Live online HTML Playground</p>
+							<a href="" class="font-medium hover:text-sky-700">HTML Playground</a>
+							<p class="text-neutral-500">Live online HTML Playground</p>
 						</div>
 					</div>
 					<a href="">
-						<Icon name="tabler:arrow-right" class="text-blue-600" />
+						<Icon name="tabler:arrow-right" class="text-sky-700 hover:text-sky-800" />
 					</a>
 				</li>
 			</ol>
 
-			<a href="" class="text-blue-600 hover:border-b flex items-center gap-2">
+			<a href="" class="text-sky-700 hover:underline flex items-center gap-2">
 				Lihat Lebih Banyak
 				<Icon name={"tabler:arrow-right"} />
 			</a>
 
-			<!-- borde r / bg -->
-			<footer class="border-t border-gray-200 mt-8 pt-4 text-center space-y-2 text-gray-700">
-				<div class="flex flex-wrap justify-center gap-4">
-					<a href="" class="flex items-center gap-2 hover:border-b">
-						<Icon name="tabler:mail" />
-					</a>
-					<a href="" class="flex items-center gap-2 hover:border-b">
+			<footer class="mt-8 pt-4 text-center space-y-2 text-neutral-500">
+				<div class="flex flex-wrap justify-center gap-2">
+					<a href="" class="w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:bg-blue-600 hover:text-white">
 						<Icon name="tabler:brand-linkedin" />
 					</a>
-					<a href="" class="flex items-center gap-2 hover:border-b">
+					<a href="" class="w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:bg-indigo-600 hover:text-white">
 						<Icon name="tabler:brand-instagram" />
 					</a>
-					<a href="" class="flex items-center gap-2 hover:border-b">
+					<a href="" class="w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:bg-sky-600 hover:text-white">
 						<Icon name="tabler:brand-twitter" />
 					</a>
-					<a href="" class="flex items-center gap-2 hover:border-b">
+					<a href="" class="w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:bg-blue-600 hover:text-white">
 						<Icon name="tabler:brand-facebook" />
 					</a>
-					<a href="" class="flex items-center gap-2 hover:border-b">
+					<a href="" class="w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:bg-gray-600 hover:text-white">
 						<Icon name="tabler:brand-github" />
 					</a>
-					<a href="" class="flex items-center gap-2 hover:border-b">
+					<a href="" class="w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:bg-red-600 hover:text-white">
 						<Icon name="tabler:brand-youtube" />
 					</a>
 				</div>
-				<a href="https://creativecommons.org/licenses/by/4.0/">CC BY-NC-SA 4.0</a>
 			</footer>
 		</div>
 	</body>
