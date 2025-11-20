@@ -68,3 +68,20 @@ Orang yang tidak menyembah Allah ﷻ maka dia adalah orang kafir dan orang sombo
 Orang yang menyembah Allah ﷻ bersama dengan menyembah kepada selain Allah maka dia adalah orang kafir dan musyrik.
 
 Orang yang menyembah Allah ﷻ semata dengan mengesekan-Nya maka dia adalah orang muslim yang sesungguhnya.
+
+## Macam-Macam Syirik
+
+Syirik ada dua macam:
+
+1. Syirik Akbar (Syirik Besar): syirik yang mutlak ditetapkan oleh syariat, mengeluarkan sesorang dari Islam.
+2. Syirik Asghar (Syirik Kecil): semua perbuatan dan ucapan yang disifati sebagai syirik oleh syariat, tidak mengeluarkan seseorang dari Islam.
+
+Meskipun ada syirik kecil yang tidak mengeluarkan seseorang dari Islam, seseorang harus tetap waspada akan hal itu, karena Allah ﷻ berfirman:
+
+<p dir="rtl" lang="ar">
+إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ
+</p>
+
+*Sesungguhnya Allah tidak akan mengampuni dosa syirik.* (QS. An-Nisa: 48)
+
+Para ulama menyebutkan, peringatan pada ayat tersebut meliputi segala jenis kesyirikan, termasuk syirik kecil.
