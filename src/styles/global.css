@@ -4,6 +4,7 @@
 
 @theme {
     --font-sans: "Inter", sans-serif;
+    --font-mono: "Fira Mono", monospace;
     --animate-slide: slide 0.35s cubic-bezier(0.17,0.84,0.44,1) both;
 
     @keyframes slide {

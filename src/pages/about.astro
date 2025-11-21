@@ -1,0 +1,65 @@
+---
+import { Icon } from "astro-icon/components";
+import Prose from "../components/Prose.astro";
+import Default from "../layouts/Default.astro";
+import { Content as AboutContent } from '../contents/about.md'
+import Section from "../components/Section.astro";
+
+const stacks = ['HTML', 'CSS', 'Tailwind', 'JavaScript', 'TypeScript', 'Vue.js', 'PHP', 'Laravel', 'MySQL', 'Node.Js', 'Express.js', 'Hono', 'Docker', 'Linux']
+const works = [
+    {
+        name: 'Full-Stack Web Developer',
+        start: '2023 Juli',
+        end: null,
+        location: 'Sleman',
+        company: 'PT Prioritas Web Teknologi'
+    },
+    {
+        name: 'Front-End Web Developer',
+        start: '2022 Juli',
+        end: '2023 Juli',
+        location: 'Sleman',
+        company: 'PT Prioritas Web Teknologi'
+    },
+    {
+        name: 'Full-Stack Web Developer',
+        start: '2022 Januari',
+        end: '2022 Juni',
+        location: 'Banjarnegara',
+        company: 'CV Karya Inovasi Anak Bangsa'
+    }
+]
+---
+
+<Default>
+    <article>
+        <Prose tag="section">
+            <h1 class="flex items-center gap-2">
+                <Icon name={'twemoji:person-light-skin-tone-beard'} />
+                Tentang Saya
+            </h1>
+
+            <AboutContent />
+        </Prose>
+
+        <Section title="Tech Stack">
+            <ul class="flex flex-wrap gap-2">
+                {stacks.map(stack => <li class="bg-neutral-100 text-sm py-1 px-2 rounded dark:bg-neutral-800">{stack}</li>)}
+            </ul>
+        </Section>
+
+        <Section title="Riwayat Pekerjaan">
+            <ol class="space-y-4">
+                {works.map(work => <li class="space-y-0.5">
+                    <p class="text-sm text-neutral-500 dark:text-neutral-400">{work.start} s.d {work.end ?? 'Sekarang'}</p>
+                    <p class="font-medium">{work.name}</p>
+                    <p class="text-neutral-500 dark:text-neutral-400 flex items-center gap-2">
+                        <span>{work.company}</span>
+                        <span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
+                        <span>{work.location}</span>
+                    </p>
+                </li>)}
+            </ol>
+        </Section>
+    </article>
+</Default>

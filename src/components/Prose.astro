@@ -1,0 +1,15 @@
+---
+const { tag: Tag = 'article' } = Astro.props
+---
+
+<Tag class=`
+    [&_h1]:font-bold [&_h1]:text-2xl [&_h1]:mb-4 [&_h1]:dark:text-white
+    [&_h2]:font-bold [&_h2]:text-xl [&_h2]:mb-4 [&_h2]:mt-8 [&_h2]:dark:text-white
+    [&_p]:mb-4 [&_p]:text-base/7 [&_p]:text-neutral-800 [&_code]:bg-neutral-100
+    [&_code]:font-mono [&_code]:py-0.5 [&_code]:px-1 [&_code]:text-sm [&_code]:rounded
+    [&_a]:text-sky-700 [&_a]:hover:underline dark:[&_p]:text-neutral-300 dark:[&_code]:bg-neutral-700 dark:[&_a]:text-sky-300
+    [&_ul]:list-disc [&_ul]:ml-5
+    [&_li]:text-neutral:800
+`>
+	<slot />
+</Tag>

@@ -1,16 +1,13 @@
 ---
 import { Icon } from 'astro-icon/components'
 import '@fontsource/inter'
+import '@fontsource/fira-mono'
 import '../styles/global.css'
 import { Content as Bio } from '../contents/bio.md'
 import Link from '../components/Link.astro'
-
-const navMenus = [
-	{ href: '/about', name: 'Tentang' },
-	{ href: '/blog', name: 'Blog' },
-	{ href: '/project', name: 'Proyek' },
-	{ href: '/service', name: 'Jasa' }
-]
+import LayoutDefault from '../layouts/Default.astro'
+import Prose from '../components/Prose.astro'
+import Section from '../components/Section.astro'
 
 const services = [
 	{
@@ -95,204 +92,82 @@ const projects = [
 		description: 'Aplikasi monitoring CCTV jogja',
 	},
 ]
-
-const socials = [
-	{
-		color: 'hover:bg-blue-600',
-		icon: 'tabler:brand-linkedin',
-		name: 'Linkedin',
-	},
-	{
-		color: 'hover:bg-indigo-600',
-		icon: 'tabler:brand-instagram',
-		name: 'Instagram',
-	},
-	{
-		color: 'hover:bg-sky-600',
-		icon: 'tabler:brand-twitter',
-		name: 'Twitter',
-	},
-	{
-		color: 'hover:bg-blue-600',
-		icon: 'tabler:brand-facebook',
-		name: 'Facebook',
-	},
-	{
-		color: 'hover:bg-gray-600',
-		icon: 'tabler:brand-github',
-		name: 'Github',
-	},
-	{
-		color: 'hover:bg-red-600',
-		icon: 'tabler:brand-youtube',
-		name: 'Youtube',
-	},
-]
 ---
 
-<html lang="id" class="text-[16px] text-neutral-900 dark:bg-neutral-900 dark:text-neutral-100 sm:text-[18px]">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Ibrahim Al-Anshor</title>
+<LayoutDefault>
+	<Prose tag="header">
+		<h1 class="flex items-center gap-2">
+			<Icon name={"twemoji:waving-hand"} />
+			Halo! Saya Ibrahim!
+		</h1>
 
-		<script>
-			document.documentElement.classList.toggle('dark', localStorage.getItem('theme') === 'dark' || (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches))
-		</script>
-	</head>
-	<body class="max-w-screen-md mx-auto">
+		<Bio />
+	</Prose>
 
-		<nav class="p-4 flex items-center justify-between gap-2 relative sm:p-6">
-			<button class="group cursor-pointer hover:text-sky-700 dark:hover:text-neutral-300 sm:hidden" title="Buka Menu Navigasi" data-toggle="dropdown" data-target="#nav-menu">
-				<Icon name={"tabler:menu-2"} class={'block group-[.active]:hidden'} />
-				<Icon name={"tabler:x"} class={'hidden group-[.active]:block'} />
-			</button>
-			<Link color="light" class="font-bold">Ibrahim Al-Anshor</Link>
-			<div class="flex items-center gap-4">
-				<div id="nav-menu" class="hidden absolute top-16 left-0 flex flex-col gap-4 bg-white w-full px-4 pb-4 shadow-lg dark:bg-neutral-900 sm:flex sm:static sm:top-0 sm:left-0 sm:flex-row sm:p-0 sm:shadow-none sm:w-auto">
-					{navMenus.map(menu => <a href={menu.href} class="hover:text-sky-700 dark:hover:text-neutral-300 sm:text-neutral-500 dark:sm:text-neutral-400">{menu.name}</a>)}
-				</div>
-				<button class="cursor-pointer hover:text-sky-700 dark:hover:text-neutral-300 sm:text-neutral-500 dark:sm:text-neutral-400" title="Ganti ke Mode Gelap / Terang" id="toggle-theme">
-					<Icon name={"tabler:moon"} class={"dark:hidden"} />
-					<Icon name={"tabler:sun"} class={"hidden dark:block"} />
-				</button>
-			</div>
-		</nav>
-
-		<div class="px-4 py-8 sm:px-6 sm:py-10">
-			<header class="[&_p]:mb-4 [&_p]:text-base/7 [&_p]:text-neutral-800 [&_code]:bg-neutral-100 [&_code]:font-mono [&_code]:py-0.5 [&_code]:px-1 [&_code]:text-sm [&_code]:rounded [&_a]:text-sky-700 [&_a]:hover:underline dark:[&_p]:text-neutral-300 dark:[&_code]:bg-neutral-700 dark:[&_a]:text-sky-300">
-				<h1 class="font-bold text-2xl flex items-center gap-2 mb-4 dark:text-white">
-					<Icon name={"twemoji:waving-hand"} />
-					Halo! Saya Ibrahim!
-				</h1>
-
-				<Bio />
-			</header>
-
-			<main class="[&_h2]:font-bold [&_h2]:text-xl [&_h2]:mt-8 [&_h2]:mb-4 [&_h2]:flex [&_h2]:items-center [&_h2]:gap-2 dark:[&_h2]:text-white">
-				<section>
-					<h2>
-						Jasa Saya
-					</h2>
-
-					<ol class="grid gap-4 sm:grid-cols-2">
-						{services.map(service => <li class="flex items-center gap-2 dark:sm:bg-neutral-800 sm:flex-col sm:items-start sm:bg-neutral-100 sm:p-4 sm:rounded-md">
-							<div class="w-12 h-12 shrink-0 bg-neutral-100 rounded-md flex items-center justify-center dark:bg-neutral-800 sm:bg-transparent sm:w-auto sm:h-auto">
-								<Icon name={service.icon} class={"size-5 sm:size-6"} />
-							</div>
-							<div>
-								<Link class="font-medium" color="light">{service.name}</Link>
-								<p class="text-neutral-500 line-clamp-1 dark:text-neutral-400">{service.description}</p>
-							</div>
-							<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-								<span class="hidden sm:inline">Cek di sini</span>
-								<Icon name={"tabler:arrow-right"} />
-							</Link>
-						</li>)}
-					</ol>
-				</section>
-
-				<section>
-					<h2>
-						Tulisan Terbaru
-					</h2>
-
-					<ol class="space-y-4 mb-4">
-						{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
-							<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.date}</span>
-							<span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
-							<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.tag}</span>
-							<div class="w-full">
-								<Link class="font-medium" color="light">{post.title}</Link>
-							</div>
-						</li>
-						)}
-						{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
-							<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.date}</span>
-							<span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
-							<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.tag}</span>
-							<div class="w-full">
-								<Link class="font-medium" color="light">{post.title}</Link>
-							</div>
-						</li>
-						)}
-					</ol>
-
+	<main>
+		<Section title="Jasa Saya">
+			<ul class="grid gap-4 sm:grid-cols-2">
+				{services.map(service => <li class="flex items-center gap-2 dark:sm:bg-neutral-800 sm:flex-col sm:items-start sm:bg-neutral-100 sm:p-4 sm:rounded-md">
+					<div class="w-12 h-12 shrink-0 bg-neutral-100 rounded-md flex items-center justify-center dark:bg-neutral-800 sm:bg-transparent sm:w-auto sm:h-auto">
+						<Icon name={service.icon} class={"size-5 sm:size-6"} />
+					</div>
+					<div>
+						<Link class="font-medium" color="light">{service.name}</Link>
+						<p class="text-neutral-500 line-clamp-1 dark:text-neutral-400">{service.description}</p>
+					</div>
 					<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-						<span>Lihat Lebih Banyak</span>
+						<span class="hidden sm:inline">Cek di sini</span>
 						<Icon name={"tabler:arrow-right"} />
 					</Link>
-				</section>
-				
-				<section>
-					<h2>
-						Proyek
-					</h2>
+				</li>)}
+			</ul>
+		</Section>
+		<Section title="Tulisan Terbaru">
+			<ol class="space-y-4 mb-4">
+				{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
+					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.date}</span>
+					<span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
+					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.tag}</span>
+					<div class="w-full">
+						<Link class="font-medium" color="light">{post.title}</Link>
+					</div>
+				</li>
+				)}
+				{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
+					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.date}</span>
+					<span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
+					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.tag}</span>
+					<div class="w-full">
+						<Link class="font-medium" color="light">{post.title}</Link>
+					</div>
+				</li>
+				)}
+			</ol>
 
-					<ol class="grid grid-cols-1 gap-4 mb-4 sm:grid-cols-2">
-						{projects.map(project => <li class="flex items-center gap-4 sm:bg-neutral-100 sm:p-4 sm:rounded-md sm:flex-col sm:items-start sm:gap-2 dark:sm:bg-neutral-800">
-							<Icon name={project.icon} class={"shrink-0 size-8 sm:size-6"} />
-							<div>
-								<Link class="font-medium" color="light">{project.name}</Link>
-								<p class="text-neutral-500 dark:text-neutral-400">{project.description}</p>
-							</div>
-							<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-								<span class="hidden sm:inline">Detail</span>
-								<Icon name={"tabler:arrow-right"} />
-							</Link>
-						</li>)}
-					</ol>
-
+			<Link class="ml-auto flex items-center gap-2 sm:ml-0">
+				<span>Lihat Lebih Banyak</span>
+				<Icon name={"tabler:arrow-right"} />
+			</Link>
+		</Section>
+		<Section title="Proyek">
+			<ul class="grid grid-cols-1 gap-4 mb-4 sm:grid-cols-2">
+				{projects.map(project => <li class="flex items-center gap-4 sm:bg-neutral-100 sm:p-4 sm:rounded-md sm:flex-col sm:items-start sm:gap-2 dark:sm:bg-neutral-800">
+					<Icon name={project.icon} class={"shrink-0 size-8 sm:size-6"} />
+					<div>
+						<Link class="font-medium" color="light">{project.name}</Link>
+						<p class="text-neutral-500 dark:text-neutral-400">{project.description}</p>
+					</div>
 					<Link class="ml-auto flex items-center gap-2 sm:ml-0">
-						<span>Lihat Lebih Banyak</span>
+						<span class="hidden sm:inline">Detail</span>
 						<Icon name={"tabler:arrow-right"} />
 					</Link>
-				</section>
-			</main>
+				</li>)}
+			</ul>
 
-			<footer class="mt-8 pt-4 text-center space-y-2 text-neutral-500">
-				<div class="flex flex-wrap justify-center gap-2">
-					{socials.map(social => <a href="" title={social.name} class={`w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:text-white ${social.color} dark:bg-neutral-800`}>
-						<Icon name={social.icon} />
-					</a>)}
-				</div>
-			</footer>
-		</div>
-	</body>
-
-	<script>
-		const toggles = document.querySelectorAll<HTMLButtonElement>('[data-toggle]')
-
-		toggles.forEach(toggle => {
-			toggle.addEventListener('click' , () => {
-				if (toggle.dataset.target) {
-					const target = document.querySelector(toggle.dataset.target)
-
-					if (target) {
-						if (toggle.classList.contains('active')) {
-							target.classList.add('hidden')
-							target.classList.add('animate-slide')
-							toggle.classList.remove('active')
-						} else {
-							target.classList.remove('hidden')
-							target.classList.add('animate-slide')
-							toggle.classList.add('active')
-						}
-					}
-				}
-			})
-		})
-
-		const toggleThemeBtn = document.querySelector('#toggle-theme')
-
-		if (toggleThemeBtn) {
-			toggleThemeBtn.addEventListener('click', () => {
-				localStorage.setItem('theme', document.documentElement.classList.contains('dark') ? 'light' : 'dark')
-
-				document.documentElement.classList.toggle('dark')
-			})
-		}
-	</script>
-</html>
+			<Link class="ml-auto flex items-center gap-2 sm:ml-0">
+				<span>Lihat Lebih Banyak</span>
+				<Icon name={"tabler:arrow-right"} />
+			</Link>
+		</Section>
+	</main>
+</LayoutDefault>
