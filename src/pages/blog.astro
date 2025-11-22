@@ -34,12 +34,14 @@ const posts = [
 ---
 
 <Default>
-    <Prose tag="div">
-        <h1 class="flex items-center gap-2">
-            <Icon name={'twemoji:writing-hand'} />
-            Blog
-        </h1>
-    </Prose>
-    
-    <BlogList posts={posts} />
+    <main>
+		<Prose tag="header">
+			<h1 class="flex items-center gap-2">
+				<Icon name={'twemoji:writing-hand'} />
+				Blog
+			</h1>
+		</Prose>
+		
+		<BlogList posts={posts} />
+	</main>
 </Default>

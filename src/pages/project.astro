@@ -1,0 +1,52 @@
+---
+import { Icon } from "astro-icon/components";
+import Prose from "../components/Prose.astro";
+import Default from "../layouts/Default.astro";
+import ProjectList from "../components/ProjectList.astro";
+
+const projects = [
+	{
+		icon: 'twemoji:clipboard',
+		name: 'Todoin',
+		description: 'Aplikasi todo list',
+	},
+	{
+		icon: 'twemoji:dollar-banknote',
+		name: 'Catatin',
+		description: 'Aplikasi pencatatan keuangan',
+	},
+	{
+		icon: 'twemoji:mosque',
+		name: 'Muslim Kit',
+		description: 'Al-Quran, Hadis dan Fatwa Ulama',
+	},
+	{
+		icon: 'twemoji:flag-saudi-arabia',
+		name: 'Irabin',
+		description: 'Belajar irab dan auto irab',
+	},
+	{
+		icon: 'twemoji:desktop-computer',
+		name: 'HTML Playground',
+		description: 'Live online HTML Playground',
+	},
+	{
+		icon: 'twemoji:sun-behind-rain-cloud',
+		name: 'Mam CCTV',
+		description: 'Aplikasi monitoring CCTV jogja',
+	},
+]
+---
+
+<Default>
+    <main>
+        <Prose tag="header">
+            <h1 class="flex items-center gap-2">
+                <Icon name={'twemoji:building-construction'} />
+                Proyek
+            </h1>
+        </Prose>
+
+        <ProjectList projects={projects} />
+    </main>
+</Default>
