@@ -1,0 +1,30 @@
+---
+import { Icon } from 'astro-icon/components'
+import Link from './Link.astro'
+
+interface Props {
+    services: {
+        icon: string
+        name: string
+        description: string
+    }[]    
+}
+
+const { services } = Astro.props
+---
+
+<ul class="grid gap-4 sm:grid-cols-2">
+    {services.map(service => <li class="flex items-center gap-2 dark:sm:bg-neutral-800 sm:flex-col sm:items-start sm:bg-neutral-100 sm:p-4 sm:rounded-md">
+        <div class="w-12 h-12 shrink-0 bg-neutral-100 rounded-md flex items-center justify-center dark:bg-neutral-800 sm:bg-transparent sm:w-auto sm:h-auto">
+            <Icon name={service.icon} class={"size-5 sm:size-6"} />
+        </div>
+        <div>
+            <Link class="font-medium" color="light">{service.name}</Link>
+            <p class="text-neutral-500 line-clamp-1 dark:text-neutral-400">{service.description}</p>
+        </div>
+        <Link class="ml-auto flex items-center gap-2 sm:ml-0">
+            <span class="hidden sm:inline">Cek di sini</span>
+            <Icon name={"tabler:arrow-right"} />
+        </Link>
+    </li>)}
+</ul>
