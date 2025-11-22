@@ -19,10 +19,10 @@ const { services } = Astro.props
             <Icon name={service.icon} class={"size-5 sm:size-6"} />
         </div>
         <div>
-            <Link class="font-medium" color="light">{service.name}</Link>
+            <Link href={`/services/1`} class="font-medium" color="light">{service.name}</Link>
             <p class="text-neutral-500 line-clamp-1 dark:text-neutral-400">{service.description}</p>
         </div>
-        <Link class="ml-auto flex items-center gap-2 sm:ml-0">
+        <Link href={`/services/1`} class="ml-auto flex items-center gap-2 sm:ml-0">
             <span class="hidden sm:inline">Cek di sini</span>
             <Icon name={"tabler:arrow-right"} />
         </Link>
