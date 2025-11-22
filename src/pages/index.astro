@@ -8,6 +8,7 @@ import Link from '../components/Link.astro'
 import LayoutDefault from '../layouts/Default.astro'
 import Prose from '../components/Prose.astro'
 import Section from '../components/Section.astro'
+import BlogList from '../components/BlogList.astro'
 
 const services = [
 	{
@@ -123,26 +124,7 @@ const projects = [
 			</ul>
 		</Section>
 		<Section title="Tulisan Terbaru">
-			<ol class="space-y-4 mb-4">
-				{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.date}</span>
-					<span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
-					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.tag}</span>
-					<div class="w-full">
-						<Link class="font-medium" color="light">{post.title}</Link>
-					</div>
-				</li>
-				)}
-				{posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
-					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.date}</span>
-					<span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
-					<span class="text-sm text-neutral-500 dark:text-neutral-400">{post.tag}</span>
-					<div class="w-full">
-						<Link class="font-medium" color="light">{post.title}</Link>
-					</div>
-				</li>
-				)}
-			</ol>
+			<BlogList posts={posts} />
 
 			<Link class="ml-auto flex items-center gap-2 sm:ml-0">
 				<span>Lihat Lebih Banyak</span>

@@ -1,0 +1,45 @@
+---
+import { Icon } from "astro-icon/components";
+import Prose from "../components/Prose.astro";
+import Default from "../layouts/Default.astro";
+import BlogList from "../components/BlogList.astro";
+
+const posts = [
+	{
+		date: '17 Nov',
+		tag: 'nodejs',
+		title: 'Apa Itu Peer Dependencies di NPM?'
+	},
+	{
+		date: '9 Nov',
+		tag: 'testing',
+		title: 'Memudahkan Testing Elemen HTML dengan atribut data-testid'
+	},
+	{
+		date: '28 Okt',
+		tag: 'docs',
+		title: 'Vitepress VS Stralight, Mana yang Lebih Baik untuk Dokumentasi'
+	},
+	{
+		date: '26 Okt',
+		tag: 'javascript',
+		title: 'Kapan Menggunakan let di Javascript'
+	},
+	{
+		date: '14 Okt',
+		tag: 'mysql',
+		title: 'Query Rekursi di MySQL'
+	},
+]
+---
+
+<Default>
+    <Prose tag="div">
+        <h1 class="flex items-center gap-2">
+            <Icon name={'twemoji:writing-hand'} />
+            Blog
+        </h1>
+    </Prose>
+
+    <BlogList posts={posts} />
+</Default>
