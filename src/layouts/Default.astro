@@ -68,7 +68,7 @@ const socials = [
 			<Link href="/" color="light" class="font-bold">Ibrahim Al-Anshor</Link>
 			<div class="flex items-center gap-4">
 				<div id="nav-menu" class="hidden absolute top-16 left-0 flex flex-col gap-4 bg-white w-full px-4 pb-4 shadow-lg dark:bg-neutral-900 sm:flex sm:static sm:top-0 sm:left-0 sm:flex-row sm:p-0 sm:shadow-none sm:w-auto">
-					{navMenus.map(menu => <a href={menu.href} class="hover:text-sky-700 dark:hover:text-neutral-300 sm:text-neutral-500 dark:sm:text-neutral-400">{menu.name}</a>)}
+					{navMenus.map(menu => <a href={menu.href} class={`hover:text-sky-700 dark:hover:text-neutral-300 ${Astro.url.pathname === menu.href ? 'text-sky-700 sm:text-sky-700 dark:text-white dark:sm:text-white' : 'sm:text-neutral-500 dark:text-neutral-400 dark:sm:text-neutral-400'}`}>{menu.name}</a>)}
 				</div>
 				<button class="cursor-pointer hover:text-sky-700 dark:hover:text-neutral-300 sm:text-neutral-500 dark:sm:text-neutral-400" title="Ganti ke Mode Gelap / Terang" id="toggle-theme">
 					<Icon name={"tabler:moon"} class={"dark:hidden"} />
