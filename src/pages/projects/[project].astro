@@ -1,0 +1,36 @@
+---
+import { Icon } from 'astro-icon/components';
+import Prose from '../../components/Prose.astro';
+import Default from '../../layouts/Default.astro';
+
+export function getStaticPaths() {
+  return [
+    { params: { project: "1" }},
+  ];
+}
+
+const { project } = Astro.params;
+---
+
+<Default>
+    <Prose>
+        <h1 class="flex items-center gap-2">
+            <Icon name={'twemoji:dollar-banknote'} />
+            Catatin
+        </h1>
+
+        <p>Catatin adalah aplikasi pencatatan keuangan untuk mencatat pengeluaran dan pemasukan berbasis website.</p>
+
+        <p>Link demo : <a href="">www.catatain.com</a></p>
+
+        <h2>Fitur</h2>
+
+        <ul>
+            <li>Mencatat Pemasukan</li>
+            <li>Mencatat Pengeluaran</li>
+            <li>Statistik</li>
+        </ul>
+
+        <h2>Screenshot</h2>
+    </Prose>
+</Default>
