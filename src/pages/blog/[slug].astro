@@ -1,0 +1,19 @@
+---
+import { Icon } from 'astro-icon/components';
+import Prose from '../../components/Prose.astro';
+import Default from '../../layouts/Default.astro';
+import { Content, frontmatter } from '../../contents/blogs/example.md'
+
+export function getStaticPaths() {
+  return [
+    { params: { slug: "1" }},
+  ];
+}
+---
+
+<Default>
+    <Prose tag="header">
+        <h1>{frontmatter.title}</h1>
+        <Content />
+    </Prose>
+</Default>
