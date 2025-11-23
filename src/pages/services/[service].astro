@@ -1,0 +1,60 @@
+---
+import { Icon } from 'astro-icon/components';
+import Prose from '../../components/Prose.astro';
+import Default from '../../layouts/Default.astro';
+import Section from '../../components/Section.astro';
+
+export function getStaticPaths() {
+  return [
+    { params: { service: "1" }},
+  ];
+}
+
+const { service } = Astro.params;
+---
+
+<Default>
+    <Prose tag="header">
+        <h1 class="flex items-center gap-2">
+            <Icon name={'twemoji:globe-showing-asia-australia'} />
+            Jasa Pembuatan Website
+        </h1>
+
+        <p>Ingin bikin website? Saya bisa membantu anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin <strong>murah</strong>, <strong>cepat</strong> dan <strong>profesional</strong>. Tunggu apa lagi? <a href="">Pesan Sekarang.</a></p>
+
+        <h2>Apa itu Website?</h2>
+
+        <p>Website adalah tempat di internet yang bisa diakses siapa saja melalui aplikasi browser. Sebuah website memiliki alamat (domain) khusus, misalnya <code>tokoku.com</code>, <code>presale.id</code>, dll.</p>
+
+        <p>Contoh website yang bisa saya buat:</p>
+
+        <ul>
+            <li>Website Landing Page</li>
+            <li>Website Toko Online</li>
+            <li>Website Company Profile</li>
+            <li>Website Berita</li>
+            <li>Website E-Learning</li>
+            <li>Website Pemesanan Tiket</li>
+            <li>dan sebagainya, sesuai kebutuhan anda.</li>
+        </ul>
+
+        <h2>Kenapa Bikin Website di Jasa Saya?</h2>
+
+        <ul>
+            <li>Murah, mulai dari <strong>300rb</strong> an saja.</li>
+            <li>Cepat</li>
+            <li>Profesional</li>
+            <li>Gratis konsultasi</li>
+            <li>Desain cantik, responsive</li>
+        </ul>
+
+        <h2>Cara Pemesanan</h2>
+        <ul>
+            <li>Hubungi saya dan jelaskan kebutuhan website Anda.</li>
+            <li>Saya buatkan penawaran & estimasi waktu pengerjaan.</li>
+            <li>Website dikerjakan dan selesai sesuai kesepakatan.</li>
+        </ul>
+
+        <p>Tertarik untuk menggunakan jasa pembuatan website? Hubungi saya via <a href="">ibrahimalanshor6@gmail.com</a>, saya siap bantu.</p>
+    </Prose>
+</Default>
