@@ -1,0 +1,7 @@
+---
+const { tag: Tag = 'span', clickable, ...props } = Astro.props
+---
+
+<Tag class={`bg-neutral-100 text-sm py-1 px-2 rounded dark:bg-neutral-800 ${clickable ? 'hover:bg-neutral-200 dark:hover:bg-neutral-700' : ''}`} {...props}>
+    <slot />
+</Tag>

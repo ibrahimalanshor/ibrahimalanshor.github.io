@@ -4,6 +4,7 @@ import Prose from "../components/Prose.astro";
 import Default from "../layouts/Default.astro";
 import { Content as AboutContent } from '../contents/about.md'
 import Section from "../components/Section.astro";
+import Badge from "../components/Badge.astro";
 
 const stacks = ['HTML', 'CSS', 'Tailwind', 'JavaScript', 'TypeScript', 'Vue.js', 'PHP', 'Laravel', 'MySQL', 'Node.Js', 'Express.js', 'Hono', 'Docker', 'Linux']
 const works = [
@@ -44,7 +45,7 @@ const works = [
 
         <Section title="Tech Stack">
             <ul class="flex flex-wrap gap-2">
-                {stacks.map(stack => <li class="bg-neutral-200 text-sm py-1 px-2 rounded dark:bg-neutral-800">{stack}</li>)}
+                {stacks.map(stack => <Badge tag="li">{stack}</Badge>)}
             </ul>
         </Section>
 

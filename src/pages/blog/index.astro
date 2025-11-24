@@ -4,34 +4,36 @@ import Prose from "../../components/Prose.astro";
 import Default from "../../layouts/Default.astro";
 import BlogList from "../../components/BlogList.astro";
 import Link from "../../components/Link.astro";
+import Badge from "../../components/Badge.astro";
 
 const posts = [
 	{
-		date: '17 Nov',
+		date: '17 Nov 25',
 		tag: 'nodejs',
 		title: 'Apa Itu Peer Dependencies di NPM?'
 	},
 	{
-		date: '9 Nov',
+		date: '9 Nov 25',
 		tag: 'testing',
 		title: 'Memudahkan Testing Elemen HTML dengan atribut data-testid'
 	},
 	{
-		date: '28 Okt',
+		date: '28 Okt 25',
 		tag: 'docs',
 		title: 'Vitepress VS Stralight, Mana yang Lebih Baik untuk Dokumentasi'
 	},
 	{
-		date: '26 Okt',
+		date: '26 Okt 25',
 		tag: 'javascript',
 		title: 'Kapan Menggunakan let di Javascript'
 	},
 	{
-		date: '14 Okt',
+		date: '14 Okt 25',
 		tag: 'mysql',
 		title: 'Query Rekursi di MySQL'
 	},
 ]
+const tags = [...new Set([...posts.map(post => post.tag)])]
 const links = Array.from({ length: 5 }, (_, i) => i + 1)
 ---
 
@@ -43,6 +45,10 @@ const links = Array.from({ length: 5 }, (_, i) => i + 1)
 				Blog
 			</h1>
 		</Prose>
+
+		<div class="mb-4 flex flex-wrap gap-2">
+			{tags.map(tag => <Badge tag="a" href="/" clickable>{tag}</Badge>)}
+		</div>
 		
 		<BlogList posts={posts} />
 
