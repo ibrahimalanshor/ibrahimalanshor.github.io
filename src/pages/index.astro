@@ -11,29 +11,31 @@ import Section from '../components/Section.astro'
 import BlogList from '../components/BlogList.astro'
 import ProjectList from '../components/ProjectList.astro'
 import ServiceList from '../components/ServiceList.astro'
+import { getCollection } from 'astro:content'
 
-const services = [
-	{
-		icon: 'twemoji:globe-showing-asia-australia',
-		name: 'Pembuatan Website',
-		description: 'Pembuatan website custom apa saja',
-	},
-	{
-		icon: 'twemoji:hammer-and-wrench',
-		name: 'Pembuatan REST API',
-		description: 'Pembuatan REST API di backend',
-	},
-	{
-		icon: 'twemoji:man-teacher',
-		name: 'Mentoring Coding',
-		description: 'Mentor untuk belajar coding',
-	},
-	{
-		icon: 'twemoji:cloud',
-		name: 'Setup Server & Deployment',
-		description: 'Setup server, domain, SSL, dan deployment website',
-	},
-]
+// const services = [
+// 	{
+// 		icon: 'twemoji:globe-showing-asia-australia',
+// 		name: 'Pembuatan Website',
+// 		description: 'Pembuatan website custom apa saja',
+// 	},
+// 	{
+// 		icon: 'twemoji:hammer-and-wrench',
+// 		name: 'Pembuatan REST API',
+// 		description: 'Pembuatan REST API di backend',
+// 	},
+// 	{
+// 		icon: 'twemoji:man-teacher',
+// 		name: 'Mentoring Coding',
+// 		description: 'Mentor untuk belajar coding',
+// 	},
+// 	{
+// 		icon: 'twemoji:cloud',
+// 		name: 'Setup Server & Deployment',
+// 		description: 'Setup server, domain, SSL, dan deployment website',
+// 	},
+// ]
+const services = await getCollection('service')
 
 const posts = [
 	{
