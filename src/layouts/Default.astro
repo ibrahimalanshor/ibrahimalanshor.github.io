@@ -4,6 +4,7 @@ import '@fontsource/inter'
 import '@fontsource/fira-mono'
 import '../styles/global.css'
 import Link from '../components/Link.astro'
+import { SEO } from "astro-seo";
 
 const navMenus = [
 	{ href: '/about', name: 'Tentang' },
@@ -48,11 +49,33 @@ const socials = [
 
 <html lang="id" class="text-[16px] text-neutral-900 dark:bg-neutral-900 dark:text-neutral-100 sm:text-[18px]">
 	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<SEO
+			charset='utf-8'
+			title='Ibrahim Al-Anshor | Personal Website'
+			description="Saya seorang Web Developer, biasa menggunakan Vue.js dan Laravel. Di blog ini saya akan berbagi tulisan seputar coding dan proyek aplikasi yang saya kembangkan."
+			openGraph={{
+				basic: {
+					title: "Ibrahim Al-Anshor | Personal Website",
+					type: "website",
+					image: "https://user-images.githubusercontent.com/5182256/131216951-8f74f425-f775-463d-a11b-0e01ad9fce8d.png",
+				},
+				optional: {
+					description: 'Saya seorang Web Developer, biasa menggunakan Vue.js dan Laravel'
+				}
+			}}
+			twitter={{
+				card: 'summary',
+				creator: "@ibrahiminx",
+				title: 'Ibrahim Al-Anshor | Personal Website',
+				image: "https://user-images.githubusercontent.com/5182256/131216951-8f74f425-f775-463d-a11b-0e01ad9fce8d.png",
+				description: 'Saya seorang Web Developer, biasa menggunakan Vue.js dan Laravel'
+			}}
+			extend={{
+				link: [{ rel: "icon", href: "/favicon.svg" }],
+			}}
+		/>
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Ibrahim Al-Anshor</title>
 
 		<script>
 			document.documentElement.classList.toggle('dark', localStorage.getItem('theme') === 'dark' || (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches))
