@@ -2,6 +2,9 @@
 import { Icon } from 'astro-icon/components';
 import Prose from '../../components/Prose.astro';
 import Default from '../../layouts/Default.astro';
+import ExampleImage from '../../contents/projects/images/example.png'
+import { Image } from 'astro:assets';
+import { YouTube } from 'astro-embed';
 
 export function getStaticPaths() {
   return [
@@ -32,5 +35,11 @@ const { project } = Astro.params;
         </ul>
 
         <h2>Screenshot</h2>
+        
+        <Image src={ExampleImage} alt={'Example Image'} />
+
+        <h2>Demo Video</h2>
+
+        <YouTube id="https://youtu.be/xtTy5nKay_Y" posterQuality='max' />
     </Prose>
 </Default>
