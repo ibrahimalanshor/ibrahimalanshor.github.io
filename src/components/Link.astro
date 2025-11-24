@@ -1,7 +1,13 @@
 ---
-const { class: classes = '', color = 'primary', tag: Tag = 'a', ...props } = Astro.props
+const { class: classes = '', color = 'primary', tag: Tag = 'a', active = false, ...props } = Astro.props
+
+const activeClass = 'font-medium text-neutral-500 underline'
+const primaryClass = 'text-sky-700 hover:underline dark:text-sky-300'
+const defaultClass = 'text-neutral-900 hover:text-sky-700 dark:text-neutral-100 dark:hover:text-neutral-300'
+
+const colorClass = active ? activeClass : color === 'primary' ? primaryClass : defaultClass
 ---
 
-<Tag {...props} class={`${color === 'primary' ? 'text-sky-700 hover:underline dark:text-sky-300' : 'text-neutral-900 hover:text-sky-700 dark:text-neutral-100 dark:hover:text-neutral-300'} ${classes}`}>
+<Tag {...props} class={`${colorClass} ${classes}`}>
     <slot /> 
 </Tag>
