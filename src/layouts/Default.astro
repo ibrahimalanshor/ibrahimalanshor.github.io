@@ -6,6 +6,12 @@ import '../styles/global.css'
 import Link from '../components/Link.astro'
 import { SEO } from "astro-seo";
 
+const meta = {
+	title: 'Ibrahim Al-Anshor | Web Developer',
+	description: 'Saya seorang Web Developer, berpengalaman lebih dari 4 tahun, terbiasa menggunakan Vue.js dan Laravel',
+	image: new URL('/banner.png', Astro.url.origin).href
+}
+
 const navMenus = [
 	{ href: '/about', name: 'Tentang' },
 	{ href: '/blog', name: 'Blog' },
@@ -13,36 +19,51 @@ const navMenus = [
 	{ href: '/services', name: 'Jasa' }
 ]
 
+const account = {
+	twitter: '@ibrahiminx'
+}
+
 const socials = [
+	{
+		color: 'hover:bg-violet-600',
+		icon: 'tabler:brand-gmail',
+		name: 'E-Mail',
+		href: 'mailto:ibrahimalanshor6@gmail.com'
+	},
 	{
 		color: 'hover:bg-blue-600',
 		icon: 'tabler:brand-linkedin',
 		name: 'Linkedin',
+		href: 'https://www.linkedin.com/in/ibrahimalanshor'
 	},
 	{
 		color: 'hover:bg-indigo-600',
 		icon: 'tabler:brand-instagram',
 		name: 'Instagram',
+		href: 'https://www.instagram.com/ibrahimalanshor'
 	},
 	{
 		color: 'hover:bg-sky-600',
 		icon: 'tabler:brand-twitter',
 		name: 'Twitter',
+		href: 'https://www.x.com/ibrahiminx'
 	},
-	{
-		color: 'hover:bg-blue-600',
-		icon: 'tabler:brand-facebook',
-		name: 'Facebook',
-	},
+	// {
+	// 	color: 'hover:bg-blue-600',
+	// 	icon: 'tabler:brand-facebook',
+	// 	name: 'Facebook',
+	// },
 	{
 		color: 'hover:bg-gray-600',
 		icon: 'tabler:brand-github',
 		name: 'Github',
+		href: 'https://www.github.com/ibrahimalanshor'
 	},
 	{
 		color: 'hover:bg-red-600',
 		icon: 'tabler:brand-youtube',
 		name: 'Youtube',
+		href: 'https://www.youtube.com/@ibrahimalanshor'
 	},
 ]
 ---
@@ -51,31 +72,32 @@ const socials = [
 	<head>
 		<SEO
 			charset='utf-8'
-			title='Ibrahim Al-Anshor | Personal Website'
-			description="Saya seorang Web Developer, biasa menggunakan Vue.js dan Laravel. Di blog ini saya akan berbagi tulisan seputar coding dan proyek aplikasi yang saya kembangkan."
+			title={meta.title}
+			description={meta.description}
 			openGraph={{
 				basic: {
-					title: "Ibrahim Al-Anshor | Personal Website",
+					title: meta.title,
 					type: "website",
-					image: "https://user-images.githubusercontent.com/5182256/131216951-8f74f425-f775-463d-a11b-0e01ad9fce8d.png",
+					image: meta.image,
 				},
 				optional: {
-					description: 'Saya seorang Web Developer, biasa menggunakan Vue.js dan Laravel'
+					description: meta.description
 				}
 			}}
 			twitter={{
-				card: 'summary',
-				creator: "@ibrahiminx",
-				title: 'Ibrahim Al-Anshor | Personal Website',
-				image: "https://user-images.githubusercontent.com/5182256/131216951-8f74f425-f775-463d-a11b-0e01ad9fce8d.png",
-				description: 'Saya seorang Web Developer, biasa menggunakan Vue.js dan Laravel'
-			}}
-			extend={{
-				link: [{ rel: "icon", href: "/favicon.svg" }],
+				card: 'summary_large_image',
+				creator: account.twitter,
+				title: meta.title,
+				image: meta.image,
+				description: meta.description
 			}}
 		/>
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/favicon/site.webmanifest">
 
 		<script>
 			document.documentElement.classList.toggle('dark', localStorage.getItem('theme') === 'dark' || (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches))
@@ -105,7 +127,7 @@ const socials = [
 
 			<footer class="mt-8 pt-4 text-center space-y-2 text-neutral-500">
 				<div class="flex flex-wrap justify-center gap-2">
-					{socials.map(social => <a href="" title={social.name} class={`w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:text-white ${social.color} dark:bg-neutral-800`}>
+					{socials.map(social => <a href={social.href} title={social.name} class={`w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center gap-2 hover:text-white ${social.color} dark:bg-neutral-800`}>
 						<Icon name={social.icon} />
 					</a>)}
 				</div>
