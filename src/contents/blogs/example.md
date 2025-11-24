@@ -1,5 +1,6 @@
 ---
 title: What are peer dependencies in a Node module?
+description: A simple explanation of the peerDependencies field in the package.json file
 ---
 
 A simple explanation of the peerDependencies field in the package.json file

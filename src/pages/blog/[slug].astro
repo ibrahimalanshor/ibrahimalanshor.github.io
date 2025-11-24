@@ -11,7 +11,7 @@ export function getStaticPaths() {
 }
 ---
 
-<Default>
+<Default title={frontmatter.title} description={frontmatter.description}>
     <Prose>
         <p class="flex items-center gap-2">
           <span class="text-sm text-neutral-500 dark:text-neutral-400">17 Nov 25</span>

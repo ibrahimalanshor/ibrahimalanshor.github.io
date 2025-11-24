@@ -6,10 +6,12 @@ import '../styles/global.css'
 import Link from '../components/Link.astro'
 import { SEO } from "astro-seo";
 
+const { title, titleAppend = false, description, image, seo } = Astro.props
+
 const meta = {
-	title: 'Ibrahim Al-Anshor | Web Developer',
-	description: 'Saya seorang Web Developer, berpengalaman lebih dari 4 tahun, terbiasa menggunakan Vue.js dan Laravel',
-	image: new URL('/banner.png', Astro.url.origin).href
+	title: title ? titleAppend ? `${title} | Ibrahim Al Anshor` : title : 'Ibrahim Al-Anshor | Web Developer',
+	description: description ?? 'Saya seorang Web Developer, berpengalaman lebih dari 4 tahun, terbiasa menggunakan Vue.js dan Laravel',
+	image: image ?? new URL('/banner.png', Astro.url.origin).href
 }
 
 const navMenus = [
@@ -91,6 +93,7 @@ const socials = [
 				image: meta.image,
 				description: meta.description
 			}}
+			{...seo}
 		/>
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
