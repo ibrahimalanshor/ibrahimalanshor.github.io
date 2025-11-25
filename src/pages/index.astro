@@ -15,39 +15,7 @@ import { getCollection } from 'astro:content'
 
 const services = await getCollection('service')
 const posts = await getCollection('blog')
-
-const projects = [
-	{
-		icon: 'twemoji:clipboard',
-		name: 'Todoin',
-		description: 'Aplikasi todo list',
-	},
-	{
-		icon: 'twemoji:dollar-banknote',
-		name: 'Catatin',
-		description: 'Aplikasi pencatatan keuangan',
-	},
-	{
-		icon: 'twemoji:mosque',
-		name: 'Muslim Kit',
-		description: 'Al-Quran, Hadis dan Fatwa Ulama',
-	},
-	{
-		icon: 'twemoji:flag-saudi-arabia',
-		name: 'Irabin',
-		description: 'Belajar irab dan auto irab',
-	},
-	{
-		icon: 'twemoji:desktop-computer',
-		name: 'HTML Playground',
-		description: 'Live online HTML Playground',
-	},
-	{
-		icon: 'twemoji:sun-behind-rain-cloud',
-		name: 'Mam CCTV',
-		description: 'Aplikasi monitoring CCTV jogja',
-	},
-]
+const projects = await getCollection('project')
 ---
 
 <LayoutDefault>
@@ -75,10 +43,10 @@ const projects = [
 		<Section title="Proyek">
 			<ProjectList projects={projects} />
 
-			<Link href="/projects" class="ml-auto flex items-center gap-2 sm:ml-0">
+			{projects.length > 6 && <Link href="/projects" class="ml-auto flex items-center gap-2 sm:ml-0">
 				<span>Lihat Lebih Banyak</span>
 				<Icon name={"tabler:arrow-right"} />
-			</Link>
+			</Link>}
 		</Section>
 	</main>
 </LayoutDefault>

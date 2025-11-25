@@ -22,9 +22,10 @@ const service = defineCollection({
 })
 
 const project = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './src/contents/projects' }),
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/contents/projects' }),
     schema: z.object({
         title: z.string(),
+        summary: z.string(),
         description: z.string(),
         icon: z.string()
     })
