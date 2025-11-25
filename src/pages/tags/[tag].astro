@@ -1,0 +1,33 @@
+---
+import { getCollection } from "astro:content";
+import Default from "../../layouts/Default.astro";
+import Prose from "../../components/Prose.astro";
+import { Icon } from "astro-icon/components";
+import BlogList from "../../components/BlogList.astro";
+
+export async function getStaticPaths() {
+    const posts = await getCollection('blog')
+    const tags = [...new Set(...posts.map(post => post.data.tag))]
+
+    return tags.map(tag => ({
+        params: { tag },
+        props: { tag }
+    }))
+}
+
+const { tag } = Astro.props
+const posts = await getCollection('blog', post => post.data.tag.includes(tag))
+---
+
+<Default title={`Blog ${tag}`} titleAppend description=`Kumpulan postingan blog seputar ${tag}`>
+    <main>
+		<Prose tag="header">
+			<h1 class="flex items-center gap-2">
+				<Icon name={'twemoji:writing-hand'} />
+				Blog Kategori {tag}
+			</h1>
+		</Prose>
+		
+		<BlogList posts={posts} />
+    </main>
+</Default>
