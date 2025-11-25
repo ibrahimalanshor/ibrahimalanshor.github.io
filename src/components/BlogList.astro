@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content'
 import Link from './Link.astro'
+import dayjs from 'dayjs'
 
 interface Props {
     posts: CollectionEntry<'blog'>[]
@@ -11,11 +12,11 @@ const { posts } = Astro.props
 
 <ol class="space-y-4 mb-4">
     {posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
-        <span class="text-sm text-neutral-500 dark:text-neutral-400">{post.data.date}</span>
+        <span class="text-sm text-neutral-500 dark:text-neutral-400">{dayjs(post.data.date).format('DD MMM')}</span>
         <span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
         <span class="text-sm text-neutral-500 dark:text-neutral-400">{post.data.tag}</span>
         <div class="w-full">
-            <Link href="/blog/1" class="font-medium" color="light">{post.data.title}</Link>
+            <Link href={`/blog/${post.id}`} class="font-medium" color="light">{post.data.title}</Link>
         </div>
     </li>
     )}

@@ -1,24 +1,31 @@
 ---
-import { Icon } from 'astro-icon/components';
 import Prose from '../../components/Prose.astro';
 import Default from '../../layouts/Default.astro';
-import { Content, frontmatter } from '../../contents/blogs/example.md'
+import { getCollection } from 'astro:content';
+import dayjs from 'dayjs';
+import { render } from 'astro:content';
 
-export function getStaticPaths() {
-  return [
-    { params: { slug: "1" }},
-  ];
+export async function getStaticPaths() {
+  const posts = await getCollection('blog')
+
+  return posts.map(post => ({
+    params: { slug: post.id },
+    props: { post }
+  }))
 }
+
+const { post } = Astro.props
+const { Content } = await render(post)
 ---
 
-<Default title={frontmatter.title} description={frontmatter.description}>
+<Default title={post.data.title} description={post.data.description}>
     <Prose>
         <p class="flex items-center gap-2">
-          <span class="text-sm text-neutral-500 dark:text-neutral-400">17 Nov 25</span>
+          <span class="text-sm text-neutral-500 dark:text-neutral-400">{dayjs(post.data.date).format('DD MMMM YYYY')}</span>
           <span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
-          <a href="" class="text-sm text-neutral-500 dark:text-neutral-400">nodejs</a>
+          <a href="" class="text-sm text-neutral-500 dark:text-neutral-400">{post.data.tag}</a>
         </p>
-        <h1>{frontmatter.title}</h1>
+        <h1>{post.data.title}</h1>
         <Content />
     </Prose>
 </Default>

@@ -67,10 +67,10 @@ const projects = [
 		<Section title="Tulisan Terbaru">
 			<BlogList posts={posts} />
 
-			<Link href="/blog" class="ml-auto flex items-center gap-2 sm:ml-0">
+			{posts.length > 10 && <Link href="/blog" class="ml-auto flex items-center gap-2 sm:ml-0">
 				<span>Lihat Lebih Banyak</span>
 				<Icon name={"tabler:arrow-right"} />
-			</Link>
+			</Link>}
 		</Section>
 		<Section title="Proyek">
 			<ProjectList projects={projects} />
