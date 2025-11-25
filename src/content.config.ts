@@ -18,6 +18,7 @@ const service = defineCollection({
         summary: z.string(),
         description: z.string(),
         icon: z.string(),
+        order: z.number()
     })
 })
 

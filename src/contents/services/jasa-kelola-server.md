@@ -3,6 +3,7 @@ title: Jasa Setup dan Kelola Server
 icon: twemoji:cloud
 summary: Setup server, domain, SSL, dan deployment website
 description: Ingin bikin website murah, cepat dan profesional? Saya siap membantu anda
+order: 3
 ---
 
 Ingin bikin website? Saya bisa membantu anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**. Tunggu apa lagi? [Pesan Sekarang.](/)

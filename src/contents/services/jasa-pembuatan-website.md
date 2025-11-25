@@ -2,14 +2,17 @@
 title: Jasa Pembuatan Website
 icon: twemoji:globe-showing-asia-australia
 summary: Pembuatan website custom apa saja
-description: Ingin bikin website murah, cepat dan profesional? Saya siap membantu anda
+description: Ingin bikin website murah, cepat dan profesional? Saya siap membantu Anda
+order: 1
 ---
 
-Ingin bikin website? Saya bisa membantu anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**. Tunggu apa lagi? [Pesan Sekarang.](/)
+Ingin bikin website? Saya bisa membantu Anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**.
+
+Tunggu apa lagi? [Pesan Sekarang](/).
 
 ## Apa itu Website?
 
-Website adalah tempat di internet yang bisa diakses siapa saja melalui aplikasi browser. Sebuah website memiliki alamat (domain) khusus, misalnya `tokoku.com`, `presale.id`, dll.
+Website adalah tempat di internet yang bisa diakses siapa saja melalui aplikasi browser. Sebuah website memiliki alamat (domain) khusus, misalnya `tokoku.com`, `berita.id`, dll.
 
 Contoh website yang bisa saya buat:
 
@@ -19,7 +22,7 @@ Contoh website yang bisa saya buat:
 - Website Berita
 - Website E-Learning
 - Website Pemesanan Tiket
-- dan sebagainya, sesuai kebutuhan anda.
+- Website Custom, sesuai kebutuhan Anda.
 
 ## Kenapa Bikin Website di Jasa Saya?
 
@@ -27,7 +30,7 @@ Contoh website yang bisa saya buat:
 - Cepat
 - Profesional
 - Gratis konsultasi
-- Desain cantik, responsive
+- Desain cantik dan responsive
 
 ## Cara Pemesanan
 

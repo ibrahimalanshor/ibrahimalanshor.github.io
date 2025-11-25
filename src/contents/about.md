@@ -1,3 +1,3 @@
-Halo! Saya Ibrahim Al-Anshor, seorang Web Developer yang terbiasa menggunakan `Vue.js` dan `Laravel`. Saya mulai berkarir sebagai web developer pada tahun 2022. Sekarang saya bekerja di PT Prioritas Teknologi sebagai Full-Stack Web Developer.
+Halo! Saya Ibrahim Al-Anshor, seorang **Web Developer** yang terbiasa menggunakan `Vue.js` dan `Laravel`. Saya mulai berkarir sebagai web developer pada tahun 2022. Sekarang saya bekerja di PT Prioritas Teknologi sebagai Full-Stack Web Developer.
 
 Selain membuat website, saya juga terbiasa mengelola server, seperti setup server, deploy web, database, docker, setup ssl, domain, dll. Biasanya saya menggunakan Digital Ocean, Netlify dan Cloudflare.

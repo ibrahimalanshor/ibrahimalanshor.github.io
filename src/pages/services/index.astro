@@ -3,12 +3,12 @@ import { Icon } from "astro-icon/components";
 import Prose from "../../components/Prose.astro";
 import Default from "../../layouts/Default.astro";
 import ServiceList from "../../components/ServiceList.astro";
-import { getCollection } from "astro:content";
+import { getServices } from "../../utils";
 
-const services = await getCollection('service')
+const services = await getServices()
 ---
 
-<Default title="Jasa" titleAppend description="Jasa yang saya tawarkan, mulai dari pembuatan website, aplikasi, pengelolaan server, dan mentoring coding">
+<Default title="Jasa" titleAppend description="Daftar beragam jasa yang saya tawarkan, mulai dari pembuatan website, pembuatan aplikasi, pengelolaan server, dan mentoring coding">
     <main>
         <Prose tag="header">
             <h1 class="flex items-center gap-2">

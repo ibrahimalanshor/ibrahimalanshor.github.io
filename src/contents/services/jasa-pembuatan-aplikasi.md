@@ -3,6 +3,7 @@ title: Jasa Pembuatan Aplikasi
 icon: twemoji:hammer-and-wrench
 summary: Pembuatan aplikasi custom apa saja
 description: Ingin bikin website murah, cepat dan profesional? Saya siap membantu anda
+order: 2
 ---
 
 Ingin bikin website? Saya bisa membantu anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**. Tunggu apa lagi? [Pesan Sekarang.](/)
