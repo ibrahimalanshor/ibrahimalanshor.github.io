@@ -3,29 +3,9 @@ import { Icon } from "astro-icon/components";
 import Prose from "../../components/Prose.astro";
 import Default from "../../layouts/Default.astro";
 import ServiceList from "../../components/ServiceList.astro";
+import { getCollection } from "astro:content";
 
-const services = [
-	{
-		icon: 'twemoji:globe-showing-asia-australia',
-		name: 'Pembuatan Website',
-		description: 'Pembuatan website custom apa saja',
-	},
-	{
-		icon: 'twemoji:hammer-and-wrench',
-		name: 'Pembuatan REST API',
-		description: 'Pembuatan REST API di backend',
-	},
-	{
-		icon: 'twemoji:man-teacher',
-		name: 'Mentoring Coding',
-		description: 'Mentor untuk belajar coding',
-	},
-	{
-		icon: 'twemoji:cloud',
-		name: 'Setup Server & Deployment',
-		description: 'Setup server, domain, SSL, dan deployment website',
-	},
-]
+const services = await getCollection('service')
 ---
 
 <Default title="Jasa" titleAppend description="Jasa yang saya tawarkan, mulai dari pembuatan website, aplikasi, pengelolaan server, dan mentoring coding">

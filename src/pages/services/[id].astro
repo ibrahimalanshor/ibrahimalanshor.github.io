@@ -1,0 +1,31 @@
+---
+import { Icon } from 'astro-icon/components';
+import Prose from '../../components/Prose.astro';
+import Default from '../../layouts/Default.astro';
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+    const services = await getCollection('service')
+
+    return services.map(service => ({
+        params: { id: service.id },
+        props: { service }
+    }))
+}
+
+const { service } = Astro.props;
+const { Content } = await render(service)
+---
+
+<Default title="Jasa Pembuatan Website" titleAppend description="Ingin bikin website murah, cepat dan profesional? Saya siap membantu anda">
+    <Prose>
+        <h1 class="flex items-center gap-2">
+            <Icon name={service.data.icon} />
+            {service.data.title}
+        </h1>
+
+        <Content />
+    </Prose>
+</Default>
