@@ -14,34 +14,7 @@ import ServiceList from '../components/ServiceList.astro'
 import { getCollection } from 'astro:content'
 
 const services = await getCollection('service')
-
-const posts = [
-	{
-		date: '17 Nov 25',
-		tag: 'nodejs',
-		title: 'Apa Itu Peer Dependencies di NPM?'
-	},
-	{
-		date: '9 Nov 25',
-		tag: 'testing',
-		title: 'Memudahkan Testing Elemen HTML dengan atribut data-testid'
-	},
-	{
-		date: '28 Okt 25',
-		tag: 'docs',
-		title: 'Vitepress VS Stralight, Mana yang Lebih Baik untuk Dokumentasi'
-	},
-	{
-		date: '26 Okt 25',
-		tag: 'javascript',
-		title: 'Kapan Menggunakan let di Javascript'
-	},
-	{
-		date: '14 Okt 25',
-		tag: 'mysql',
-		title: 'Query Rekursi di MySQL'
-	},
-]
+const posts = await getCollection('blog')
 
 const projects = [
 	{
