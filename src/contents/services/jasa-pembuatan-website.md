@@ -8,7 +8,7 @@ order: 1
 
 Ingin bikin website? Saya bisa membantu Anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**.
 
-Tunggu apa lagi? [Pesan Sekarang](/).
+Tunggu apa lagi? [Hubungi Saya Sekarang](https://wa.me/6282236654884).
 
 ## Apa itu Website?
 
@@ -38,4 +38,4 @@ Contoh website yang bisa saya buat:
 2. Saya buatkan penawaran & estimasi waktu pengerjaan.
 3. Website dikerjakan dan selesai sesuai kesepakatan.
 
-Tertarik untuk menggunakan jasa pembuatan website? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
+Tertarik untuk menggunakan jasa pembuatan website? [Hubungi Saya Sekarang](https://wa.me/6282236654884), saya siap bantu.

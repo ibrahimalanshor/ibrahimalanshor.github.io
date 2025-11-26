@@ -8,7 +8,7 @@ order: 3
 
 Tidak punya waktu untuk mengelola server? Saya bisa bantu Anda. Saya berpengalaman dalam melakukan setup dan mengelola server, hosting dan VPS di beragam provider seperti DigitalOcean, Netlify, Cloudflare, dll.
 
-Tunggu apa lagi? [Hubungi Saya Sekarang](/).
+Tunggu apa lagi? [Hubungi Saya Sekarang](https://wa.me/6282236654884).
 
 ## Apa Saja Layanan Servernya?
 
@@ -26,4 +26,4 @@ Tunggu apa lagi? [Hubungi Saya Sekarang](/).
 - Profesional
 - Gratis konsultasi
 
-Tertarik untuk menggunakan jasa setup dan kelola server? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
+Tertarik untuk menggunakan jasa setup dan kelola server? [Hubungi Saya Sekarang](https://wa.me/6282236654884), saya siap bantu.

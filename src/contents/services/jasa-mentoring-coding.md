@@ -8,7 +8,7 @@ order: 4
 
 Butuh mentor untuk belajar coding? Saya bisa membantu Anda. Dengan bimbingan mentor, belajar coding jadi lebih mudah, cepat dan terarah.
 
-Tunggu apa lagi? [Hubungi saya Sekarang](/).
+Tunggu apa lagi? [Hubungi Saya Sekarang](https://wa.me/6282236654884).
 
 ## Apa itu Mentoring Coding?
 
@@ -29,4 +29,4 @@ Jenis mentoring coding yang bisa Anda ikuti:
 - Bisa belajar coding atau konsultasi seputar coding
 - Ada materi pembelajaran lengkap dan gratis
 
-Tertarik untuk mengikuti program mentoring coding? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
+Tertarik untuk mengikuti program mentoring coding? [Hubungi Saya Sekarang](https://wa.me/6282236654884), saya siap bantu.
