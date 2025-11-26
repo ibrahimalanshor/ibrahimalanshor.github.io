@@ -34,8 +34,8 @@ Contoh website yang bisa saya buat:
 
 ## Cara Pemesanan
 
-- Hubungi saya dan jelaskan kebutuhan website Anda.
-- Saya buatkan penawaran & estimasi waktu pengerjaan.
--  Website dikerjakan dan selesai sesuai kesepakatan.
+1. Hubungi saya dan jelaskan kebutuhan website Anda.
+2. Saya buatkan penawaran & estimasi waktu pengerjaan.
+3. Website dikerjakan dan selesai sesuai kesepakatan.
 
 Tertarik untuk menggunakan jasa pembuatan website? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.

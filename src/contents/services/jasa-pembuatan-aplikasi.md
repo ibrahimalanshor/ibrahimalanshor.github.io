@@ -2,38 +2,36 @@
 title: Jasa Pembuatan Aplikasi
 icon: twemoji:hammer-and-wrench
 summary: Pembuatan aplikasi custom apa saja
-description: Ingin bikin website murah, cepat dan profesional? Saya siap membantu anda
+description: Ingin bikin aplikasi untuk kebutuhan bisnis dan usaha Anda? Saya bisa bantu membuatkannya
 order: 2
 ---
 
-Ingin bikin website? Saya bisa membantu anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**. Tunggu apa lagi? [Pesan Sekarang.](/)
+Ingin bikin aplikasi untuk kebutuhan bisnis dan usaha Anda? Saya bisa bantu membuatkannya. Saya sudah berpengalaman lebih dari 4 tahun dalam pembuatan berbagai jenis aplikasi. Dijamin **cepat** dan **profesional**.
 
-## Apa itu Website?
+Tunggu apa lagi? [Pesan Sekarang](/).
 
-Website adalah tempat di internet yang bisa diakses siapa saja melalui aplikasi browser. Sebuah website memiliki alamat (domain) khusus, misalnya `tokoku.com`, `presale.id`, dll.
+## Apa itu Aplikasi?
 
-Contoh website yang bisa saya buat:
+Aplikasi adalah program komputer yang digunakan untuk melakukan tugas atau proses tertentu untuk membantu operasional usaha dan bisnis.
 
-- Website Landing Page
-- Website Toko Online
-- Website Company Profile
-- Website Berita
-- Website E-Learning
-- Website Pemesanan Tiket
-- dan sebagainya, sesuai kebutuhan anda.
+Contoh aplikasi yang bisa saya buat:
 
-## Kenapa Bikin Website di Jasa Saya?
+- Aplikasi Kasir (Point of Sales)
+- Aplikasi ERP
+- Aplikasi Gudang
+- Aplikasi Pengelolaan Karyawan (HRM)
+- Aplikasi Custom, sesuai kebutuhan Anda.
 
-- Murah, mulai dari **300rb** an saja.
-- Cepat
-- Profesional
+## Kenapa Bikin Aplikasi di Jasa Saya?
+
 - Gratis konsultasi
-- Desain cantik, responsive
+- Cepat dan profesional
+- Siap maintenace dan upgrade fitur
 
 ## Cara Pemesanan
 
-- Hubungi saya dan jelaskan kebutuhan website Anda.
-- Saya buatkan penawaran & estimasi waktu pengerjaan.
--  Website dikerjakan dan selesai sesuai kesepakatan.
+1. Hubungi saya dan jelaskan kebutuhan aplikasi Anda.
+2. Saya buatkan penawaran & estimasi waktu pengerjaan.
+3. Aplikasi dikerjakan dan selesai sesuai kesepakatan.
 
-Tertarik untuk menggunakan jasa pembuatan website? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
+Tertarik untuk menggunakan jasa pembuatan aplikasi? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
