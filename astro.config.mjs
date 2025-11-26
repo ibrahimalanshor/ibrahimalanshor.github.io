@@ -6,8 +6,11 @@ import icon from 'astro-icon';
 
 import mdx from '@astrojs/mdx';
 
+import sitemap from '@astrojs/sitemap';
+
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://ibrahimalanshor.github.io',
   vite: {
       plugins: [tailwindcss()],
       server:  {
@@ -15,5 +18,5 @@ export default defineConfig({
       }
   },
 
-  integrations: [icon(), mdx()]
+  integrations: [icon(), mdx(), sitemap()]
 });

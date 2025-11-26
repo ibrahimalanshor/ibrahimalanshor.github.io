@@ -2,38 +2,28 @@
 title: Jasa Setup dan Kelola Server
 icon: twemoji:cloud
 summary: Setup server, domain, SSL, dan deployment website
-description: Ingin bikin website murah, cepat dan profesional? Saya siap membantu anda
+description: Tidak punya waktu untuk mengelola server? Saya bisa bantu Anda. Saya berpengalaman dalam melakukan setup dan mengelola server, hosting, VPS
 order: 3
 ---
 
-Ingin bikin website? Saya bisa membantu anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**. Tunggu apa lagi? [Pesan Sekarang.](/)
+Tidak punya waktu untuk mengelola server? Saya bisa bantu Anda. Saya berpengalaman dalam melakukan setup dan mengelola server, hosting dan VPS di beragam provider seperti DigitalOcean, Netlify, Cloudflare, dll.
 
-## Apa itu Website?
+Tunggu apa lagi? [Hubungi Saya Sekarang](https://wa.me/6282236654884).
 
-Website adalah tempat di internet yang bisa diakses siapa saja melalui aplikasi browser. Sebuah website memiliki alamat (domain) khusus, misalnya `tokoku.com`, `presale.id`, dll.
+## Apa Saja Layanan Servernya?
 
-Contoh website yang bisa saya buat:
+- Setup Server, Hosting, VPS
+- Setup Domain, Subdomain
+- Setup SSL
+- Deploy Website
+- Setup Database
+- Monitoring
+- Maintenance
 
-- Website Landing Page
-- Website Toko Online
-- Website Company Profile
-- Website Berita
-- Website E-Learning
-- Website Pemesanan Tiket
-- dan sebagainya, sesuai kebutuhan anda.
+## Kenapa Kelola Server di Jasa Saya?
 
-## Kenapa Bikin Website di Jasa Saya?
-
-- Murah, mulai dari **300rb** an saja.
-- Cepat
+- Fast Response
 - Profesional
 - Gratis konsultasi
-- Desain cantik, responsive
 
-## Cara Pemesanan
-
-- Hubungi saya dan jelaskan kebutuhan website Anda.
-- Saya buatkan penawaran & estimasi waktu pengerjaan.
--  Website dikerjakan dan selesai sesuai kesepakatan.
-
-Tertarik untuk menggunakan jasa pembuatan website? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
+Tertarik untuk menggunakan jasa setup dan kelola server? [Hubungi Saya Sekarang](https://wa.me/6282236654884), saya siap bantu.

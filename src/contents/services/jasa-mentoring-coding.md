@@ -2,38 +2,31 @@
 title: Mentoring Coding
 icon: twemoji:man-teacher
 summary: Mentor untuk belajar coding
-description: Ingin bikin website murah, cepat dan profesional? Saya siap membantu anda
+description: Butuh mentor untuk belajar coding? Saya bisa menjadi Anda agar belajar coding menjadi lebih mudah, cepat dan terarah.
 order: 4
 ---
 
-Ingin bikin website? Saya bisa membantu anda membuatkannya. Saya sudah berpengalaman sejak 2022 dalam pembuatan beragam jenis website. Dijamin **murah**, **cepat** dan **profesional**. Tunggu apa lagi? [Pesan Sekarang.](/)
+Butuh mentor untuk belajar coding? Saya bisa membantu Anda. Dengan bimbingan mentor, belajar coding jadi lebih mudah, cepat dan terarah.
 
-## Apa itu Website?
+Tunggu apa lagi? [Hubungi Saya Sekarang](https://wa.me/6282236654884).
 
-Website adalah tempat di internet yang bisa diakses siapa saja melalui aplikasi browser. Sebuah website memiliki alamat (domain) khusus, misalnya `tokoku.com`, `presale.id`, dll.
+## Apa itu Mentoring Coding?
 
-Contoh website yang bisa saya buat:
+Mentoring coding adalah program privat belajar coding yang dimbing langsung oleh mentor. Mentor akan menentukan roadmap belajar, menjelaskan materi dan membantu mengatasi masalah seputar coding.
 
-- Website Landing Page
-- Website Toko Online
-- Website Company Profile
-- Website Berita
-- Website E-Learning
-- Website Pemesanan Tiket
-- dan sebagainya, sesuai kebutuhan anda.
+Jenis mentoring coding yang bisa Anda ikuti:
 
-## Kenapa Bikin Website di Jasa Saya?
+- Belajar web development
+- Belajar backend development
+- Belajar server management
+- Pengembangan karir di bidang IT
+- Diskusi dan bimbingan proyek
 
-- Murah, mulai dari **300rb** an saja.
-- Cepat
-- Profesional
-- Gratis konsultasi
-- Desain cantik, responsive
+## Keunggulan Mentoring Coding Saya
 
-## Cara Pemesanan
+- Waktu fleksibel
+- Cocok untuk pemula
+- Bisa belajar coding atau konsultasi seputar coding
+- Ada materi pembelajaran lengkap dan gratis
 
-- Hubungi saya dan jelaskan kebutuhan website Anda.
-- Saya buatkan penawaran & estimasi waktu pengerjaan.
--  Website dikerjakan dan selesai sesuai kesepakatan.
-
-Tertarik untuk menggunakan jasa pembuatan website? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
+Tertarik untuk mengikuti program mentoring coding? [Hubungi Saya Sekarang](https://wa.me/6282236654884), saya siap bantu.

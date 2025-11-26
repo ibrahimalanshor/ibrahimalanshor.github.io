@@ -30,6 +30,43 @@ const works = [
         company: 'CV Karya Inovasi Anak Bangsa'
     }
 ]
+const contacts = [
+	{
+		name: 'E-Mail',
+		href: 'mailto:ibrahimalanshor6@gmail.com',
+        username: 'ibrahimalanshor6@gmail.com'
+	},
+	{
+		name: 'Linkedin',
+		href: 'https://www.linkedin.com/in/ibrahimalanshor',
+        username: 'ibrahimalanshor'
+	},
+	{
+		name: 'Instagram',
+		href: 'https://www.instagram.com/ibrahimalanshor',
+        username: 'ibrahimalanshor'
+	},
+	{
+		name: 'Twitter',
+		href: 'https://www.x.com/ibrahiminx',
+        username: 'ibrahiminx'
+	},
+	// {
+	// 	name: 'Facebook',
+	// },
+	{
+		name: 'Github',
+		href: 'https://www.github.com/ibrahimalanshor',
+        username: 'ibrahimalanshor'
+	},
+	{
+		color: 'hover:bg-red-600',
+		icon: 'tabler:brand-youtube',
+		name: 'Youtube',
+		href: 'https://www.youtube.com/@ibrahimalanshor',
+        username: 'ibrahimalanshor'
+	},
+]
 ---
 
 <Default title="Tentang Saya" titleAppend>
@@ -62,5 +99,15 @@ const works = [
                 </li>)}
             </ol>
         </Section>
+
+        <Prose tag="section">
+            <h2>Kontak</h2>
+
+            <ul>
+                {contacts.map(contact => <li>
+                   {contact.name} : <a href={contact.href}>{contact.username}</a>
+                </li>)}
+            </ul>
+        </Prose>
     </article>
 </Default>

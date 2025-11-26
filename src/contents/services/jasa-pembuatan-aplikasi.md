@@ -8,7 +8,7 @@ order: 2
 
 Ingin bikin aplikasi untuk kebutuhan bisnis dan usaha Anda? Saya bisa bantu membuatkannya. Saya sudah berpengalaman lebih dari 4 tahun dalam pembuatan berbagai jenis aplikasi. Dijamin **cepat** dan **profesional**.
 
-Tunggu apa lagi? [Pesan Sekarang](/).
+Tunggu apa lagi? [Hubungi Saya Sekarang](https://wa.me/6282236654884).
 
 ## Apa itu Aplikasi?
 
@@ -34,4 +34,4 @@ Contoh aplikasi yang bisa saya buat:
 2. Saya buatkan penawaran & estimasi waktu pengerjaan.
 3. Aplikasi dikerjakan dan selesai sesuai kesepakatan.
 
-Tertarik untuk menggunakan jasa pembuatan aplikasi? Hubungi saya via [ibrahimalanshor6@gmail.com](/), saya siap bantu.
+Tertarik untuk menggunakan jasa pembuatan aplikasi? [Hubungi Saya Sekarang](https://wa.me/6282236654884), saya siap bantu.
