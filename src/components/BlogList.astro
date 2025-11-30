@@ -14,7 +14,7 @@ const { posts } = Astro.props
     {posts.map(post => <li class="flex flex-wrap gap-x-2 items-center">
         <span class="text-sm text-neutral-500 dark:text-neutral-400">{dayjs(post.data.date).format('DD MMM')}</span>
         <span class="w-1 h-1 bg-neutral-200 rounded-full dark:bg-neutral-600"></span>
-        <span class="text-sm text-neutral-500 dark:text-neutral-400">{post.data.tag}</span>
+        <a href={`/tags/${post.data.tag}`} class="text-sm text-neutral-500 dark:text-neutral-400 hover:text-sky-700 dark:hover:text-neutral-300">{post.data.tag}</a>
         <div class="w-full">
             <Link href={`/blog/${post.id}`} class="font-medium" color="light">{post.data.title}</Link>
         </div>
