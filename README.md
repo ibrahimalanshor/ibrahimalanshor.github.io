@@ -10,4 +10,3 @@
 - [ ] JS Unique element
 - [ ] JS Array range
 - [ ] Tailwind styling children
-- [ ] 
