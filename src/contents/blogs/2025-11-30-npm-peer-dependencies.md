@@ -1,7 +1,7 @@
 ---
 slug: npm-peer-dependencies
 title: Apa Itu Peer Dependencies di NPM 
-description: A simple explanation of the peerDependencies field in the package.json file
+description: Peer dependencies adalah package yang dibutuhkan oleh package lain tapi harus diinstal di proyek yang menggunakan package lain tersebut.
 tag: [nodejs]
 date: 2025-11-30
 ---

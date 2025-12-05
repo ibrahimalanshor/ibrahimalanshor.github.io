@@ -8,7 +8,7 @@ import Badge from "../../components/Badge.astro";
 import { getCollection } from "astro:content";
 
 const posts = await getCollection('blog')
-const tags = [...new Set(...posts.map(post => post.data.tag))]
+const tags = [...new Set(posts.flatMap(post => post.data.tag))]
 const links = Array.from({ length: 5 }, (_, i) => i + 1)
 ---
 
