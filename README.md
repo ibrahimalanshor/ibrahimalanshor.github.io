@@ -1,7 +1,7 @@
 ## Daftar Artikel
 
 - [ ] Vite proxy
-- [ ] Setup linter vue
+- [x] Setup linter vue
 - [ ] Vue component v-model
 - [ ] JS Random Element
 - [ ] Apa itu focus visible
@@ -10,3 +10,4 @@
 - [ ] JS Unique element
 - [ ] JS Array range
 - [ ] Tailwind styling children
+- [ ] Tailwind bg svg
