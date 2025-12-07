@@ -3,7 +3,7 @@
 - [ ] Vite proxy
 - [x] Setup linter vue
 - [ ] Vue component v-model
-- [ ] JS Random Element
+- [x] JS Random Element
 - [ ] Apa itu focus visible
 - [ ] Astro sort collection
 - [ ] Tailwind custom default font

@@ -10,7 +10,6 @@ interface Props {
 const { posts } = Astro.props
 
 posts.sort((a, b) => dayjs(b.data.date) - dayjs(a.data.date))
-console.log(posts)
 ---
 
 <ol class="space-y-4 mb-4">
