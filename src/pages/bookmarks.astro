@@ -1,0 +1,26 @@
+---
+import LayoutDefault from '../layouts/Default.astro'
+import { getCollection } from 'astro:content';
+import Prose from '../components/Prose.astro'
+import { Icon } from 'astro-icon/components'
+import Link from '../components/Link.astro'
+
+const bookmarks = await getCollection('bookmark')
+---
+
+<LayoutDefault title="Bookmark" titleAppend description="Daftar situs yang dibookmark karena bermanfaat">
+  <main>
+    <Prose tag="header">
+      <h1 class="flex items-center gap-2">
+			  <Icon name={'twemoji:bookmark'} />
+		    Bookmark	
+      </h1>
+    </Prose> 
+    <ul class="space-y-4">
+      {bookmarks.map(bookmark => <li class="flex flex-col items-start">
+        <Link href={bookmark.data.url} class="font-medium" color="light">{bookmark.data.name}</Link>
+        <span class="text-sm text-neutral-500 dark:text-neutral-400">{bookmark.data.url}</span>
+      </li>)}
+    </ul>
+  </main>
+</LayoutDefault>
