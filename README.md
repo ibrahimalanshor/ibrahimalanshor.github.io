@@ -1,6 +1,6 @@
 ## Daftar Artikel
 
-- [ ] Vite proxy
+- [x] Vite proxy
 - [x] Setup linter vue
 - [ ] Vue component v-model
 - [x] JS Random Element
@@ -11,3 +11,4 @@
 - [ ] JS Array range
 - [ ] Tailwind styling children
 - [ ] Tailwind bg svg
+- [ ] SQL Case in Order By
