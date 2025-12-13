@@ -1,7 +1,7 @@
 ---
 slug: mengatasi-cors-vite-dengan-proxy 
 title: Mengatasi CORS di Vite dengan Menambahkan Proxy 
-description: Untuk mendapatkan random array element di javascript, kita bisa menggunakan Math.random() dan Math.floor() 
+description: Masalah CORS sering terjadi ketika client dan server berbeda origin-nya dan server tidak mengizinkan origin browser untuk mengakses resource di server 
 tag: [vite]
 date: 2025-12-09
 ---
