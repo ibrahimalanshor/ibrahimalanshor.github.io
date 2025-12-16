@@ -12,3 +12,4 @@
 - [ ] Tailwind styling children
 - [ ] Tailwind bg svg
 - [ ] SQL Case in Order By
+- [ ] Latin number to arabic
