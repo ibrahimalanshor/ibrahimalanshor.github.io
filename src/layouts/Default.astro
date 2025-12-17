@@ -11,7 +11,7 @@ const { title, titleAppend = false, description, image, seo } = Astro.props
 const meta = {
 	title: title ? titleAppend ? `${title} | Ibrahim Al Anshor` : title : 'Ibrahim Al-Anshor | Web Developer',
 	description: description ?? 'Saya seorang Web Developer, berpengalaman lebih dari 4 tahun, terbiasa menggunakan Vue.js dan Laravel',
-	image: image ?? new URL('/banner.png', Astro.url.origin).href
+	image: new URL(image ?? '/banner.png', Astro.url.origin).href
 }
 
 const navMenus = [
