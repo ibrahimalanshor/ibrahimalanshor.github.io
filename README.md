@@ -14,3 +14,4 @@
 - [ ] SQL Case in Order By
 - [ ] Latin number to arabic
 - [ ] JS Scroll Id and add hash
+- [ ] JS on scroll vs intersection observer
