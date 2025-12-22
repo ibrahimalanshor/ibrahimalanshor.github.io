@@ -7,7 +7,7 @@
 - [x] Apa itu focus visible
 - [ ] Astro sort collection
 - [ ] Tailwind custom default font
-- [ ] JS Unique element
+- [x] JS Unique element
 - [ ] JS Array range
 - [ ] Tailwind styling children
 - [ ] Tailwind bg svg
@@ -15,3 +15,5 @@
 - [ ] Latin number to arabic
 - [ ] JS Scroll Id and add hash
 - [ ] JS on scroll vs intersection observer
+- [ ] Record terminal using ascii
+- [ ] Git branch sort by latest updated
