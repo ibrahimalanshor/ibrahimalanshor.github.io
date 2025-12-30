@@ -1,7 +1,7 @@
 ---
 slug: js-unique-array-element 
 title: Cara Menghapus Elemen Duplikat di Array JavaScript 
-description: Focus-Visible hanya diberikan ketika elemen sedang focus dan membutuhkan indikator focus. 
+description: Ada beberapa cara yang bisa digunakan untuk menghapus elemen yang duplikat di array JavaScript. 
 tag: [javascript]
 date: 2025-12-22
 thumbnail: ./images/js-unique-array-element/thumbnail.png
