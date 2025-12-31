@@ -6,7 +6,7 @@
 - [x] JS Random Element
 - [x] Apa itu focus visible
 - [ ] Astro sort collection
-- [ ] Tailwind custom default font
+- [x] Tailwind custom default font
 - [x] JS Unique element
 - [ ] JS Array range
 - [ ] Tailwind styling children
@@ -18,3 +18,4 @@
 - [ ] Record terminal using ascii
 - [ ] Git branch sort by latest updated
 - [ ] Button submit specific form
+- [ ] Vue check slot exists
