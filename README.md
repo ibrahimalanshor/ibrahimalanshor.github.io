@@ -19,3 +19,4 @@
 - [ ] Git branch sort by latest updated
 - [ ] Button submit specific form
 - [ ] Vue check slot exists
+- [ ] CSS Table row dropdown clip
