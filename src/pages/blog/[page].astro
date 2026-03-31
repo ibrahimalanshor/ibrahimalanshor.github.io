@@ -1,5 +1,4 @@
 ---
-import { getCollection } from "astro:content";
 import Default from "../../layouts/Default.astro";
 import Prose from "../../components/Prose.astro";
 import { Icon } from "astro-icon/components";
@@ -7,18 +6,19 @@ import Badge from "../../components/Badge.astro";
 import BlogList from "../../components/BlogList.astro";
 import type { Page } from "astro";
 import Link from "../../components/Link.astro";
+import { getPosts } from "../../utils";
 
 interface Props {
     page: Page
 }
 
 export async  function getStaticPaths({ paginate }: any) {
-    const posts = await getCollection('blog')
+    const posts = await getPosts()
 
     return paginate(posts, { pageSize: 10 });
 }
 
-const posts = await getCollection('blog')
+const posts = await getPosts()
 const tags = [...new Set(posts.flatMap(post => post.data.tag))]
 
 const { page } = Astro.props;

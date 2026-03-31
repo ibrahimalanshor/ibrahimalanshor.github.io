@@ -4,9 +4,10 @@ import Default from "../../layouts/Default.astro";
 import Prose from "../../components/Prose.astro";
 import { Icon } from "astro-icon/components";
 import BlogList from "../../components/BlogList.astro";
+import { getPosts } from "../../utils";
 
 export async function getStaticPaths() {
-    const posts = await getCollection('blog')
+    const posts = await getPosts()
     const tags = [...new Set(posts.flatMap(post => post.data.tag))]
 
     return tags.map(tag => ({

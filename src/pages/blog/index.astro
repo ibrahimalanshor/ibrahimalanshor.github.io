@@ -5,11 +5,10 @@ import Default from "../../layouts/Default.astro";
 import BlogList from "../../components/BlogList.astro";
 import Link from "../../components/Link.astro";
 import Badge from "../../components/Badge.astro";
-import { getCollection } from "astro:content";
+import { getPosts } from "../../utils";
 
-const posts = await getCollection('blog')
+const posts = await getPosts()
 const tags = [...new Set(posts.flatMap(post => post.data.tag))]
-const links = Array.from({ length: 5 }, (_, i) => i + 1)
 
 const page = {
 	data: posts.slice(0, 10),

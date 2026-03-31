@@ -12,10 +12,10 @@ import BlogList from '../components/BlogList.astro'
 import ProjectList from '../components/ProjectList.astro'
 import ServiceList from '../components/ServiceList.astro'
 import { getCollection } from 'astro:content'
-import { getServices } from '../utils'
+import { getServices, getPosts } from '../utils'
 
 const services = await getServices()
-const posts = await getCollection('blog')
+const posts = await getPosts()
 const projects = await getCollection('project')
 ---
 
@@ -34,7 +34,7 @@ const projects = await getCollection('project')
 			<ServiceList services={services} />
 		</Section>
 		{posts.length > 0 && <Section title="Tulisan Terbaru">
-			<BlogList posts={posts} />
+			<BlogList posts={posts.slice(0, 10)} />
 
 			{posts.length > 10 && <Link href="/blog" class="ml-auto flex items-center gap-2 sm:ml-0">
 				<span>Lihat Lebih Banyak</span>
