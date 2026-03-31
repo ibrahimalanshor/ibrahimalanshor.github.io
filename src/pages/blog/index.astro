@@ -10,6 +10,11 @@ import { getCollection } from "astro:content";
 const posts = await getCollection('blog')
 const tags = [...new Set(posts.flatMap(post => post.data.tag))]
 const links = Array.from({ length: 5 }, (_, i) => i + 1)
+
+const page = {
+	data: posts.slice(0, 10),
+	total: Math.ceil(posts.length / 10)
+}
 ---
 
 <Default title="Blog" titleAppend description="Kumpulan postingan blog seputar coding dan pemrograman, Vue.js, Laravel, Tailwind, JavaScript, PHP, dll.">
@@ -25,19 +30,14 @@ const links = Array.from({ length: 5 }, (_, i) => i + 1)
 			{tags.map(tag => <Badge tag="a" href={`/tags/${tag}`} clickable>{tag}</Badge>)}
 		</div>
 		
-		<BlogList posts={posts} />
+		<BlogList posts={page.data} />
 
-		{posts.length > 10 && <nav class="flex items-center justify-between">
-			<Link class="flex items-center gap-2">
-				<Icon name={'tabler:arrow-left'} />
-				Prev
-			</Link>
-
-			<div class="flex gap-3">
-				{links.map(i => <Link active={i === 2}>{i}</Link>)}
+		{posts.length > 10 && <nav class="flex items-center relative">
+			<div class="flex gap-3 absolute left-1/2 -translate-x-1/2">
+				{Array.from({ length: page.total }, (_, i) => i + 1).map(i => <Link tag={i !== 1 ? 'a'  : 'span' } href={i !== 1 ? `/blog/${i}` : null} active={i === 1}>{i}</Link>)}
 			</div>
 
-			<Link class="flex items-center gap-2">
+			<Link href="/blog/2" class="flex items-center gap-2 ml-auto">
 				Next
 				<Icon name={'tabler:arrow-right'} />
 			</Link>

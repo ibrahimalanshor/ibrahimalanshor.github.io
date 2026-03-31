@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import Default from "../../layouts/Default.astro";
+import Prose from "../../components/Prose.astro";
+import { Icon } from "astro-icon/components";
+import Badge from "../../components/Badge.astro";
+import BlogList from "../../components/BlogList.astro";
+import type { Page } from "astro";
+import Link from "../../components/Link.astro";
+
+interface Props {
+    page: Page
+}
+
+export async  function getStaticPaths({ paginate }: any) {
+    const posts = await getCollection('blog')
+
+    return paginate(posts, { pageSize: 10 });
+}
+
+const posts = await getCollection('blog')
+const tags = [...new Set(posts.flatMap(post => post.data.tag))]
+
+const { page } = Astro.props;
+const pages = Array.from({ length: page.lastPage }, (_, i) => i + 1)
+---
+
+<Default title="Blog" titleAppend description="Kumpulan postingan blog seputar coding dan pemrograman, Vue.js, Laravel, Tailwind, JavaScript, PHP, dll.">
+    <main>
+		<Prose tag="header">
+			<h1 class="flex items-center gap-2">
+				<Icon name={'twemoji:writing-hand'} />
+				Blog
+			</h1>
+		</Prose>
+
+		<div class="mb-4 flex flex-wrap gap-2">
+			{tags.map(tag => <Badge tag="a" href={`/tags/${tag}`} clickable>{tag}</Badge>)}
+		</div>
+		
+		<BlogList posts={page.data} />
+
+		{page.total > 10 && <nav class="relative flex items-center">
+			{page.currentPage > 1 && <Link href={`/blog/${page.currentPage - 1}`} class="flex items-center gap-2">
+				<Icon name={'tabler:arrow-left'} />
+				Prev
+			</Link>}
+
+			<div class="flex gap-3 absolute left-1/2 -translate-x-1/2">
+				{pages.map(i => <Link tag={i !== page.currentPage ? 'a'  : 'span' } href={i !== page.currentPage ? `/blog/${i}` : null} active={i === page.currentPage}>{i}</Link>)}
+			</div>
+
+			{page.currentPage < page.lastPage && <Link href={`/blog/${page.currentPage + 1}`} class="flex items-center gap-2 ml-auto">
+				Next
+				<Icon name={'tabler:arrow-right'} />
+			</Link>}
+		</nav>}
+	</main>
+</Default>
