@@ -27,7 +27,7 @@ Contoh digunakan di operasi update data:
 
 ```jsx
 UPDATE orders
-SET created_at = DATE_ADD(created_at, 1 DAY);
+SET created_at = DATE_ADD(created_at, INTERVAL 1 DAY);
 ```
 
 Daftar jenis interval:
@@ -71,7 +71,7 @@ Contoh digunakan di operasi update data:
 
 ```jsx
 UPDATE orders
-SET created_at = DATE_SUB(created_at, 1 DAY);
+SET created_at = DATE_SUB(created_at, INTERVAL 1 DAY);
 ```
 
 Daftar jenis interval pada `DATE_SUB` sama dengan di `DATE_ADD`.
