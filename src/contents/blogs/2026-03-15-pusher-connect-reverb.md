@@ -2,7 +2,7 @@
 slug: cara-connect-pusher-js-ke-laravel-reverb
 title: Cara Connect Pusher JS ke Laravel Reverb
 description: Laravel Reverb adalah package laravel untuk membuat server broadcast, pusher adalah library javascript untuk menghubungkan ke laravel reverb.
-tag: [php]
+tag: [laravel]
 date: 2026-03-15
 thumbnail: ./images/laravel-reverb-connect-pusher-js/thumbnail.png
 ---
