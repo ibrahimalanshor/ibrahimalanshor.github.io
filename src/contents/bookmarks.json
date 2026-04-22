@@ -28,5 +28,10 @@
     "id": "moderncss",
     "name": "Modern CSS Solutions",
     "url": "https://moderncss.dev"
+  },
+  {
+    "id": "google-search-central-blog",
+    "name": "Google Search Central Blog",
+    "url": "https://developers.google.com/search/blog"
   }
 ]
