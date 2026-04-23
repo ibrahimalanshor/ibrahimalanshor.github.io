@@ -33,5 +33,15 @@
     "id": "google-search-central-blog",
     "name": "Google Search Central Blog",
     "url": "https://developers.google.com/search/blog"
+  },
+  {
+    "id": "rednafi",
+    "name": "Redowan's Reflections",
+    "url": "https://rednafi.com"
+  },
+  {
+    "id": "martinfowler",
+    "name": "Martin Fowler",
+    "url": "https://martinfowler.com"
   }
 ]
