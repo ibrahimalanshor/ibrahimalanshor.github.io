@@ -2,7 +2,7 @@
 slug: cara-memajukan-memundurkan-tanggal-mysql
 title: Cara Memajukan dan Memundurkan Tanggal di MySQL
 description: Memajukan dan memundurkan tanggal ke interval tertentu di mysql bisa dilakukan dengan fungsi DATE_ADD dan DATE_SUB
-tag: [php]
+tag: [mysql]
 date: 2026-03-31
 thumbnail: ./images/memajukan-memundurkan-tanggal-mysql/thumbnail.png
 ---
