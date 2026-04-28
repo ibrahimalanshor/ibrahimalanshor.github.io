@@ -15,6 +15,11 @@ const { tag: Tag = 'article' } = Astro.props
     [&_pre]:mb-4 [&_pre]:p-4 [&_pre]:rounded-md
     [&_pre_code]:p-0 [&_pre_code]:bg-transparent
     [&_blockquote]:mb-4 [&_blockquote]:border-l-4 [&_blockquote]:border-neutral-200 [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-neutral-400 dark:[&_blockquote]:border-neutral-700
+    [&_table]:border [&_table]:border-neutral-200 [&_table]:mb-4
+    [&_tr]:border [&_tr]:border-neutral-200
+    [&_th]:text-left [&_th]:text-left [&_th]:px-3 [&_th]:py-2 [&_th]:border [&_th]:border-neutral-200 [&_th]:dark:border-neutral-700 [&_th]:dark:text-white
+    [&_td]:px-3 [&_td]:py-2 [&_td]:text-neutral-800 [&_td]:border [&_td]:border-neutral-200 [&_td]:dark:border-neutral-700 dark:[&_td]:text-neutral-300
+    [&_hr]:border-neutral-200
     dark:[&_strong]:text-neutral-100
 `>
 	<slot />
