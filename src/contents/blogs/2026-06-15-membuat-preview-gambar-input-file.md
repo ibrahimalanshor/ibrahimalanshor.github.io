@@ -198,3 +198,5 @@ document.querySelector('#upload')
 Hasilnya ketika dijalankan:
 
 ![Hasil preview gambar input file](./images/membuat-preview-gambar-input-file/hasil.gif)
+
+Baca juga [Cara Styling Input File dengan Tailwind CSS](/blog/styling-input-file-tailwind).
