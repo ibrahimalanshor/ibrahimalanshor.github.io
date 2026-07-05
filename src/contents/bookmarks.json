@@ -40,13 +40,13 @@
     "url": "https://rednafi.com"
   },
   {
-    "id": "martinfowler",
-    "name": "Martin Fowler",
-    "url": "https://martinfowler.com"
-  },
-  {
     "id": "nodejs-blog",
     "name": "Node.js Blog",
     "url": "https://nodejs.org/en/blog"
+  },
+  {
+    "id": "nvie.com",
+    "name": "nvie.com",
+    "url": "https://nvie.com"
   }
 ]
