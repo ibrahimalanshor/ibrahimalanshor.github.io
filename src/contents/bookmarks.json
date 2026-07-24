@@ -58,5 +58,10 @@
     "id": "davidhallin.com",
     "name": "davidhallin.com",
     "url": "https://davidhallin.com"
+  },
+  {
+    "id": "planetscale.com/blog",
+    "name": "Planet Scale Blog",
+    "url": "https://planetscale.com/blog"
   }
 ]
