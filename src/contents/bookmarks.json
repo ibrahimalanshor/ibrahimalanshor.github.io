@@ -63,5 +63,10 @@
     "id": "planetscale.com/blog",
     "name": "Planet Scale Blog",
     "url": "https://planetscale.com/blog"
+  },
+  {
+    "id": "bytebase.com/references",
+    "name": "Bytebase Reference",
+    "url": "https://bytebase.com/references"
   }
 ]
