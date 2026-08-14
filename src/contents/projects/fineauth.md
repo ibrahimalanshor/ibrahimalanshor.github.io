@@ -3,6 +3,7 @@ title: Fine Auth
 summary: Package Laravel untuk Authentikasi Rest API
 description: Package laravel untuk membuat autentikasi pada Rest API 
 icon: twemoji:locked
+order: 5
 ---
 
 Autentikasi Rest API dengan Laravel sebagai backend membutuhkan beberapa endpoint dan mekanisme. Maka saya membuat package untuk kebutuhkan tersebut.

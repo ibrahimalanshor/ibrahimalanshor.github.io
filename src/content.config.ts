@@ -29,7 +29,8 @@ const project = defineCollection({
         title: z.string(),
         summary: z.string(),
         description: z.string(),
-        icon: z.string()
+        icon: z.string(),
+        order: z.number()
     })
 })
 

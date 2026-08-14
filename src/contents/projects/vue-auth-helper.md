@@ -3,6 +3,7 @@ title: Vue Auth Helper
 summary: Package Vue untuk Mengelola Autentikasi pada Rest API
 description: Package Vue untuk mengelola autentikasi pada Rest API 
 icon: twemoji:locked
+order: 4
 ---
 
 Autentikasi di Vue ke Rest API biasanya terdiri dari pengelolaan akses token, guard route, expiry, dsb. Maka saya membuat package untuk kebutuhan tersebut.

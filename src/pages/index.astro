@@ -17,6 +17,8 @@ import { getServices, getPosts } from '../utils'
 const services = await getServices()
 const posts = await getPosts()
 const projects = await getCollection('project')
+
+projects.sort((a, b) => a.data.order - b.data.order)
 ---
 
 <LayoutDefault>
