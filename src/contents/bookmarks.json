@@ -25,11 +25,6 @@
     "url": "https://pawelgrzybek.com"
   },
   {
-    "id": "moderncss",
-    "name": "Modern CSS Solutions",
-    "url": "https://moderncss.dev"
-  },
-  {
     "id": "google-search-central-blog",
     "name": "Google Search Central Blog",
     "url": "https://developers.google.com/search/blog"
@@ -68,5 +63,55 @@
     "id": "bytebase.com/references",
     "name": "Bytebase Reference",
     "url": "https://bytebase.com/references"
+  },
+  {
+    "id": "cylab.be/blog",
+    "name": "Cyclab Blog",
+    "url": "https://cylab.be/blog"
+  },
+  {
+    "id": "hwisnu.bearblog.dev",
+    "name": "HWisnu Blog",
+    "url": "https://hwisnu.bearblog.dev"
+  },
+  {
+    "id": "eradman.com",
+    "name": "Eric Radman",
+    "url": "https://eradman.com"
+  },
+  {
+    "id": "zakuarbor.github.io/index.html",
+    "name": "Random Bits",
+    "url": "https://zakuarbor.github.io/index.html"
+  },
+  {
+    "id": "linux-kernel-labs.github.io",
+    "name": "Linux Kernel Teaching",
+    "url": "https://linux-kernel-labs.github.io"
+  },
+  {
+    "id": "blog.ovhcloud.com/en",
+    "name": "OVHcloud Blog",
+    "url": "https://blog.ovhcloud.com/en"
+  },
+  {
+    "id": "blog.ovhcloud.com/en",
+    "name": "OVHcloud Blog",
+    "url": "https://blog.ovhcloud.com/en"
+  },
+  {
+    "id": "joshtronic.com",
+    "name": "Joshtronic",
+    "url": "https://joshtronic.com"
+  },
+  {
+    "id": "mariozechner.at",
+    "name": "Mario Zechner",
+    "url": "https://mariozechner.at"
+  },
+  {
+    "id": "mariozechner.at",
+    "name": "Mario Zechner",
+    "url": "https://mariozechner.at"
   }
 ]
