@@ -4,7 +4,7 @@ title: "Tutorial Kirim Pesan Whatsapp Melalui API Resmi di Laravel"
 description: "Kirim pesan whatsapp bisa dilakukan di laravel dengan API resimi dari Whatsapp."
 tag: [laravel]
 date: 2026-09-16
-thumbnail: ./images/tailwind-color-pallete/thumbnail.png
+thumbnail: ./images/laravel-kirim-whatsapp/thumbnail.png
 ---
 
 ![Alur Kirim Pesan Whatsapp dari Laravel](./images/laravel-kirim-whatsapp/laravel-whatsapp-cloud-api-flow.png)
