@@ -95,11 +95,6 @@
     "url": "https://blog.ovhcloud.com/en"
   },
   {
-    "id": "blog.ovhcloud.com/en",
-    "name": "OVHcloud Blog",
-    "url": "https://blog.ovhcloud.com/en"
-  },
-  {
     "id": "joshtronic.com",
     "name": "Joshtronic",
     "url": "https://joshtronic.com"
@@ -110,8 +105,48 @@
     "url": "https://mariozechner.at"
   },
   {
-    "id": "mariozechner.at",
-    "name": "Mario Zechner",
-    "url": "https://mariozechner.at"
+    "id": "marcusoft.net",
+    "name": "marcusoft.net",
+    "url": "https://marcusoft.net"
+  },
+  {
+    "id": "dingyuqi.com/en/blog",
+    "name": "Dingyuqi Blog",
+    "url": "https://dingyuqi.com/en/blog"
+  },
+  {
+    "id": "dingyuqi.com/en/blog",
+    "name": "Dingyuqi Blog",
+    "url": "https://dingyuqi.com/en/blog"
+  },
+  {
+    "id": "kernelmaker.github.io",
+    "name": "Zhao Song's Blog",
+    "url": "https://kernelmaker.github.io"
+  },
+  {
+    "id": "gnupg.org/blog",
+    "name": "The GnuPG blog",
+    "url": "https://gnupg.org/blog"
+  },
+  {
+    "id": "jvns.ca",
+    "name": "Julia Evans",
+    "url": "https://jvns.ca"
+  },
+  {
+    "id": "jvns.ca",
+    "name": "Julia Evans",
+    "url": "https://jvns.ca"
+  },
+  {
+    "id": "bunny.net/academy",
+    "name": "Bunny Academy",
+    "url": "https://bunny.net/academy"
+  },
+  {
+    "id": "bunny.net/academy",
+    "name": "Bunny Academy",
+    "url": "https://bunny.net/academy"
   }
 ]
