@@ -4,7 +4,7 @@ title: "Git Workflow: Dari Development Sampai Release"
 description: "Pembahasan git workflow yang biasa saya lakukan dari development sampai release."
 tag: [git]
 date: 2026-10-25
-thumbnail: ./images/menyimpan-auth-token-browser/thumbnail.png
+thumbnail: ./images/git-workflow/thumbnail.png
 ---
 
 <div class="flex justify-center [&_img]:border [&_img]:border-black">
