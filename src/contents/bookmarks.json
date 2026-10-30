@@ -115,11 +115,6 @@
     "url": "https://dingyuqi.com/en/blog"
   },
   {
-    "id": "dingyuqi.com/en/blog",
-    "name": "Dingyuqi Blog",
-    "url": "https://dingyuqi.com/en/blog"
-  },
-  {
     "id": "kernelmaker.github.io",
     "name": "Zhao Song's Blog",
     "url": "https://kernelmaker.github.io"
@@ -135,18 +130,33 @@
     "url": "https://jvns.ca"
   },
   {
-    "id": "jvns.ca",
-    "name": "Julia Evans",
-    "url": "https://jvns.ca"
-  },
-  {
     "id": "bunny.net/academy",
     "name": "Bunny Academy",
     "url": "https://bunny.net/academy"
   },
   {
-    "id": "bunny.net/academy",
-    "name": "Bunny Academy",
-    "url": "https://bunny.net/academy"
+    "id": "lucavallin.com/blog",
+    "name": "Blog | Luca Cavallin",
+    "url": "https://lucavallin.com/blog"
+  },
+  {
+    "id": "clarkkromenaker.com",
+    "name": "Clark Kromenaker",
+    "url": "https://clarkkromenaker.com"
+  },
+  {
+    "id": "clarkkromenaker.com",
+    "name": "Clark Kromenaker",
+    "url": "https://clarkkromenaker.com"
+  },
+  {
+    "id": "bram.us",
+    "name": "Bram.us",
+    "url": "https://bram.us"
+  },
+  {
+    "id": "zend.com/blog",
+    "name": "PHP Blog | Perforce Zend",
+    "url": "https://zend.com/blog"
   }
 ]
