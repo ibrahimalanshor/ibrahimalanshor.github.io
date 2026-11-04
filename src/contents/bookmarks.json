@@ -145,11 +145,6 @@
     "url": "https://clarkkromenaker.com"
   },
   {
-    "id": "clarkkromenaker.com",
-    "name": "Clark Kromenaker",
-    "url": "https://clarkkromenaker.com"
-  },
-  {
     "id": "bram.us",
     "name": "Bram.us",
     "url": "https://bram.us"
@@ -158,5 +153,30 @@
     "id": "zend.com/blog",
     "name": "PHP Blog | Perforce Zend",
     "url": "https://zend.com/blog"
+  },
+  {
+    "id": "stefansf.de/post",
+    "name": "Blog Stefan Schulze Frielinghau",
+    "url": "https://stefansf.de/post"
+  },
+  {
+    "id": "stitcher.io",
+    "name": "Blog | stitcher.io",
+    "url": "https://stitcher.io"
+  },
+  {
+    "id": "laravel.com/blog",
+    "name": "Laravel Blog",
+    "url": "https://laravel.com/blog"
+  },
+  {
+    "id": "laravel.com/blog",
+    "name": "Laravel Blog",
+    "url": "https://laravel.com/blog"
+  },
+  {
+    "id": "laravel-news.com/blog",
+    "name": "Laravel News",
+    "url": "https://laravel-news.com/blog"
   }
 ]
