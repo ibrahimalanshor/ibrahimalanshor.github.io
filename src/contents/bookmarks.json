@@ -170,13 +170,28 @@
     "url": "https://laravel.com/blog"
   },
   {
-    "id": "laravel.com/blog",
-    "name": "Laravel Blog",
-    "url": "https://laravel.com/blog"
-  },
-  {
     "id": "laravel-news.com/blog",
     "name": "Laravel News",
     "url": "https://laravel-news.com/blog"
+  },
+  {
+    "id": "developer.mozilla.org/en-US/blog",
+    "name": "MDN Blog",
+    "url": "https://developer.mozilla.org/en-US/blog"
+  },
+  {
+    "id": "bennadel.com",
+    "name": "Ben Nadel",
+    "url": "https://bennadel.com"
+  },
+  {
+    "id": "joshwcomeau.com",
+    "name": "Josh W. Comeau",
+    "url": "https://joshwcomeau.com"
+  },
+  {
+    "id": "draft.dev/learn",
+    "name": "Technical Content Marketing Blog - Draft.dev",
+    "url": "https://draft.dev/learn"
   }
 ]
