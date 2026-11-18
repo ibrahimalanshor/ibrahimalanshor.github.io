@@ -38,7 +38,7 @@ Jika koneksi gagal maka muncul pesan `error: <pesan>` dan pesan interaktif tidak
 
 ```bash
 wscat -c ws://localhost:8000
-	error: connect ECONNREFUSED 127.0.0.1:8000
+  error: connect ECONNREFUSED 127.0.0.1:8000
 ```
 
 ## Bisakah Test Koneksi Web Socket dengan CURL?
@@ -52,8 +52,8 @@ curl -i --http1.1 \
   -H "Connection: Upgrade" \
   -H "Upgrade: websocket" \
   -H "Sec-WebSocket-Version: 13" \
-  -H "Sec-WebSocket-Key: SGVsbG9Xb3JsZDEyMzQ1Ng==" \
-  http://localhost:8090/app/YOUR_APP_KEY
+  -H "Sec-WebSocket-Key: xxxx" \
+  https://myapp.com
 ```
 
 Jika koneksi websocket berhasil, hasilnya seperti ini
@@ -62,8 +62,14 @@ Jika koneksi websocket berhasil, hasilnya seperti ini
 HTTP/1.1 101 Switching Protocols
 Upgrade: websocket
 Connection: Upgrade
-Sec-WebSocket-Accept: qGEgH3En71di5rrssAZTmtRTyFk=
+Sec-WebSocket-Accept: xxxx
 ```
 
-Jika koneksi gagal hasilnya seperti ini.
+Jika koneksi gagal contoh hasilnya seperti ini.
 
+```bash
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+Not Found
+```
